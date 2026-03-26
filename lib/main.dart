@@ -164,7 +164,7 @@ class _ReleaseCalendarPageState extends State<ReleaseCalendarPage> {
                         ),
                         const Divider(height: 1),
                         SizedBox(
-                          height: 250,
+                          height: 220,
                           child: _SelectedDateMovieList(
                             selectedDate: selectedDate,
                             movies: selectedMovies,
@@ -809,14 +809,16 @@ class MockMovieRepository implements MovieRepository {
 /// }
 class GithubMovieRepository implements MovieRepository {
   final String url =
-      'https://raw.githubusercontent.com/hellostrang2r/movie-calender/main/data/movies.json';
+      'https://raw.githubusercontent.com/hellostrang2r/movie-calendar/main/data/movies.json';
 
   @override
   Future<List<Movie>> fetchMoviesByMonth(
     DateTime firstDay,
     DateTime lastDay,
   ) async {
-    final response = await http.get(Uri.parse(url));
+    final response = await http.get(
+      Uri.parse('$url?t=${DateTime.now().millisecondsSinceEpoch}'),
+    );
 
     if (response.statusCode != 200) {
       throw Exception('영화 데이터를 불러오지 못했습니다.');
