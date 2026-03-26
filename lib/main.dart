@@ -809,7 +809,7 @@ class MockMovieRepository implements MovieRepository {
 /// }
 class GithubMovieRepository implements MovieRepository {
   final String url =
-      'https://raw.githubusercontent.com/hellostrang2r/movie-calender/refs/heads/main/data/movies.json';
+      'https://raw.githubusercontent.com/hellostrang2r/movie-calender/main/data/movies.json';
 
   @override
   Future<List<Movie>> fetchMoviesByMonth(
