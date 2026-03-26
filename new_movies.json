@@ -1,0 +1,767 @@
+[
+  {
+    "movieCd": "20255827",
+    "movieNm": "맛있는 여친 언니",
+    "openDt": "2026-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20255423",
+    "movieNm": "물 빼주는 에스테틱 살롱",
+    "openDt": "2026-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20250523",
+    "movieNm": "결혼해줄래?",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "장완복",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20256787",
+    "movieNm": "노 어더 랜드",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "팔레스타인,노르웨이",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20250413",
+    "movieNm": "다이 마이 러브",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "린 램지",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20241501",
+    "movieNm": "매드 댄스 오피스",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조현진",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20258444",
+    "movieNm": "브라이드!",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "매기 질렌할",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20250875",
+    "movieNm": "우리는 매일매일",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김민재",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20249843",
+    "movieNm": "우리에게는 아직 내일이 있다",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "이탈리아",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20258709",
+    "movieNm": "좀비 랜드 사가: 유메긴가 파라다이스",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20250087",
+    "movieNm": "차임",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "구로사와 기요시",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261694",
+    "movieNm": "투어스 브이알 콘서트 : 러쉬로드",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김지애",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261679",
+    "movieNm": "페루지노. 영원한 르네상스",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "이탈리아",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20256283",
+    "movieNm": "호퍼스",
+    "openDt": "2026-03-04",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "다니엘 총",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261052",
+    "movieNm": "더치스: 복수의 화신",
+    "openDt": "2026-03-05",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "닐 마샬",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262128",
+    "movieNm": "잘 대주는 일본 여사친",
+    "openDt": "2026-03-05",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261871",
+    "movieNm": "허리 업 투모로우",
+    "openDt": "2026-03-05",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "트레이 에드워드 슐츠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261575",
+    "movieNm": "남편보다 굵고 길고 훌륭해",
+    "openDt": "2026-03-06",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20250813",
+    "movieNm": "추억 묻은 긴 막대기 핥는 여자 ",
+    "openDt": "2026-03-06",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20260982",
+    "movieNm": "금지된 불장난 : 아들 친구에게 무너진 육체",
+    "openDt": "2026-03-09",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20247291",
+    "movieNm": "육체관계의 여상사와 아들친구",
+    "openDt": "2026-03-09",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20255828",
+    "movieNm": "처음 뚫린, 두번째 구멍",
+    "openDt": "2026-03-09",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20247321",
+    "movieNm": "치한전철 풍속점의 그녀",
+    "openDt": "2026-03-09",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20247570",
+    "movieNm": "집으로 온 여상사와 딸의 남친",
+    "openDt": "2026-03-10",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20245664",
+    "movieNm": "남장미인에게 헌팅당해 쥐어짜진 여장 남자",
+    "openDt": "2026-03-11",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20245658",
+    "movieNm": "동창회에서 재회한 전 남친에게 빼앗긴 아내",
+    "openDt": "2026-03-11",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261009",
+    "movieNm": "매력적인 가정부",
+    "openDt": "2026-03-11",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20232662",
+    "movieNm": "삼악도",
+    "openDt": "2026-03-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "채기준",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20258074",
+    "movieNm": "아르코",
+    "openDt": "2026-03-11",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "우고 비엔베누",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261642",
+    "movieNm": "오, 발렌타인",
+    "openDt": "2026-03-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "홍진훤",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261596",
+    "movieNm": "콜드 미트",
+    "openDt": "2026-03-11",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20245663",
+    "movieNm": "풍만한 육체로 동정남을 유혹하는 관능적인 누나",
+    "openDt": "2026-03-11",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "드래곤 니시카와",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20249028",
+    "movieNm": "남편은 사랑하지만 몸은 젊은 새아들을 원해",
+    "openDt": "2026-03-13",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261927",
+    "movieNm": "스페셜즈",
+    "openDt": "2026-03-13",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "우치다 에이지",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261905",
+    "movieNm": "우주 수호대: 하하하 행성의 대모험",
+    "openDt": "2026-03-13",
+    "genreNm": "",
+    "nationAlt": "중국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20258158",
+    "movieNm": "극장의 시간들",
+    "openDt": "2026-03-18",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이종필",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261437",
+    "movieNm": "녹나무의 파수꾼",
+    "openDt": "2026-03-18",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "이토 토모히코",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20259553",
+    "movieNm": "드림스",
+    "openDt": "2026-03-18",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "미셸 프랑코",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20241575",
+    "movieNm": "메소드연기",
+    "openDt": "2026-03-18",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이기혁",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261804",
+    "movieNm": "폭탄",
+    "openDt": "2026-03-18",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "나가이 아키라",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261782",
+    "movieNm": "프로젝트 헤일메리",
+    "openDt": "2026-03-18",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "필 로드",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262137",
+    "movieNm": "하이재킹: 메이데이",
+    "openDt": "2026-03-18",
+    "genreNm": "",
+    "nationAlt": "베트남",
+    "director": "함 트란",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20251809",
+    "movieNm": "그 사람 경허(鏡虛) 선사",
+    "openDt": "2026-03-19",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "윤용진",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262544",
+    "movieNm": "맛 보고픈 의붓아들 클라쓰",
+    "openDt": "2026-03-23",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262543",
+    "movieNm": "모델이 된 이모의 야한 도발",
+    "openDt": "2026-03-23",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262450",
+    "movieNm": "글래머라 더 맛있는 여직원",
+    "openDt": "2026-03-25",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20250339",
+    "movieNm": "김~치!",
+    "openDt": "2026-03-25",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "박철현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20253247",
+    "movieNm": "사랑, 우유, 그리고 치즈",
+    "openDt": "2026-03-25",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262451",
+    "movieNm": "아빠 나이 아저씨에 빠진 어린 도우미",
+    "openDt": "2026-03-25",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "19868242",
+    "movieNm": "연지구 디 오리지널 4K",
+    "openDt": "2026-03-25",
+    "genreNm": "",
+    "nationAlt": "홍콩",
+    "director": "관금붕",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20233613",
+    "movieNm": "열여덟 청춘",
+    "openDt": "2026-03-25",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "어일선",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262430",
+    "movieNm": "왜(歪): 더 카르텔",
+    "openDt": "2026-03-25",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20257521",
+    "movieNm": "프로텍터",
+    "openDt": "2026-03-25",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "애드리언 그런버그",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262291",
+    "movieNm": "뮤지컬 장수탕 선녀님",
+    "openDt": "2026-03-26",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조윤수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20255361",
+    "movieNm": "파이 굽는 엄마",
+    "openDt": "2026-03-26",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이종은",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261906",
+    "movieNm": "명탐정 코난: 세기말의 마술사",
+    "openDt": "2026-03-27",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "코다마 켄지",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262179",
+    "movieNm": "펫 트레인",
+    "openDt": "2026-03-28",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261666",
+    "movieNm": "네가 마지막으로 남긴 노래",
+    "openDt": "2026-04-01",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "미키 타카히로",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20259598",
+    "movieNm": "두 검사",
+    "openDt": "2026-04-01",
+    "genreNm": "",
+    "nationAlt": "프랑스,독일,네덜란드",
+    "director": "세르게이 로즈니차",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261731",
+    "movieNm": "류이치 사카모토: 다이어리",
+    "openDt": "2026-04-01",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262053",
+    "movieNm": "소녀심판",
+    "openDt": "2026-04-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "류광현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20243842",
+    "movieNm": "술타나의 꿈",
+    "openDt": "2026-04-01",
+    "genreNm": "",
+    "nationAlt": "스페인",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262101",
+    "movieNm": "킬 빌: 더 홀 블러디 어페어",
+    "openDt": "2026-04-01",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "쿠엔틴 타란티노",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20192680",
+    "movieNm": "끝장수사",
+    "openDt": "2026-04-02",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "박철환",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20256103",
+    "movieNm": "모래그릇",
+    "openDt": "2026-04-02",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262463",
+    "movieNm": "오피셜히게단디즘 라이브 앳 스타디움 2025",
+    "openDt": "2026-04-02",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262327",
+    "movieNm": "특별편집판 기동전사 건담 철혈의 오펀스 우르드 헌트 -작은 도전자의 궤적-",
+    "openDt": "2026-04-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "나가이 타츠유키",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20254121",
+    "movieNm": "살목지",
+    "openDt": "2026-04-08",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이상민",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262710",
+    "movieNm": "엔하이픈 : 이머전 인 시네마",
+    "openDt": "2026-04-08",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김경국",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261622",
+    "movieNm": "위 리브 인 타임",
+    "openDt": "2026-04-08",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "존 크로울리",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262343",
+    "movieNm": "크라임 101",
+    "openDt": "2026-04-08",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "바트 레이튼",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262648",
+    "movieNm": "런닝맨: 라이트&쉐도우",
+    "openDt": "2026-04-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "윤준상",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20247648",
+    "movieNm": "내 이름은",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정지영",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20247490",
+    "movieNm": "누룩",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "장동윤",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262204",
+    "movieNm": "류이치 사카모토: 도쿄 멜로디 ",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "엘리자베스 레나드",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20250411",
+    "movieNm": "미야자키 하야오의 그대들은 어떻게 살 것인가",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262541",
+    "movieNm": "빨간 나라를 보았니",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262383",
+    "movieNm": "쉘터",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "릭 로먼 워",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262202",
+    "movieNm": "침묵의 친구",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "독일",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262441",
+    "movieNm": "퀸 락 몬트리올",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "사울 스위머",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20259339",
+    "movieNm": "힌드의 목소리",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262811",
+    "movieNm": "극장판 총집편 걸즈 밴드 크라이 있잖아, 미래.",
+    "openDt": "2026-04-16",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사카이 카즈오",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20244564",
+    "movieNm": "새벽의 Tango",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김효은",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20240532",
+    "movieNm": "짱구",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정우",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20259773",
+    "movieNm": "슈퍼 마리오 갤럭시",
+    "openDt": "2026-04-29",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  }
+]

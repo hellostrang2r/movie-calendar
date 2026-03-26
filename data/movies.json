@@ -1,0 +1,2585 @@
+[
+  {
+    "movieCd": "20208962",
+    "movieNm": "대외비",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이원태",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230523",
+    "movieNm": "더 웨일",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "대런 아로노프스키",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230596",
+    "movieNm": "리틀 엘렌: 외계인과 안테나 대소동",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "덴마크",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227684",
+    "movieNm": "멍뭉이",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김주환",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20206184",
+    "movieNm": "민족 ",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이세원",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230495",
+    "movieNm": "아임 히어로 더 파이널",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "오윤동",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230340",
+    "movieNm": "에브리씽 에브리웨어 올 앳 원스+",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "다니엘 콴",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226883",
+    "movieNm": "여기도 사람 있어요",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김충길",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230460",
+    "movieNm": "크리드 3",
+    "openDt": "2023-03-01",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "마이클 B. 조던",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230533",
+    "movieNm": "귀멸의 칼날: 상현집결, 그리고 도공 마을로",
+    "openDt": "2023-03-02",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "소토자키 하루오",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20229095",
+    "movieNm": "4인4섹",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이타치",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230170",
+    "movieNm": "그녀는 구멍봉사자",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20229012",
+    "movieNm": "꺾여버린 가슴 무삭제판",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230110",
+    "movieNm": "땀샘터진 아내의 엄마",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "버드맨 텟페이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20229179",
+    "movieNm": "맛가버린 맛사지 무삭제판",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239950",
+    "movieNm": "보지만 말고 넣어",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239783",
+    "movieNm": "세웠더니 싸드라 무삭제판",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230761",
+    "movieNm": "스와핑 스튜디오",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이상수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239934",
+    "movieNm": "신입 여사원: 출장업무",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신세계",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230128",
+    "movieNm": "옆집엄마 맛있더라",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230153",
+    "movieNm": "옆집엄마가 알려준 그 맛",
+    "openDt": "2023-03-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226025",
+    "movieNm": "쓰리썸 : 여비서와 아내 무삭제",
+    "openDt": "2023-03-06",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "최경찬",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230705",
+    "movieNm": "대물 사장에 길들여진 여비서 ",
+    "openDt": "2023-03-07",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "나가에",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230694",
+    "movieNm": "삽입하면 죽지않는 물건",
+    "openDt": "2023-03-07",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230082",
+    "movieNm": "6번 칸",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "독일,핀란드,러시아,에스토니아",
+    "director": "유호 쿠오스마넨",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230769",
+    "movieNm": "굶주린 여자들:질펀한 봉사",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20219457",
+    "movieNm": "그대 어이가리",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이창열",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230200",
+    "movieNm": "똑똑똑",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "M. 나이트 샤말란",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230783",
+    "movieNm": "미대생 유메:끈적이는 누드수업",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230622",
+    "movieNm": "바닷가에서 따먹는 전복맛",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "핑마",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226270",
+    "movieNm": "스즈메의 문단속",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "신카이 마코토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230765",
+    "movieNm": "쏜애플 불구경 2022 라이브 콘서트 필름",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "금강산",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230648",
+    "movieNm": "애니씽 고즈: 라이브 인 런던",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230776",
+    "movieNm": "어린 자매의 맛",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정하윤",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228916",
+    "movieNm": "콜 제인",
+    "openDt": "2023-03-08",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "필리스 나기",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230530",
+    "movieNm": "나에겐 로맨스",
+    "openDt": "2023-03-09",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "선우용",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239615",
+    "movieNm": "아내를 빌려드립니다",
+    "openDt": "2023-03-09",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이시영",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239734",
+    "movieNm": "양성애자 남자와 여자사이",
+    "openDt": "2023-03-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이타치",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228306",
+    "movieNm": "잘 벌리는 옆집여자",
+    "openDt": "2023-03-10",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230780",
+    "movieNm": "하타노 유이의 대물 수집",
+    "openDt": "2023-03-10",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "이시다 마모루",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230808",
+    "movieNm": "내 침대에서 촉촉히 준비된 여사친",
+    "openDt": "2023-03-11",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사쿠라비토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230807",
+    "movieNm": "위아래 즐겨주는 육덕 꿀덩이",
+    "openDt": "2023-03-11",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "히무 롯쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230825",
+    "movieNm": "젖은 여사친 속궁합이 궁금해",
+    "openDt": "2023-03-12",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "히무 롯쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230824",
+    "movieNm": "제수씨는 매일 흥분해",
+    "openDt": "2023-03-12",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사쿠라비토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230826",
+    "movieNm": "홍콩 가자!남자를 너무 잘 알아",
+    "openDt": "2023-03-12",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사쿠라비토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226024",
+    "movieNm": "여자 배달부 무삭제",
+    "openDt": "2023-03-13",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "최경찬",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230858",
+    "movieNm": "대물 남자 도우미",
+    "openDt": "2023-03-14",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이선이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230111",
+    "movieNm": "맛난 첫사랑",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "아사기리 키요시",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230081",
+    "movieNm": "샤잠! 신들의 분노",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "데이비드 F. 샌드버그",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230802",
+    "movieNm": "세자매 노래방",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "함성한",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20197654",
+    "movieNm": "소울메이트",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "민용근",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230712",
+    "movieNm": "어떤 영웅",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "아쉬가르 파라디",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230611",
+    "movieNm": "이니셰린의 밴시",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "마틴 맥도나",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230621",
+    "movieNm": "이스케이프: 더블 타겟",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "쉐인 스탠리",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230650",
+    "movieNm": "친구에게 빼앗긴 내 애인",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "성운아",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230199",
+    "movieNm": "플레인",
+    "openDt": "2023-03-15",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "장-프랑소와 리셰",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230184",
+    "movieNm": "블라스트: 폭탄제거반",
+    "openDt": "2023-03-16",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230871",
+    "movieNm": "새아들:널 위한 밤",
+    "openDt": "2023-03-17",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "츠지 코지",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230872",
+    "movieNm": "술도녀:하고 보니 옆집남자",
+    "openDt": "2023-03-17",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230853",
+    "movieNm": "육덕장모:딸,미안해",
+    "openDt": "2023-03-17",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "츠지 코지",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230852",
+    "movieNm": "출장AS:여기도 고쳐줘요",
+    "openDt": "2023-03-17",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230484",
+    "movieNm": "치킨래빗: 잃어버린 보물을 찾아서",
+    "openDt": "2023-03-18",
+    "genreNm": "",
+    "nationAlt": "벨기에,프랑스",
+    "director": "벤 스타센",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239938",
+    "movieNm": "남편의 죄를 몸으로 때우는 아내",
+    "openDt": "2023-03-20",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228975",
+    "movieNm": "베리얼: 라스트 미션",
+    "openDt": "2023-03-20",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230859",
+    "movieNm": "MZ세대 스와핑",
+    "openDt": "2023-03-21",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이주이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230958",
+    "movieNm": "몸으로 영업하는 50대 육덕 아줌마",
+    "openDt": "2023-03-21",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "카니에",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230921",
+    "movieNm": "미용실 : 특별한 서비스 6 무삭제",
+    "openDt": "2023-03-21",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신승엽",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230784",
+    "movieNm": "떡정 길들여진 여자들",
+    "openDt": "2023-03-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이타치",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20224780",
+    "movieNm": "모나리자와 블러드 문",
+    "openDt": "2023-03-22",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "애나 릴리 아미푸르",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20210544",
+    "movieNm": "웅남이",
+    "openDt": "2023-03-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "박성광",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20211683",
+    "movieNm": "차별",
+    "openDt": "2023-03-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김지운",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230608",
+    "movieNm": "틸",
+    "openDt": "2023-03-22",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "치노늬 추크우",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230767",
+    "movieNm": "파벨만스",
+    "openDt": "2023-03-22",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "스티븐 스필버그",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230424",
+    "movieNm": "팔로우드",
+    "openDt": "2023-03-22",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "앙트완 르",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239905",
+    "movieNm": "꼬마돼지 베이브의 바다 대모험",
+    "openDt": "2023-03-23",
+    "genreNm": "",
+    "nationAlt": "중국",
+    "director": "종위",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230173",
+    "movieNm": "넣지 않아야 할것을 넣은 자",
+    "openDt": "2023-03-23",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사쿠라비토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "2023C501",
+    "movieNm": "더 벙커",
+    "openDt": "2023-03-23",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "닐 마샬",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230542",
+    "movieNm": "더럽혀진 제수씨",
+    "openDt": "2023-03-23",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사쿠라비토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239716",
+    "movieNm": "여친의 조력자",
+    "openDt": "2023-03-23",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "윤수현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230629",
+    "movieNm": "친절한 제수씨",
+    "openDt": "2023-03-23",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "버드맨 텟페이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230496",
+    "movieNm": "포커페이스",
+    "openDt": "2023-03-23",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "러셀 크로우",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231030",
+    "movieNm": "가사도우미 풀서비스 침대로 가요",
+    "openDt": "2023-03-24",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "이시다 마모루",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227302",
+    "movieNm": "직설적인 과외누나",
+    "openDt": "2023-03-24",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이가온",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226006",
+    "movieNm": "2대2 할래? 무삭제",
+    "openDt": "2023-03-26",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "민병관",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226873",
+    "movieNm": "먹고 싶은 친구아내 무삭제",
+    "openDt": "2023-03-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "한승민",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231016",
+    "movieNm": "섀도우 마스터",
+    "openDt": "2023-03-27",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "피어리 레저널드 테오",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231068",
+    "movieNm": "골프걸 두개의 구멍",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정윤희",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239955",
+    "movieNm": "나의 연인에게",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "독일",
+    "director": "앤 조라 베라치드",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226410",
+    "movieNm": "던전 앤 드래곤: 도적들의 명예",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239957",
+    "movieNm": "무한궤도 (가면속의 거짓말)",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김문옥",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239665",
+    "movieNm": "블루 서멀, 같은 하늘을 보고 싶어 ",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "타치바나 마사키",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230747",
+    "movieNm": "샷건 웨딩",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "제이슨 무어",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230742",
+    "movieNm": "엘 카미노",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "손미나",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230696",
+    "movieNm": "여덟 번째 감각",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "백인우",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20224646",
+    "movieNm": "여섯 개의 밤",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "최창환",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230641",
+    "movieNm": "오토라는 남자",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "마크 포스터",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230652",
+    "movieNm": "찬란한 나의 복수",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "임성운",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20211545",
+    "movieNm": "흐르다",
+    "openDt": "2023-03-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김현정",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230613",
+    "movieNm": "나의 이웃 히틀러",
+    "openDt": "2023-03-30",
+    "genreNm": "",
+    "nationAlt": "이스라엘,콜롬비아,폴란드",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231001",
+    "movieNm": "밤낮 없는 택시 기사 : 나 하고 싶어",
+    "openDt": "2023-03-30",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "이시다 마모루",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230630",
+    "movieNm": "서유기:저팔계의 반란",
+    "openDt": "2023-03-30",
+    "genreNm": "",
+    "nationAlt": "중국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231008",
+    "movieNm": "친구의 여자를 뺐었습니다",
+    "openDt": "2023-03-30",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "한문애",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230993",
+    "movieNm": "귀신이 싼다 ",
+    "openDt": "2023-03-31",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신성진",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230866",
+    "movieNm": "그녀가 순결했던 이유",
+    "openDt": "2023-03-31",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "박나은",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230864",
+    "movieNm": "꿈처럼 달콤한 삽입",
+    "openDt": "2023-03-31",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "박나은",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226204",
+    "movieNm": "댄스 교습소에서 생긴 일",
+    "openDt": "2023-03-31",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "윤준세",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20229493",
+    "movieNm": "맛있는 간통",
+    "openDt": "2023-03-31",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김도현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230960",
+    "movieNm": "맛있는 여상사의 핫바디",
+    "openDt": "2023-03-31",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "코엔지 고로",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230770",
+    "movieNm": "탁탁탁",
+    "openDt": "2023-03-31",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "윤준세",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231123",
+    "movieNm": "사쿠라",
+    "openDt": "2023-04-01",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "야자키 히토시",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239942",
+    "movieNm": "밑에 좀 빨아주세요 - 사치코",
+    "openDt": "2023-04-02",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "비바 곤조",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228601",
+    "movieNm": "2대1 나눠먹기",
+    "openDt": "2023-04-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "지아민",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231099",
+    "movieNm": "소원을 빨아봐",
+    "openDt": "2023-04-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조태석",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226489",
+    "movieNm": "리바운드",
+    "openDt": "2023-04-05",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "장항준",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226881",
+    "movieNm": "뮤턴트 이스케이프",
+    "openDt": "2023-04-05",
+    "genreNm": "",
+    "nationAlt": "캐나다",
+    "director": "숀 패트릭 오렐리",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230804",
+    "movieNm": "불멸의 여자",
+    "openDt": "2023-04-05",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "최종태",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231010",
+    "movieNm": "에어",
+    "openDt": "2023-04-05",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "벤 애플렉",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20211047",
+    "movieNm": "오늘 출가합니다",
+    "openDt": "2023-04-05",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김성환",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20212372",
+    "movieNm": "장기자랑",
+    "openDt": "2023-04-05",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이소현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231144",
+    "movieNm": "곰돌이 푸: 피와 꿀",
+    "openDt": "2023-04-06",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231023",
+    "movieNm": "솔라 플라워",
+    "openDt": "2023-04-06",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "한경탁",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230771",
+    "movieNm": "심야의 개인비서",
+    "openDt": "2023-04-06",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "윤준세",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230764",
+    "movieNm": "오글리스: 웰컴 투 냄새 마을",
+    "openDt": "2023-04-06",
+    "genreNm": "",
+    "nationAlt": "독일",
+    "director": "토비 젠켈",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231035",
+    "movieNm": "카구야 님은 고백받고 싶어 -첫 키스는 끝나지 않아-",
+    "openDt": "2023-04-06",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "하타케야마 마모루",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230986",
+    "movieNm": "회의실에서 맛본 여직원",
+    "openDt": "2023-04-06",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "한문애",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230795",
+    "movieNm": "도희야",
+    "openDt": "2023-04-07",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신세계",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226446",
+    "movieNm": "비밀 : 친구와 쓰리썸 무삭제",
+    "openDt": "2023-04-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "민병관",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231071",
+    "movieNm": "치치핑핑의 쿵쿵따 탐험대",
+    "openDt": "2023-04-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이광범",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228064",
+    "movieNm": "여직원들 : 점심대신 떡 무삭제",
+    "openDt": "2023-04-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "한만규",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231009",
+    "movieNm": "거울 속 외딴 성",
+    "openDt": "2023-04-12",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "하라 케이이치",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20219473",
+    "movieNm": "나는 여기에 있다",
+    "openDt": "2023-04-12",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신근호",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231091",
+    "movieNm": "라스트 필름 쇼",
+    "openDt": "2023-04-12",
+    "genreNm": "",
+    "nationAlt": "인도,프랑스,미국",
+    "director": "판 나린",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230777",
+    "movieNm": "물안에서",
+    "openDt": "2023-04-12",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "홍상수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231090",
+    "movieNm": "밥만 잘 사주는 이상한 이사님 극장판",
+    "openDt": "2023-04-12",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "양경희",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20224475",
+    "movieNm": "사랑의 고고학",
+    "openDt": "2023-04-12",
+    "genreNm": "",
+    "nationAlt": "한국,프랑스",
+    "director": "이완민",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20205664",
+    "movieNm": "제비",
+    "openDt": "2023-04-12",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이송희일",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231089",
+    "movieNm": "존 윅 4",
+    "openDt": "2023-04-12",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "채드 스타헬스키",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231229",
+    "movieNm": "메탈리카: 72 시즌스",
+    "openDt": "2023-04-13",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "팀 색센티",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231257",
+    "movieNm": "본능적인 짝짓기",
+    "openDt": "2023-04-13",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이시영",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20210207",
+    "movieNm": "불량탐정 레거시",
+    "openDt": "2023-04-13",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "리차드 킴",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231266",
+    "movieNm": "은밀한 하숙집",
+    "openDt": "2023-04-13",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "리차드 킴",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231215",
+    "movieNm": "노브라 글레머 바디쉐어",
+    "openDt": "2023-04-14",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231190",
+    "movieNm": "정신 잃은 제수씨",
+    "openDt": "2023-04-14",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231161",
+    "movieNm": "중년부부 스와핑 워크샵",
+    "openDt": "2023-04-14",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김태훈",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231031",
+    "movieNm": "커밍아웃 내 여자의 여자",
+    "openDt": "2023-04-14",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이타치",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20200154",
+    "movieNm": "킬링 로맨스",
+    "openDt": "2023-04-14",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이원석",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230138",
+    "movieNm": "하룻밤",
+    "openDt": "2023-04-16",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "시라이시 카즈야",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231219",
+    "movieNm": "의붓아들 방문 여는 헤픈엄마",
+    "openDt": "2023-04-17",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사쿠라비토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231222",
+    "movieNm": "옆집빅걸 찰진 속궁합",
+    "openDt": "2023-04-18",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231195",
+    "movieNm": "젖은돌싱 넘치는 샘물",
+    "openDt": "2023-04-18",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231163",
+    "movieNm": "귀를 기울이면",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "히라카와 유이치로",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20217412",
+    "movieNm": "낭만적 공장",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조은성",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227863",
+    "movieNm": "라이스보이 슬립스",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "캐나다",
+    "director": "앤소니 심",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231244",
+    "movieNm": "렌필드",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "크리스 맥케이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231224",
+    "movieNm": "맘마미아!엄마라고 불러봐",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "요시다 올리베트",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230967",
+    "movieNm": "보이지 않아",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "천세환",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228649",
+    "movieNm": "오디션",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "미이케 다카시",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20225865",
+    "movieNm": "옥수역귀신",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "한국,일본",
+    "director": "정용기",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231356",
+    "movieNm": "천개의 별 이야기 더 시리즈",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "기타",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231259",
+    "movieNm": "콜드플레이 뮤직 오브 더 스피어스: 라이브 앳 리버 플레이트",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227889",
+    "movieNm": "튤립 모양",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "양윤모",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231223",
+    "movieNm": "하렘재팬 놀 줄 아는 여자들",
+    "openDt": "2023-04-19",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "쿠와치",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231004",
+    "movieNm": "65",
+    "openDt": "2023-04-20",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "스콧 벡",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231199",
+    "movieNm": "살룸의 하이에나",
+    "openDt": "2023-04-20",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "쟝 뤽 에르뷜로",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231106",
+    "movieNm": "아머드 사우루스: 기계공룡제국의 침략",
+    "openDt": "2023-04-20",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "강대일",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230988",
+    "movieNm": "찐득하게 조여오는 육덕녀",
+    "openDt": "2023-04-20",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "서영",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231343",
+    "movieNm": "캐리 러브콘서트 케이팝",
+    "openDt": "2023-04-20",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이미리",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228379",
+    "movieNm": "동생이 돌아올때까지 몇번이나 제부와",
+    "openDt": "2023-04-21",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "코지마 유키오",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226464",
+    "movieNm": "사위 사랑은 장모 3 무삭제",
+    "openDt": "2023-04-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "민정현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226511",
+    "movieNm": "마누라 바꿔먹기 무삭제",
+    "openDt": "2023-04-24",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "민정현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231285",
+    "movieNm": "직장동료 여직원과 호텔숙박3",
+    "openDt": "2023-04-24",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "니시다 류지",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239972",
+    "movieNm": "스마일 어게인",
+    "openDt": "2023-04-25",
+    "genreNm": "",
+    "nationAlt": "아르헨티나",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20198482",
+    "movieNm": "드림",
+    "openDt": "2023-04-26",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이병헌",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231164",
+    "movieNm": "무명",
+    "openDt": "2023-04-26",
+    "genreNm": "",
+    "nationAlt": "중국",
+    "director": "청어",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227890",
+    "movieNm": "슈퍼 마리오 브라더스",
+    "openDt": "2023-04-26",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231386",
+    "movieNm": "자매의젖은성감대-무삭제",
+    "openDt": "2023-04-26",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김레이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20112775",
+    "movieNm": "자전거 도둑",
+    "openDt": "2023-04-26",
+    "genreNm": "",
+    "nationAlt": "이탈리아",
+    "director": "비토리오 데 시카",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231478",
+    "movieNm": "젖 큰 자매들 2",
+    "openDt": "2023-04-26",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김수영",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230810",
+    "movieNm": "피기",
+    "openDt": "2023-04-26",
+    "genreNm": "",
+    "nationAlt": "스페인",
+    "director": "카를로타 페레다",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230522",
+    "movieNm": "2퍼센트",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "문신구",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230528",
+    "movieNm": "그녀의 입 안 가득 채운 대물",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조불근",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231353",
+    "movieNm": "글래머 강남 언니",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신혜영",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231380",
+    "movieNm": "롱 플레이스",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230499",
+    "movieNm": "신입사원 대물 맛보는 여상사",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조불근",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231435",
+    "movieNm": "아지매의 뒷문 단속",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "야신수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231409",
+    "movieNm": "하숙집 딸내미들",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "야신수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20210846",
+    "movieNm": "항구의 니쿠코짱!",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "와타나베 아유무",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231333",
+    "movieNm": "흥건히 젖은 여직원과 직장 상사",
+    "openDt": "2023-04-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신혜영",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231436",
+    "movieNm": "골프 서비스",
+    "openDt": "2023-04-28",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김대성",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231235",
+    "movieNm": "육덕녀의 출렁이는 몸과 마음",
+    "openDt": "2023-04-28",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "오대성",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231247",
+    "movieNm": "형님에게 빼앗긴 여친",
+    "openDt": "2023-04-28",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "오대성",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226419",
+    "movieNm": "2대1 출장녀 무삭제",
+    "openDt": "2023-04-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김지석",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231321",
+    "movieNm": "빚 대신 내 아내를 빌려줄게요",
+    "openDt": "2023-04-29",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239699",
+    "movieNm": "그 아이는 귀족",
+    "openDt": "2023-05-01",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231522",
+    "movieNm": "내 여자친구의 엄마",
+    "openDt": "2023-05-02",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "용피디",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227382",
+    "movieNm": "입양딸 : 여자가 되다 무삭제 ",
+    "openDt": "2023-05-02",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "민정현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231539",
+    "movieNm": "13 미닛츠",
+    "openDt": "2023-05-03",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231124",
+    "movieNm": "X같은 상사의 연하 와이프",
+    "openDt": "2023-05-03",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "포스타",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231496",
+    "movieNm": "가디언즈 오브 갤럭시: Volume 3",
+    "openDt": "2023-05-03",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "제임스 건",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231460",
+    "movieNm": "남편 상사에게 몸으로 내조하는 아내",
+    "openDt": "2023-05-03",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "핑마",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20225512",
+    "movieNm": "리턴 투 서울",
+    "openDt": "2023-05-03",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "데이비 추",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231544",
+    "movieNm": "뮤지컬 공연실황, 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>",
+    "openDt": "2023-05-03",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "홍승희",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230129",
+    "movieNm": "상담받다 물터진 미시녀2",
+    "openDt": "2023-05-03",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "카리노나 마이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227952",
+    "movieNm": "클로즈",
+    "openDt": "2023-05-03",
+    "genreNm": "",
+    "nationAlt": "벨기에,네덜란드,프랑스",
+    "director": "루카스 돈트",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230152",
+    "movieNm": "그녀는 구멍봉사자 무삭제판",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239671",
+    "movieNm": "그녀의 조갯살 무삭제판",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239795",
+    "movieNm": "그녀의 조건 배달",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "윤수현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231348",
+    "movieNm": "극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "하시모토 마사카즈",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231653",
+    "movieNm": "대물선배와 쓰리섬",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김수영",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231354",
+    "movieNm": "대물에 놀아난 여자",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김연희",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20239791",
+    "movieNm": "먼저맛본 옆집엄마 무삭제판",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230108",
+    "movieNm": "옆집엄마 맛있더라 무삭제판",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230171",
+    "movieNm": "옆집엄마가 알려준 그 맛 무삭제판",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "모소조쿠",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231334",
+    "movieNm": "죽어도 꼭 한번 넣고 싶은 글래머",
+    "openDt": "2023-05-04",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김연희",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230785",
+    "movieNm": "다른 구멍",
+    "openDt": "2023-05-05",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이타치",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228374",
+    "movieNm": "비밀 : 나쁜 관계",
+    "openDt": "2023-05-06",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "박인우",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226862",
+    "movieNm": "계부에 빠진 딸 무삭제",
+    "openDt": "2023-05-08",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김만석",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20229295",
+    "movieNm": "쓰리썸 : 남자 따먹기",
+    "openDt": "2023-05-09",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "유영주",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20218656",
+    "movieNm": "롱디",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "임재완",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231437",
+    "movieNm": "문재인입니다",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이창재",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231614",
+    "movieNm": "뮤지컬 더 데빌 2018",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조윤수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231212",
+    "movieNm": "바람개비",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이상훈",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231515",
+    "movieNm": "부장님 : 제 아내와 해주세요",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "나가에",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230943",
+    "movieNm": "스트리머",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "장형모",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231494",
+    "movieNm": "엑소시스트: 더 바티칸",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "줄리어스 에이버리",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231635",
+    "movieNm": "연상의 맛 2",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "하은수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231143",
+    "movieNm": "유랑지구2",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "중국",
+    "director": "프란트 궈",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231363",
+    "movieNm": "토리와 로키타",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "벨기에,프랑스",
+    "director": "장 피에르 다르덴",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231554",
+    "movieNm": "포트리스: 더 벙커",
+    "openDt": "2023-05-10",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231615",
+    "movieNm": "뮤지컬 더 데빌 2021",
+    "openDt": "2023-05-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조윤수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231616",
+    "movieNm": "뮤지컬 호프",
+    "openDt": "2023-05-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조윤수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231336",
+    "movieNm": "잘 세워주는 식모 누나",
+    "openDt": "2023-05-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "박응덕",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231335",
+    "movieNm": "처음부터 젖어버린 숫처녀",
+    "openDt": "2023-05-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정하국",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231342",
+    "movieNm": "초대의 법칙",
+    "openDt": "2023-05-11",
+    "genreNm": "",
+    "nationAlt": "기타",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231217",
+    "movieNm": "칠중주: 홍콩 이야기",
+    "openDt": "2023-05-11",
+    "genreNm": "",
+    "nationAlt": "홍콩",
+    "director": "홍금보",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231610",
+    "movieNm": "네토라레:내 아내가 다른남자와 한다",
+    "openDt": "2023-05-12",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사쿠라비토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226861",
+    "movieNm": "7일간의 스와핑 무삭제",
+    "openDt": "2023-05-13",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김만석",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231580",
+    "movieNm": "젊은장모:속사정 들킨 날",
+    "openDt": "2023-05-13",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "츠지 코지",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231582",
+    "movieNm": "친구 여동생:대담한 손놀림",
+    "openDt": "2023-05-13",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "카오루",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231640",
+    "movieNm": "기둥서방 내사랑 사위",
+    "openDt": "2023-05-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신쥬쿠 조쎈빠이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226875",
+    "movieNm": "친구부부와 2대2 무삭제",
+    "openDt": "2023-05-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조상훈",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "2023C109",
+    "movieNm": "데우스",
+    "openDt": "2023-05-16",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231620",
+    "movieNm": "바깥 나라의 소녀",
+    "openDt": "2023-05-16",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "쿠보 유타로",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227368",
+    "movieNm": "여교사 : 나의 몽정시대 무삭제",
+    "openDt": "2023-05-16",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "한만규",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231708",
+    "movieNm": "MZ세대 슬기로운 골프생활",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이지연",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20230112",
+    "movieNm": "날 누른 남편상사",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "토미죠 타로",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231693",
+    "movieNm": "대물남편:1일 3섹은 기본",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20224758",
+    "movieNm": "말이야 바른 말이지",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김소형",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231481",
+    "movieNm": "메리 마이 데드 바디",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "대만",
+    "director": "청웨이하오",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231592",
+    "movieNm": "분노의 질주: 라이드 오어 다이",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "루이스 리테리어",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231029",
+    "movieNm": "슬픔의 삼각형",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "루벤 외스틀룬드",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231021",
+    "movieNm": "울지마 엄마",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이호경",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231682",
+    "movieNm": "친구 누나:플레이가 죽여줘",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "나베",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231674",
+    "movieNm": "플레이 뮤지컬 핑크퐁과 아기상어의 생일파티 대소동",
+    "openDt": "2023-05-17",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김민석",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231427",
+    "movieNm": "거신: 바람의 아이",
+    "openDt": "2023-05-18",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "신창섭",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231454",
+    "movieNm": "극장판 리틀 슈퍼맨 샘샘",
+    "openDt": "2023-05-18",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228900",
+    "movieNm": "남자는 처음을 원하고 여자는 마지막을 원한다",
+    "openDt": "2023-05-18",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이현준",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231337",
+    "movieNm": "뜨거운 여자들",
+    "openDt": "2023-05-18",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "변기주",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231355",
+    "movieNm": "불쌍해서 넣게 해준 오빠 대물",
+    "openDt": "2023-05-18",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "오덕희",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231456",
+    "movieNm": "페이퍼 스파이더스",
+    "openDt": "2023-05-18",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231710",
+    "movieNm": "너무 하고싶어 찾아온 돌싱맘",
+    "openDt": "2023-05-19",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231711",
+    "movieNm": "대물 맛에 느껴버린 여자들",
+    "openDt": "2023-05-19",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "하스시이",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231305",
+    "movieNm": "창녀를 사랑한 남자",
+    "openDt": "2023-05-19",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이타치",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231737",
+    "movieNm": "첫사랑:속궁합이 너무 잘 맞아",
+    "openDt": "2023-05-20",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "코엔지 고로",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231712",
+    "movieNm": "흠뻑 젖어 속비치는 직장녀들",
+    "openDt": "2023-05-20",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "코엔지 고로",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20227100",
+    "movieNm": "중고마켓 : 쎅파 구하기 무삭제 ",
+    "openDt": "2023-05-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "민정현",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231677",
+    "movieNm": "남은 인생 10년",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "후지이 미치히토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231330",
+    "movieNm": "내 아내 이야기",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "독일",
+    "director": "일디코 엔예디",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231843",
+    "movieNm": "스크림6",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "맷 베티넬리-올핀",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20211541",
+    "movieNm": "스프린터",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "최승연",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231842",
+    "movieNm": "여대생 은밀한 알바",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "조현규",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231601",
+    "movieNm": "은밀한곳 젖은 친구엄마",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "아사기리 키요시",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231839",
+    "movieNm": "인어공주",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "롭 마샬",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231637",
+    "movieNm": "줄리아의 인생극장",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "올리비에 트레네",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20158357",
+    "movieNm": "카일리 블루스",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "중국",
+    "director": "필감",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231600",
+    "movieNm": "흠뻑 젖어버린 방",
+    "openDt": "2023-05-24",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "아사기리 키요시",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231823",
+    "movieNm": "공유 오피스",
+    "openDt": "2023-05-25",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "한동호",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228030",
+    "movieNm": "사슴의 왕",
+    "openDt": "2023-05-25",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "미야지 마사유키",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231705",
+    "movieNm": "한 맺힌 처녀의 넘치는 봇물",
+    "openDt": "2023-05-25",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "차은유",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231639",
+    "movieNm": "관음 버라이어티 베이글녀의 사생활",
+    "openDt": "2023-05-26",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "서필벅",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20226502",
+    "movieNm": "남자의 로망 : 2대1 무삭제",
+    "openDt": "2023-05-26",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이승규",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231946",
+    "movieNm": "이스케이프 더 보트",
+    "openDt": "2023-05-26",
+    "genreNm": "",
+    "nationAlt": "이탈리아",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231547",
+    "movieNm": "빅트립2: 아기곰 배달 대작전",
+    "openDt": "2023-05-27",
+    "genreNm": "",
+    "nationAlt": "러시아",
+    "director": "바실리 로벤스키",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20228091",
+    "movieNm": "스와핑 : 엄마와 딸 무삭제",
+    "openDt": "2023-05-29",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "한만규",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231806",
+    "movieNm": "그녀는 점쟁이 : 내 몸을 허락해줘",
+    "openDt": "2023-05-30",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "사쿠라비토",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231805",
+    "movieNm": "수컷 냄새 찾는 하숙생 아줌마",
+    "openDt": "2023-05-30",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20231807",
+    "movieNm": "알몸 그리는 여대생 : 세워드릴게요",
+    "openDt": "2023-05-30",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "디렉터 O",
+    "isReRelease": false
+  }
+]
