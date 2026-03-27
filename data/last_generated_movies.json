@@ -1,41 +1,5 @@
 [
   {
-    "movieCd": "20262420",
-    "movieNm": "강압적 대물에 푹 빠진 육덕녀",
-    "openDt": "2026-03-26",
-    "genreNm": "",
-    "nationAlt": "한국",
-    "director": "정보 없음",
-    "isReRelease": false
-  },
-  {
-    "movieCd": "20262291",
-    "movieNm": "뮤지컬 장수탕 선녀님",
-    "openDt": "2026-03-26",
-    "genreNm": "",
-    "nationAlt": "한국",
-    "director": "조윤수",
-    "isReRelease": false
-  },
-  {
-    "movieCd": "20262461",
-    "movieNm": "아저씨의 애무에 넘어간 아가씨",
-    "openDt": "2026-03-26",
-    "genreNm": "",
-    "nationAlt": "한국",
-    "director": "정보 없음",
-    "isReRelease": false
-  },
-  {
-    "movieCd": "20255361",
-    "movieNm": "파이 굽는 엄마",
-    "openDt": "2026-03-26",
-    "genreNm": "",
-    "nationAlt": "한국",
-    "director": "이종은",
-    "isReRelease": false
-  },
-  {
     "movieCd": "20261906",
     "movieNm": "명탐정 코난: 세기말의 마술사",
     "openDt": "2026-03-27",
@@ -105,6 +69,15 @@
     "genreNm": "",
     "nationAlt": "스페인",
     "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262661",
+    "movieNm": "스크림 7",
+    "openDt": "2026-04-01",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "케빈 윌리엄슨",
     "isReRelease": false
   },
   {
@@ -303,6 +276,15 @@
     "genreNm": "",
     "nationAlt": "한국",
     "director": "김효은",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262787",
+    "movieNm": "원 오크 록 디톡스 투어 인 시네마",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
     "isReRelease": false
   },
   {

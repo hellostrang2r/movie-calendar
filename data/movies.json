@@ -405,6 +405,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20262661",
+    "movieNm": "스크림 7",
+    "openDt": "2026-04-01",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "케빈 윌리엄슨",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20262101",
     "movieNm": "킬 빌: 더 홀 블러디 어페어",
     "openDt": "2026-04-01",
@@ -600,6 +609,15 @@
     "genreNm": "",
     "nationAlt": "한국",
     "director": "김효은",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262787",
+    "movieNm": "원 오크 록 디톡스 투어 인 시네마",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
     "isReRelease": false
   },
   {
