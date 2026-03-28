@@ -324,12 +324,30 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20262462",
+    "movieNm": "나이트에서 원나잇 해준 여대생",
+    "openDt": "2026-03-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20261906",
     "movieNm": "명탐정 코난: 세기말의 마술사",
     "openDt": "2026-03-27",
     "genreNm": "",
     "nationAlt": "일본",
     "director": "코다마 켄지",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262452",
+    "movieNm": "못생긴 남자가 맛있다는 여후배",
+    "openDt": "2026-03-27",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
     "isReRelease": false
   },
   {
