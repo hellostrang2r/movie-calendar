@@ -351,6 +351,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "manual_20260401_farewellmyconcubine",
+    "movieNm": "패왕별희",
+    "openDt": "2026-04-01",
+    "genreNm": "드라마",
+    "nationAlt": "중국",
+    "director": "첸 카이거",
+    "isReRelease": true
+  }
+  {
     "movieCd": "20259598",
     "movieNm": "두 검사",
     "openDt": "2026-04-01",
