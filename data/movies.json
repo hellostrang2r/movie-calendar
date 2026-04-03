@@ -261,6 +261,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "manual_20260325_lifeofpi",
+    "movieNm": "라이프 오브 파이",
+    "openDt": "2026-03-25",
+    "genreNm": "드라마",
+    "nationAlt": "미국",
+    "director": "이안",
+    "isReRelease": true
+  },
+  {
     "movieCd": "20253247",
     "movieNm": "사랑, 우유, 그리고 치즈",
     "openDt": "2026-03-25",
@@ -268,6 +277,15 @@
     "nationAlt": "프랑스",
     "director": "정보 없음",
     "isReRelease": false
+  },
+  {
+    "movieCd": "manual_20260325_soundofmusic",
+    "movieNm": "사운드 오브 뮤직",
+    "openDt": "2026-03-25",
+    "genreNm": "뮤지컬",
+    "nationAlt": "미국",
+    "director": "로버트 와이즈",
+    "isReRelease": true
   },
   {
     "movieCd": "19868242",
@@ -459,6 +477,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "manual_20260408_grandbudapest",
+    "movieNm": "그랜드 부다페스트 호텔",
+    "openDt": "2026-04-08",
+    "genreNm": "드라마",
+    "nationAlt": "미국",
+    "director": "웨스 앤더슨",
+    "isReRelease": true
+  },
+  {
     "movieCd": "20254121",
     "movieNm": "살목지",
     "openDt": "2026-04-08",
@@ -547,6 +574,15 @@
     "nationAlt": "한국",
     "director": "정보 없음",
     "isReRelease": false
+  },
+  {
+    "movieCd": "manual_20260415_shapeofwater",
+    "movieNm": "셰이프 오브 워터",
+    "openDt": "2026-04-15",
+    "genreNm": "판타지",
+    "nationAlt": "미국",
+    "director": "기예르모 델 토로",
+    "isReRelease": true
   },
   {
     "movieCd": "20262383",
