@@ -594,6 +594,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20262639",
+    "movieNm": "노멀",
+    "openDt": "2026-04-17",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "벤 휘틀리",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20242482",
     "movieNm": "관념의 남자 김철수",
     "openDt": "2026-04-22",
@@ -627,6 +636,15 @@
     "genreNm": "",
     "nationAlt": "일본,프랑스",
     "director": "하야카와 치에",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262657",
+    "movieNm": "리 크로닌의 미이라",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "리 크로닌",
     "isReRelease": false
   },
   {
@@ -672,6 +690,15 @@
     "genreNm": "",
     "nationAlt": "미국",
     "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261243",
+    "movieNm": "그녀가 돌아온 날",
+    "openDt": "2026-05-06",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "홍상수",
     "isReRelease": false
   }
 ]
