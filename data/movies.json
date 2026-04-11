@@ -612,6 +612,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20250586",
+    "movieNm": "주희에게",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20262202",
     "movieNm": "침묵의 친구",
     "openDt": "2026-04-15",
@@ -654,6 +663,15 @@
     "genreNm": "",
     "nationAlt": "일본",
     "director": "사카이 카즈오",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262907",
+    "movieNm": "고트: 더 레전드",
+    "openDt": "2026-04-17",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
     "isReRelease": false
   },
   {
@@ -711,6 +729,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20257301",
+    "movieNm": "마지막 야구 경기",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "카슨 룬드",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20244564",
     "movieNm": "새벽의 Tango",
     "openDt": "2026-04-22",
@@ -738,6 +765,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20263121",
+    "movieNm": "플래닛 어스 : 대자연의 힘 ",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20228063",
     "movieNm": "미스매치",
     "openDt": "2026-04-23",
@@ -756,12 +792,57 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20262906",
+    "movieNm": "극장판 반짝반짝 달님이: 싱어롱 파티",
+    "openDt": "2026-05-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이병직",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20261243",
     "movieNm": "그녀가 돌아온 날",
     "openDt": "2026-05-06",
     "genreNm": "",
     "nationAlt": "한국",
     "director": "홍상수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262947",
+    "movieNm": "모탈 컴뱃 2",
+    "openDt": "2026-05-06",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20252801",
+    "movieNm": "교생실습",
+    "openDt": "2026-05-13",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김민하",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20259626",
+    "movieNm": "마이클",
+    "openDt": "2026-05-13",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "안톤 후쿠아",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261409",
+    "movieNm": "피어스",
+    "openDt": "2026-05-13",
+    "genreNm": "",
+    "nationAlt": "싱가포르,대만,폴란드",
+    "director": "정보 없음",
     "isReRelease": false
   }
 ]

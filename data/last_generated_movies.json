@@ -1,50 +1,5 @@
 [
   {
-    "movieCd": "20254121",
-    "movieNm": "살목지",
-    "openDt": "2026-04-08",
-    "genreNm": "",
-    "nationAlt": "한국",
-    "director": "이상민",
-    "isReRelease": false
-  },
-  {
-    "movieCd": "20262710",
-    "movieNm": "엔하이픈 : 이머전 인 시네마",
-    "openDt": "2026-04-08",
-    "genreNm": "",
-    "nationAlt": "한국",
-    "director": "김경국",
-    "isReRelease": false
-  },
-  {
-    "movieCd": "20261622",
-    "movieNm": "위 리브 인 타임",
-    "openDt": "2026-04-08",
-    "genreNm": "",
-    "nationAlt": "프랑스",
-    "director": "존 크로울리",
-    "isReRelease": false
-  },
-  {
-    "movieCd": "20262343",
-    "movieNm": "크라임 101",
-    "openDt": "2026-04-08",
-    "genreNm": "",
-    "nationAlt": "미국",
-    "director": "바트 레이튼",
-    "isReRelease": false
-  },
-  {
-    "movieCd": "20262648",
-    "movieNm": "런닝맨: 라이트&쉐도우",
-    "openDt": "2026-04-11",
-    "genreNm": "",
-    "nationAlt": "한국",
-    "director": "윤준상",
-    "isReRelease": false
-  },
-  {
     "movieCd": "20247648",
     "movieNm": "내 이름은",
     "openDt": "2026-04-15",
@@ -90,6 +45,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20250586",
+    "movieNm": "주희에게",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20262202",
     "movieNm": "침묵의 친구",
     "openDt": "2026-04-15",
@@ -123,6 +87,15 @@
     "genreNm": "",
     "nationAlt": "일본",
     "director": "사카이 카즈오",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262907",
+    "movieNm": "고트: 더 레전드",
+    "openDt": "2026-04-17",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
     "isReRelease": false
   },
   {
@@ -180,6 +153,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20257301",
+    "movieNm": "마지막 야구 경기",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "카슨 룬드",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20244564",
     "movieNm": "새벽의 Tango",
     "openDt": "2026-04-22",
@@ -207,6 +189,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20263121",
+    "movieNm": "플래닛 어스 : 대자연의 힘 ",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20228063",
     "movieNm": "미스매치",
     "openDt": "2026-04-23",
@@ -221,7 +212,16 @@
     "openDt": "2026-04-29",
     "genreNm": "",
     "nationAlt": "미국",
-    "director": "정보 없음",
+    "director": "아론 호바스",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262906",
+    "movieNm": "극장판 반짝반짝 달님이: 싱어롱 파티",
+    "openDt": "2026-05-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "이병직",
     "isReRelease": false
   },
   {
@@ -231,6 +231,42 @@
     "genreNm": "",
     "nationAlt": "한국",
     "director": "홍상수",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262947",
+    "movieNm": "모탈 컴뱃 2",
+    "openDt": "2026-05-06",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20252801",
+    "movieNm": "교생실습",
+    "openDt": "2026-05-13",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김민하",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20259626",
+    "movieNm": "마이클",
+    "openDt": "2026-05-13",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "안톤 후쿠아",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20261409",
+    "movieNm": "피어스",
+    "openDt": "2026-05-13",
+    "genreNm": "",
+    "nationAlt": "싱가포르,대만,폴란드",
+    "director": "정보 없음",
     "isReRelease": false
   }
 ]
