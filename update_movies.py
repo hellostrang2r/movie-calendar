@@ -320,7 +320,6 @@ def main():
 
         if movie_cd in current_map:
             manual_skipped.append(movie)
-            continue
 
         current_map[movie_cd] = movie
         manual_added.append(movie)

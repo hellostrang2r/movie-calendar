@@ -645,7 +645,8 @@
     "genreNm": "드라마",
     "nationAlt": "미국",
     "director": "피터 위어",
-    "isReRelease": true
+    "isReRelease": true,
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Trumanshow.jpg"
   },
   {
     "movieCd": "20259339",
