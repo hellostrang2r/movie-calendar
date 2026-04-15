@@ -80,8 +80,8 @@ class UISizes {
   static const double normalBorderWidth = 1.0;
   static const double summaryDividerWidth = 1.0;
 
-  static const double movieListHeight = 250;
-  static const double compactMovieListRatio = 0.27;
+  static const double movieListHeight = 320;
+  static const double compactMovieListRatio = 0.34;
   static const double compactScreenHeightThreshold = 700;
 
   static const double moviePosterWidth = 42;
@@ -433,6 +433,13 @@ class _ReleaseCalendarPageState extends State<ReleaseCalendarPage> {
                           height: UISizes.summaryDividerWidth,
                           color: UIColors.divider,
                         ),
+                        SizedBox(
+                          height: movieListHeight,
+                          child: _SelectedDateMovieList(
+                            selectedDate: selectedDate,
+                            movies: selectedMovies,
+                          ),
+                        ),
                         const Padding(
                           padding: EdgeInsets.fromLTRB(16, 0, 16, 12),
                           child: Align(
@@ -445,13 +452,6 @@ class _ReleaseCalendarPageState extends State<ReleaseCalendarPage> {
                                 height: 1.4,
                               ),
                             ),
-                          ),
-                        ),
-                        SizedBox(
-                          height: movieListHeight,
-                          child: _SelectedDateMovieList(
-                            selectedDate: selectedDate,
-                            movies: selectedMovies,
                           ),
                         ),
                       ],
