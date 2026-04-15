@@ -41,7 +41,16 @@
     "openDt": "2026-04-15",
     "genreNm": "",
     "nationAlt": "한국",
-    "director": "정보 없음",
+    "director": "홍영아",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262383",
+    "movieNm": "쉘터",
+    "openDt": "2026-04-15",
+    "genreNm": "",
+    "nationAlt": "미국",
+    "director": "릭 로먼 워",
     "isReRelease": false
   },
   {
@@ -216,6 +225,15 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20262116",
+    "movieNm": "피카소. 파리에서의 반란",
+    "openDt": "2026-04-29",
+    "genreNm": "",
+    "nationAlt": "이탈리아",
+    "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20262906",
     "movieNm": "극장판 반짝반짝 달님이: 싱어롱 파티",
     "openDt": "2026-05-01",
@@ -261,12 +279,48 @@
     "isReRelease": false
   },
   {
+    "movieCd": "20262921",
+    "movieNm": "파티마가 사랑한 계절",
+    "openDt": "2026-05-13",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "합시아 헤지",
+    "isReRelease": false
+  },
+  {
     "movieCd": "20261409",
     "movieNm": "피어스",
     "openDt": "2026-05-13",
     "genreNm": "",
     "nationAlt": "싱가포르,대만,폴란드",
     "director": "정보 없음",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20262631",
+    "movieNm": "5월18일생",
+    "openDt": "2026-05-14",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "송동윤",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20259727",
+    "movieNm": "1026: 새로운 세상을 위한",
+    "openDt": "2026-05-20",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "최위안",
+    "isReRelease": false
+  },
+  {
+    "movieCd": "20252402",
+    "movieNm": "군체",
+    "openDt": "2026-05-21",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "연상호",
     "isReRelease": false
   }
 ]
