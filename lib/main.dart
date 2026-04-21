@@ -86,6 +86,8 @@ class UISizes {
 
   static const double moviePosterWidth = 42;
   static const double moviePosterHeight = 56;
+  static const double dialogPosterWidth = 96;
+  static const double dialogPosterHeight = 136;
 
   static const double movieDotSize = 6;
   static const double movieDotRowHeight = 14;
@@ -110,6 +112,8 @@ class UIText {
   static const double movieTitle = 15;
   static const double movieMeta = 13;
   static const double movieDirector = 12;
+  static const double dialogTitle = 18;
+  static const double dialogBody = 14;
   static const double badge = 12;
 
   static const double emptyText = 14;
@@ -851,93 +855,253 @@ class _MovieTile extends StatelessWidget {
 
   final Movie movie;
 
+  void _showMovieDialog(BuildContext context) {
+    showDialog<void>(
+      context: context,
+      builder: (context) => _MovieDetailDialog(movie: movie),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
-    return Container(
-      padding: const EdgeInsets.all(UIMovieCard.padding),
-      decoration: BoxDecoration(
-        color: UIColors.movieCardBackground,
+    return Material(
+      color: UIColors.movieCardBackground,
+      borderRadius: BorderRadius.circular(UISizes.movieCardRadius),
+      child: InkWell(
         borderRadius: BorderRadius.circular(UISizes.movieCardRadius),
-      ),
-      child: Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Container(
-            width: UISizes.moviePosterWidth,
-            height: UISizes.moviePosterHeight,
-            decoration: BoxDecoration(
-              color: UIColors.moviePosterBackground,
-              borderRadius: BorderRadius.circular(UISizes.posterRadius),
-            ),
-            clipBehavior: Clip.antiAlias,
-            child: movie.posterUrl != null && movie.posterUrl!.isNotEmpty
-                ? Image.network(
-                    movie.posterUrl!,
-                    fit: BoxFit.cover,
-                    errorBuilder: (context, error, stackTrace) {
-                      return const Center(
-                        child: Icon(Icons.movie_outlined, color: UIColors.icon),
-                      );
-                    },
-                  )
-                : const Center(
-                    child: Icon(Icons.movie_outlined, color: UIColors.icon),
-                  ),
-          ),
-          const SizedBox(width: UIMovieCard.gapBetweenPosterAndText),
-          Expanded(
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  movie.title,
-                  style: const TextStyle(
-                    color: UIColors.titleText,
-                    fontSize: UIText.movieTitle,
-                    fontWeight: UIText.movieTitleWeight,
-                  ),
-                ),
-                const SizedBox(height: UISpacing.xs),
-                Text(
-                  '${movie.genre} · ${movie.nation}',
-                  style: const TextStyle(
-                    color: UIColors.bodyText,
-                    fontSize: UIText.movieMeta,
-                  ),
-                ),
-                const SizedBox(height: 2),
-                Text(
-                  '감독 ${movie.director}',
-                  style: const TextStyle(
-                    color: UIColors.subText,
-                    fontSize: UIText.movieDirector,
-                  ),
-                ),
-                if (movie.isReRelease) ...[
-                  const SizedBox(height: UISpacing.s),
-                  Container(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: UIBadge.horizontalPadding,
-                      vertical: UIBadge.verticalPadding,
-                    ),
-                    decoration: BoxDecoration(
-                      color: UIColors.rereleaseBadgeBackground,
-                      borderRadius: BorderRadius.circular(UISizes.badgeRadius),
-                    ),
-                    child: const Text(
-                      '재개봉',
-                      style: TextStyle(
-                        color: UIColors.rereleaseBadgeText,
-                        fontSize: UIText.badge,
-                        fontWeight: UIText.badgeWeight,
+        onTap: () => _showMovieDialog(context),
+        child: Padding(
+          padding: const EdgeInsets.all(UIMovieCard.padding),
+          child: Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              _MoviePoster(
+                posterUrl: movie.posterUrl,
+                width: UISizes.moviePosterWidth,
+                height: UISizes.moviePosterHeight,
+              ),
+              const SizedBox(width: UIMovieCard.gapBetweenPosterAndText),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      movie.title,
+                      style: const TextStyle(
+                        color: UIColors.titleText,
+                        fontSize: UIText.movieTitle,
+                        fontWeight: UIText.movieTitleWeight,
                       ),
+                    ),
+                    const SizedBox(height: UISpacing.xs),
+                    Text(
+                      '${movie.genre} · ${movie.nation}',
+                      style: const TextStyle(
+                        color: UIColors.bodyText,
+                        fontSize: UIText.movieMeta,
+                      ),
+                    ),
+                    const SizedBox(height: 2),
+                    Text(
+                      '감독 ${movie.director}',
+                      style: const TextStyle(
+                        color: UIColors.subText,
+                        fontSize: UIText.movieDirector,
+                      ),
+                    ),
+                    if (movie.isReRelease) ...[
+                      const SizedBox(height: UISpacing.s),
+                      const _ReReleaseBadge(),
+                    ],
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _MovieDetailDialog extends StatelessWidget {
+  const _MovieDetailDialog({required this.movie});
+
+  final Movie movie;
+
+  String get _formattedOpenDate {
+    return '${movie.openDate.year}.${movie.openDate.month.toString().padLeft(2, '0')}.${movie.openDate.day.toString().padLeft(2, '0')}';
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final overview = movie.overview?.trim() ?? '';
+
+    return Dialog(
+      insetPadding: const EdgeInsets.all(UISpacing.xl),
+      backgroundColor: UIColors.movieCardBackground,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(UISizes.cardRadius),
+      ),
+      child: ConstrainedBox(
+        constraints: const BoxConstraints(maxWidth: 520),
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.all(UISpacing.l),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  _MoviePoster(
+                    posterUrl: movie.posterUrl,
+                    width: UISizes.dialogPosterWidth,
+                    height: UISizes.dialogPosterHeight,
+                  ),
+                  const SizedBox(width: UISpacing.l),
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          movie.title,
+                          style: const TextStyle(
+                            color: UIColors.titleText,
+                            fontSize: UIText.dialogTitle,
+                            fontWeight: UIText.movieTitleWeight,
+                          ),
+                        ),
+                        const SizedBox(height: UISpacing.s),
+                        _MovieDetailLine(
+                          label: '개봉일',
+                          value: _formattedOpenDate,
+                        ),
+                        _MovieDetailLine(label: '장르', value: movie.genre),
+                        _MovieDetailLine(label: '국가', value: movie.nation),
+                        _MovieDetailLine(label: '감독', value: movie.director),
+                        if (movie.isReRelease) ...[
+                          const SizedBox(height: UISpacing.s),
+                          const _ReReleaseBadge(),
+                        ],
+                      ],
                     ),
                   ),
                 ],
+              ),
+              if (overview.isNotEmpty) ...[
+                const SizedBox(height: UISpacing.l),
+                const Divider(height: 1, color: UIColors.divider),
+                const SizedBox(height: UISpacing.l),
+                Text(
+                  overview,
+                  style: const TextStyle(
+                    color: UIColors.bodyText,
+                    fontSize: UIText.dialogBody,
+                    height: 1.5,
+                  ),
+                ),
               ],
-            ),
+              const SizedBox(height: UISpacing.l),
+              Align(
+                alignment: Alignment.centerRight,
+                child: TextButton(
+                  onPressed: () => Navigator.of(context).pop(),
+                  child: const Text(
+                    '닫기',
+                    style: TextStyle(fontWeight: FontWeight.w600),
+                  ),
+                ),
+              ),
+            ],
           ),
-        ],
+        ),
+      ),
+    );
+  }
+}
+
+class _MovieDetailLine extends StatelessWidget {
+  const _MovieDetailLine({required this.label, required this.value});
+
+  final String label;
+  final String value;
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.only(bottom: UISpacing.xs),
+      child: Text(
+        '$label $value',
+        style: const TextStyle(
+          color: UIColors.bodyText,
+          fontSize: UIText.dialogBody,
+          height: 1.35,
+        ),
+      ),
+    );
+  }
+}
+
+class _MoviePoster extends StatelessWidget {
+  const _MoviePoster({
+    required this.posterUrl,
+    required this.width,
+    required this.height,
+  });
+
+  final String? posterUrl;
+  final double width;
+  final double height;
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: width,
+      height: height,
+      decoration: BoxDecoration(
+        color: UIColors.moviePosterBackground,
+        borderRadius: BorderRadius.circular(UISizes.posterRadius),
+      ),
+      clipBehavior: Clip.antiAlias,
+      child: posterUrl != null && posterUrl!.isNotEmpty
+          ? Image.network(
+              posterUrl!,
+              fit: BoxFit.cover,
+              errorBuilder: (context, error, stackTrace) {
+                return const Center(
+                  child: Icon(Icons.movie_outlined, color: UIColors.icon),
+                );
+              },
+            )
+          : const Center(
+              child: Icon(Icons.movie_outlined, color: UIColors.icon),
+            ),
+    );
+  }
+}
+
+class _ReReleaseBadge extends StatelessWidget {
+  const _ReReleaseBadge();
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.symmetric(
+        horizontal: UIBadge.horizontalPadding,
+        vertical: UIBadge.verticalPadding,
+      ),
+      decoration: BoxDecoration(
+        color: UIColors.rereleaseBadgeBackground,
+        borderRadius: BorderRadius.circular(UISizes.badgeRadius),
+      ),
+      child: const Text(
+        '재개봉',
+        style: TextStyle(
+          color: UIColors.rereleaseBadgeText,
+          fontSize: UIText.badge,
+          fontWeight: UIText.badgeWeight,
+        ),
       ),
     );
   }
@@ -1025,6 +1189,7 @@ class Movie {
     required this.director,
     this.isReRelease = false,
     this.posterUrl,
+    this.overview,
   });
 
   final String movieCd;
@@ -1035,6 +1200,7 @@ class Movie {
   final String director;
   final bool isReRelease;
   final String? posterUrl;
+  final String? overview;
 }
 
 abstract class MovieRepository {
@@ -1183,6 +1349,7 @@ class GithubMovieRepository implements MovieRepository {
         director: json['director'] as String? ?? '정보 없음',
         isReRelease: json['isReRelease'] as bool? ?? false,
         posterUrl: json['posterUrl'] as String?,
+        overview: json['overview'] as String?,
       );
     }).toList();
 
@@ -1227,6 +1394,7 @@ class LocalMovieRepository implements MovieRepository {
         director: json['director'] as String? ?? '정보 없음',
         isReRelease: json['isReRelease'] as bool? ?? false,
         posterUrl: json['posterUrl'] as String?,
+        overview: json['overview'] as String?,
       );
     }).toList();
 
