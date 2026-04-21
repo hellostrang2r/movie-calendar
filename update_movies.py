@@ -29,6 +29,7 @@ TMDB_API_BASE = "https://api.themoviedb.org/3"
 TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 KOBIS_TIMEOUT_SECONDS = 60
 KOBIS_MAX_RETRIES = 3
+UPDATE_WINDOW_DAYS = 90
 TITLE_NOISE_PATTERNS = [
     r"\b4k\s*리마스터\b",
     r"\b4k\b",
@@ -675,6 +676,23 @@ def movie_key(movie):
     return movie.get("movieCd", "")
 
 
+def movie_sort_key(movie):
+    return (movie.get("openDt", ""), movie.get("movieNm", ""))
+
+
+def build_excluded_movie_entry(movie):
+    return {
+        "movieCd": movie.get("movieCd", ""),
+        "movieNm": movie.get("movieNm", ""),
+        "openDt": movie.get("openDt", ""),
+        "genreNm": movie.get("genreNm", ""),
+        "nationAlt": movie.get("nationAlt", ""),
+        "director": movie.get("director", ""),
+        "posterUrl": movie.get("posterUrl", ""),
+        "overview": movie.get("overview", ""),
+    }
+
+
 def load_excluded_movies(path: Path):
     raw = load_json_list(path)
 
@@ -755,40 +773,42 @@ def detect_user_deleted_ids(last_generated_movies, current_movies):
     return deleted_ids
 
 
-def main():
+def read_start_date():
     start_input = input("시작 날짜 입력 (YYYY-MM-DD): ").strip()
+    return datetime.datetime.strptime(start_input, "%Y-%m-%d").date()
 
-    start_date = datetime.datetime.strptime(start_input, "%Y-%m-%d").date()
-    end_date = start_date + datetime.timedelta(days=90)
 
-    print(f"\n조회 범위: {start_date} ~ {end_date}")
-
-    # 기존 파일 로드
-    current_movies = load_json_list(MOVIES_FILE)
-    last_generated_movies = load_json_list(LAST_GENERATED_FILE)
-    manual_movies = load_json_list(MANUAL_MOVIES_FILE)
-
-    excluded_movies = load_excluded_movies(EXCLUDED_IDS_FILE)
-    excluded_ids = {
-        movie.get("movieCd")
-        for movie in excluded_movies
-        if isinstance(movie, dict) and movie.get("movieCd")
+def load_update_data():
+    return {
+        "current_movies": load_json_list(MOVIES_FILE),
+        "last_generated_movies": load_json_list(LAST_GENERATED_FILE),
+        "manual_movies": load_json_list(MANUAL_MOVIES_FILE),
+        "excluded_movies": load_excluded_movies(EXCLUDED_IDS_FILE),
     }
 
-    # manual 영화도 제외 목록이 아니면 TMDB로 포스터/개봉일 보강
+
+def enrich_manual_movies(manual_movies, excluded_ids):
     for movie in manual_movies:
         maybe_enrich_movie_with_tmdb(movie, excluded_ids)
 
-    save_json_list(MANUAL_MOVIES_FILE, manual_movies)
+    return manual_movies
 
-    # 사용자가 직접 삭제한 영화 자동 감지
+
+def add_deleted_movies_to_exclusions(
+    excluded_movies,
+    last_generated_movies,
+    current_movies,
+    manual_movies,
+):
     auto_detected_deleted_ids = detect_user_deleted_ids(
         last_generated_movies,
         current_movies,
     )
 
-    if auto_detected_deleted_ids:
-        print(f"\n사용자 삭제 감지: {len(auto_detected_deleted_ids)}편")
+    if not auto_detected_deleted_ids:
+        return excluded_movies, auto_detected_deleted_ids
+
+    print(f"\n사용자 삭제 감지: {len(auto_detected_deleted_ids)}편")
 
     existing_excluded_ids = build_excluded_id_set(excluded_movies)
     manual_ids = {movie_key(m) for m in manual_movies}
@@ -801,41 +821,44 @@ def main():
             and movie_id not in existing_excluded_ids
             and movie_id not in manual_ids
         ):
-            excluded_movies.append({
-                "movieCd": movie.get("movieCd", ""),
-                "movieNm": movie.get("movieNm", ""),
-                "openDt": movie.get("openDt", ""),
-                "genreNm": movie.get("genreNm", ""),
-                "nationAlt": movie.get("nationAlt", ""),
-                "director": movie.get("director", ""),
-                "posterUrl": movie.get("posterUrl", ""),
-                "overview": movie.get("overview", ""),
-            })
+            excluded_movies.append(build_excluded_movie_entry(movie))
 
-    excluded_ids = build_excluded_id_set(excluded_movies)
-    current_map = build_movie_map(current_movies)
+    return excluded_movies, auto_detected_deleted_ids
 
-    # KOBIS에서 새 목록 추출
-    raw_movies = fetch_all_movies(start_date.year, end_date.year)
 
+def should_include_raw_movie(movie, open_dt, start_date, end_date):
+    if open_dt is None:
+        return False
+
+    if is_adult_movie(movie):
+        return False
+
+    return start_date <= open_dt <= end_date
+
+
+def build_newly_generated_movies(
+    raw_movies,
+    start_date,
+    end_date,
+    current_map,
+    excluded_ids,
+):
     newly_generated_movies = []
     seen_ids = set()
 
     for movie in raw_movies:
         open_dt = parse_open_date(movie.get("openDt", ""))
 
-        if open_dt is None:
-            continue
-
-        if is_adult_movie(movie):
-            continue
-
-        if not (start_date <= open_dt <= end_date):
+        if not should_include_raw_movie(movie, open_dt, start_date, end_date):
             continue
 
         normalized = normalize_movie(movie, open_dt)
         existing_movie = current_map.get(movie_key(normalized))
-        if existing_movie and existing_movie.get("posterUrl") and existing_movie.get("overview"):
+        if (
+            existing_movie
+            and existing_movie.get("posterUrl")
+            and existing_movie.get("overview")
+        ):
             normalized = merge_movie_metadata(normalized, existing_movie)
         else:
             normalized = maybe_enrich_movie_with_tmdb(normalized, excluded_ids)
@@ -855,10 +878,11 @@ def main():
         seen_ids.add(movie_cd)
         newly_generated_movies.append(normalized)
 
-    newly_generated_movies.sort(
-        key=lambda x: (x.get("openDt", ""), x.get("movieNm", ""))
-    )
+    newly_generated_movies.sort(key=movie_sort_key)
+    return newly_generated_movies
 
+
+def merge_generated_movies(current_map, newly_generated_movies):
     added = []
     skipped_existing = []
 
@@ -876,6 +900,10 @@ def main():
         current_map[movie_cd] = movie
         added.append(movie)
 
+    return added, skipped_existing
+
+
+def merge_manual_movies(current_map, manual_movies):
     manual_added = []
     manual_skipped = []
 
@@ -895,22 +923,71 @@ def main():
             current_map[movie_cd] = movie
         manual_added.append(movie)
 
+    return manual_added, manual_skipped
+
+
+def build_final_movies(current_map):
     final_movies = [
         ensure_movie_optional_fields(movie)
         for movie in current_map.values()
     ]
-    final_movies.sort(key=lambda x: (x.get("openDt", ""), x.get("movieNm", "")))
+    final_movies.sort(key=movie_sort_key)
+    return final_movies
 
-    # 저장
+
+def find_duplicate_release_titles(movies):
+    grouped = {}
+
+    for movie in movies:
+        title = normalize_title_for_match(movie.get("movieNm", ""))
+        open_dt = movie.get("openDt", "")
+        if not title or not open_dt:
+            continue
+
+        grouped.setdefault((open_dt, title), []).append(movie)
+
+    return {
+        key: items
+        for key, items in grouped.items()
+        if len(items) > 1
+    }
+
+
+def print_data_warnings(final_movies):
+    duplicate_release_titles = find_duplicate_release_titles(final_movies)
+    if not duplicate_release_titles:
+        return
+
+    print("\n[확인 필요: 같은 날짜/제목 중복]")
+    for (open_dt, _), movies in duplicate_release_titles.items():
+        title = movies[0].get("movieNm", "")
+        movie_ids = ", ".join(movie_key(movie) for movie in movies)
+        print(f"- {title} ({open_dt}) / {movie_ids}")
+
+
+def save_update_results(
+    final_movies,
+    newly_generated_movies,
+    manual_movies,
+    excluded_movies,
+):
     save_json_list(MOVIES_FILE, final_movies)
     save_json_list(LAST_GENERATED_FILE, newly_generated_movies)
     save_json_list(MANUAL_MOVIES_FILE, manual_movies)
 
-    excluded_movies.sort(
-        key=lambda x: (x.get("openDt", ""), x.get("movieNm", ""))
-    )
+    excluded_movies.sort(key=movie_sort_key)
     save_json_list(EXCLUDED_IDS_FILE, excluded_movies)
 
+
+def print_update_summary(
+    current_movies,
+    newly_generated_movies,
+    added,
+    skipped_existing,
+    manual_added,
+    excluded_movies,
+    final_movies,
+):
     print("\n=== 업데이트 결과 ===")
     print(f"현재 목록 개수: {len(current_movies)}")
     print(f"새로 추출된 개수: {len(newly_generated_movies)}")
@@ -929,6 +1006,68 @@ def main():
     print(f"\n저장 완료 → {MOVIES_FILE}")
     print(f"자동 생성 기준 저장 → {LAST_GENERATED_FILE}")
     print(f"자동 제외 목록 저장 → {EXCLUDED_IDS_FILE}")
+
+
+def main():
+    start_date = read_start_date()
+    end_date = start_date + datetime.timedelta(days=UPDATE_WINDOW_DAYS)
+
+    print(f"\n조회 범위: {start_date} ~ {end_date}")
+
+    data = load_update_data()
+    current_movies = data["current_movies"]
+    last_generated_movies = data["last_generated_movies"]
+    manual_movies = data["manual_movies"]
+    excluded_movies = data["excluded_movies"]
+
+    excluded_ids = build_excluded_id_set(excluded_movies)
+    manual_movies = enrich_manual_movies(manual_movies, excluded_ids)
+    save_json_list(MANUAL_MOVIES_FILE, manual_movies)
+
+    excluded_movies, _ = add_deleted_movies_to_exclusions(
+        excluded_movies,
+        last_generated_movies,
+        current_movies,
+        manual_movies,
+    )
+
+    excluded_ids = build_excluded_id_set(excluded_movies)
+    current_map = build_movie_map(current_movies)
+
+    raw_movies = fetch_all_movies(start_date.year, end_date.year)
+    newly_generated_movies = build_newly_generated_movies(
+        raw_movies,
+        start_date,
+        end_date,
+        current_map,
+        excluded_ids,
+    )
+
+    added, skipped_existing = merge_generated_movies(
+        current_map,
+        newly_generated_movies,
+    )
+    manual_added, _ = merge_manual_movies(current_map, manual_movies)
+    final_movies = build_final_movies(current_map)
+
+    print_data_warnings(final_movies)
+
+    save_update_results(
+        final_movies,
+        newly_generated_movies,
+        manual_movies,
+        excluded_movies,
+    )
+
+    print_update_summary(
+        current_movies,
+        newly_generated_movies,
+        added,
+        skipped_existing,
+        manual_added,
+        excluded_movies,
+        final_movies,
+    )
 
 
 if __name__ == "__main__":
