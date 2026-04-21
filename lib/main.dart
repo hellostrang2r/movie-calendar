@@ -837,7 +837,7 @@ class _SelectedDateMovieList extends StatelessWidget {
                 ),
               ),
               const Text(
-                '클릭시 상세정보',
+                '클릭시 상세정보(줄거리 포함)',
                 style: TextStyle(
                   color: UIColors.subText,
                   fontSize: UIText.movieDirector,
