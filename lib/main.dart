@@ -1333,6 +1333,21 @@ class _SelectedDateMovieList extends StatelessWidget {
   final DateTime selectedDate;
   final List<Movie> movies;
 
+  String get _dDayText {
+    final now = DateTime.now();
+    final today = DateTime(now.year, now.month, now.day);
+    final date = DateTime(
+      selectedDate.year,
+      selectedDate.month,
+      selectedDate.day,
+    );
+    final diff = date.difference(today).inDays;
+
+    if (diff == 0) return 'D-Day';
+    if (diff > 0) return 'D-$diff';
+    return 'D+${diff.abs()}';
+  }
+
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -1348,13 +1363,28 @@ class _SelectedDateMovieList extends StatelessWidget {
           Row(
             children: [
               Expanded(
-                child: Text(
-                  '${selectedDate.year}.${selectedDate.month.toString().padLeft(2, '0')}.${selectedDate.day.toString().padLeft(2, '0')} 개봉작',
-                  style: const TextStyle(
-                    color: UIColors.titleText,
-                    fontSize: UIText.selectedDateTitle,
-                    fontWeight: UIText.selectedDateTitleWeight,
-                  ),
+                child: Row(
+                  children: [
+                    Flexible(
+                      child: Text(
+                        '${selectedDate.year}.${selectedDate.month.toString().padLeft(2, '0')}.${selectedDate.day.toString().padLeft(2, '0')} 개봉작',
+                        style: const TextStyle(
+                          color: UIColors.titleText,
+                          fontSize: UIText.selectedDateTitle,
+                          fontWeight: UIText.selectedDateTitleWeight,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(width: UISpacing.s),
+                    Text(
+                      _dDayText,
+                      style: const TextStyle(
+                        color: UIColors.selectedCellBorder,
+                        fontSize: UIText.selectedDateTitle,
+                        fontWeight: FontWeight.w800,
+                      ),
+                    ),
+                  ],
                 ),
               ),
               const Text(
