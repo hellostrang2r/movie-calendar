@@ -979,6 +979,16 @@
     "overview": "상상력 가득한 6살 공감소녀 달님이의 환상 속 어드벤처! 동화책 속으로 들어가 백설공주를 만나고, 공룡 친구 ‘핑크’를 지키기 위해 공룡 세상으로 떠나고, 동생과 함께한 캠핑에서 가족의 소중함을 느끼는 달님이의 판타지 여행! 상상이 현실이 되는 세 가지 이야기 속에서 친구와 가족, 그리고 사랑의 마음을 배워 가는 달님이에게 이번엔 어떤 놀라운 모험이 펼쳐질까? 노래하고 춤추며 모두 함께 즐기는 신나는 싱어롱 파티가 시작된다!"
   },
   {
+    "movieCd": "20263327",
+    "movieNm": "사랑의 하츄핑 특별판",
+    "openDt": "2026-05-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김수훈",
+    "isReRelease": false,
+    "overview": ""
+  },
+  {
     "movieCd": "20263146",
     "movieNm": "캣 앤 독",
     "openDt": "2026-05-04",
@@ -1092,11 +1102,12 @@
     "movieCd": "20262631",
     "movieNm": "5월18일생",
     "openDt": "2026-05-14",
-    "genreNm": "",
+    "genreNm": "드라마",
     "nationAlt": "한국",
     "director": "송동윤",
     "isReRelease": false,
-    "overview": ""
+    "overview": "1980년 5월 18일, 광주에서 태어난 소설가 ‘미수’의 삶은 이미 시작부터 비극이었다. 태어나던 날 행방불명된 아버지와 평생 그를 찾아다닌 어머니로 인한 외로움은 오직 글쓰기로 풀어낼 수 있었고, 세상과 단절한 채 작품 활동에만 전념하던 어느 날 요양원으로부터 ‘이서연’이라는 인물의 유품이 담긴 우편물을 받는다. 일기와 카세트테이프 속 기록과 기억의 파편을 조합해 그날의 진실을 마주하게 되는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qgoSpSiw9MqF8cpGG4mhUvQUF8O.jpg"
   },
   {
     "movieCd": "20263162",
@@ -1185,14 +1196,47 @@
     "overview": ""
   },
   {
+    "movieCd": "20263222",
+    "movieNm": "극장판 호빵맨: 세균맨과 그림책의 루룬",
+    "openDt": "2026-05-23",
+    "genreNm": "애니메이션,판타지,가족",
+    "nationAlt": "일본",
+    "director": "카와고에 준",
+    "isReRelease": false,
+    "overview": "어느 날, 세균맨은 한 권의 그림책을 발견한다. 그림책 속에서 “사랑과 용기의 전사 세균맨, 도와줘!!”라는 목소리가 들려오고, 그대로 그림책 속으로 빨려 들어가게 된다. 사막 너머로 펼쳐진 거대한 숲에서 만난 것은 숲의 요정 ‘루룬’. 겁이 많아 용기를 내지 못하는 루룬은, 숲에서 난동을 부리는 ‘휘리릭 코끼리’를 물리쳐 달라고 세균맨에게 부탁한다. 처음에는 내켜 하지 않던 세균맨이지만, 포기하지 않고 맞서 싸우는 그의 모습을 보며 루룬도 점점 용기를 얻게 된다. 하지만 휘리릭 코끼리의 강력한 힘에 큰 위기를 맞이하고, 절체절명의 순간, 세균맨은 루룬에게 “호빵맨을 불러와!”라고 전한다—.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j8PjZuz2RZTEg07TVm9Ru2o0dGi.jpg"
+  },
+  {
     "movieCd": "20263363",
     "movieNm": "리마인더스 오브 힘",
     "openDt": "2026-05-27",
     "genreNm": "로맨스,드라마",
     "nationAlt": "미국",
-    "director": "정보 없음",
+    "director": "바네사 캐스윌",
     "isReRelease": false,
     "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
+  },
+  {
+    "movieCd": "20262788",
+    "movieNm": "쇼타씨의 마지막 출장",
+    "openDt": "2026-05-27",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "이주형",
+    "isReRelease": false,
+    "overview": "한국으로 마지막 출장을 앞두고 있는 강철맨 CEO 쇼타. 헤어진 연인의 마음을 돌리려고 그녀의 고향 에노시마로 여행 온 한국 청년 대성. 두 사람은 우연히 라멘 가게에서 만나게 되고 쇼타의 사직서와 대성의 편지가 바뀌게 되면서 예상치 못한 인연이 시작된다. 그리고 쇼타와 대성은 상대의 전하지 못했던 마음을 대신 전하며 서로의 삶 속으로 들어가게 되는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oB05aa4yU5yRLMyftbLrphKjd41.jpg"
+  },
+  {
+    "movieCd": "20248252",
+    "movieNm": "와일드 씽",
+    "openDt": "2026-06-03",
+    "genreNm": "코미디,음악",
+    "nationAlt": "한국",
+    "director": "손재곤",
+    "isReRelease": false,
+    "overview": "가요계를 휩쓸었지만 예기치 못한 사건에 휘말려 하루아침에 해체된 3인조 혼성 댄스 그룹 '트라이앵글'이 20년 만에 찾아온 재기의 기회를 잡기 위해 무모한 도전을 벌이는 코미디 영화",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vpszanJFXaRNc9iytuZaaK3fcii.jpg"
   }
 ]

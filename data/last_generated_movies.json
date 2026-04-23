@@ -1,114 +1,5 @@
 [
   {
-    "movieCd": "20242482",
-    "movieNm": "관념의 남자 김철수",
-    "openDt": "2026-04-22",
-    "genreNm": "코미디,드라마",
-    "nationAlt": "한국",
-    "director": "이재리",
-    "isReRelease": false,
-    "overview": "늘 정답 같은 선택만 해오며 교과서처럼 살아온 초등학교 교사 ‘철수’. 같은 학교 동료 교사이자 여자친구인 ‘세미’에게 프로포즈를 하지만, 세미는 확신 없는 말만 남긴 채 산티아고로 떠나버린다. 그녀와 다시 만나기 위해 여러 방법을 찾아 나선 철수는 정신과 의사 ‘김레오나르도’를 만나고, 재회를 위해서는 극단적인 변화가 필요하다는 처방을 받는다. 결국 철수는 극단적인 변화를 위해 ‘위성 도시’로 향하고, 그곳에서 어릴 적 친구 영희를 우연히 만나게 되는데...",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tz5HaFF9pHlwVMIKlCvnKeIonaa.jpg"
-  },
-  {
-    "movieCd": "20262775",
-    "movieNm": "기동전사 건담: 섬광의 하사웨이 키르케의 마녀",
-    "openDt": "2026-04-22",
-    "genreNm": "애니메이션,SF,전쟁,드라마",
-    "nationAlt": "일본",
-    "director": "무라세 슈코",
-    "isReRelease": false,
-    "overview": "‘샤아의 반란’이라 불린 제2차 네오지온 항쟁이 끝난 후 12년. 우주세기 105년. 지구 환경은 계속해서 악화되고, 지구연방정부는 지구를 보존한다는 명목 아래 민간인을 강제로 우주로 이주시키는 ‘인간 사냥’ 정책까지 자행하며 부패의 극에 달한다. 이러한 현실에 맞서 고위 관료 암살을 통해 저항을 시작한 반정부 조직 ‘마프티’. ‘샤아의 환생’이라 불리며 조직을 이끄는 리더 마프티 나비유 에린의 정체는, 과거 브라이트 노아의 아들이자 전쟁을 겪은 청년 하사웨이 노아였다. 신비한 힘을 지닌 소녀 기기 안달루시아를 만난 이후, 하사웨이는 잊고 있던 과거와 마주하며 깊은 혼란에 빠진다. 그럼에도 그는 ‘마프티’의 이상을 위해 지구연방 고위 관료들이 집결하는 애들레이드 회의 습격 작전을 준비한다. 한편, 지구연방군의 젊은 지휘관 케네스 슬렉 대령 역시 애들레이드 회의를 방어하는 동시에 ‘마프티’의 섬멸을 목표로 움직이기 시작한다. 기기 또한 자신에게 주어진 신비한 운명에 이끌리듯 홍콩으로 향한다. 애들레이드 회의를 앞두고, 에어즈록을 무대로 서로 다른 신념이 충돌하는 운명의 결전이 시작된다. 과연, ‘마프티’와 ‘키르케 부대’ 중 행운의 여신은 누구의 편에 설 것인가.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tCtECshR8McDJRlHxrN85A7urXD.jpg"
-  },
-  {
-    "movieCd": "20262685",
-    "movieNm": "란 12.3",
-    "openDt": "2026-04-22",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "한국",
-    "director": "이명세",
-    "isReRelease": false,
-    "overview": "2024년 12월 3일 밤, 윤석열 대통령의 기습적인 비상계엄 선포로 평화로웠던 일상이 깨졌다. 다시 반복된 과거의 그날처럼, 무장한 군 병력은 헌법 기관을 무력화하려 하고 계엄에 반대하여 민주주의를 지키려는 시민과 국회의원들은 국회로 몰려간다. 분초를 다투는 상황 속, 이들의 숨 막히는 싸움이 벌어지는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wU6UC10xiUSEfdlT0U1OZJqMa0A.jpg"
-  },
-  {
-    "movieCd": "20262776",
-    "movieNm": "르누아르",
-    "openDt": "2026-04-22",
-    "genreNm": "드라마",
-    "nationAlt": "일본,프랑스",
-    "director": "하야카와 치에",
-    "isReRelease": false,
-    "overview": "11살 ‘후키’가 세상을 알고 쑥쑥 자라나는 1980년 어느 여름 방학의 이야기를 담은 2026년 봄, 언젠가 아이였고 어른이 된 우리에게 왠지 반가운 <르누아르>",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jEZ7ezDPnGElqk3Yomked5aOE6P.jpg"
-  },
-  {
-    "movieCd": "20262657",
-    "movieNm": "리 크로닌의 미이라",
-    "openDt": "2026-04-22",
-    "genreNm": "공포,미스터리",
-    "nationAlt": "미국",
-    "director": "리 크로닌",
-    "isReRelease": false,
-    "overview": "한 기자의 어린 딸이 흔적도 없이 사막으로 사라진다. 그리고 8년 후, 산산이 부서진 가족은 그녀가 다시 돌아왔다는 소식에 충격을 받는다. 하지만 기쁨으로 가득해야 할 재회는 곧 살아 있는 악몽으로 변해간다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zXlwtzXP80yc3X0VokdxvmsFQfw.jpg"
-  },
-  {
-    "movieCd": "20257301",
-    "movieNm": "마지막 야구 경기",
-    "openDt": "2026-04-22",
-    "genreNm": "드라마,코미디",
-    "nationAlt": "미국",
-    "director": "카슨 룬드",
-    "isReRelease": false,
-    "overview": "한 무리의 성인 남자들이 그들이 사랑하는 야구장이 철거되기 하루 전날 연장전까지 이어지는 취미 야구 경기를 펼친다. 유머와 향수가 뒤섞이는 가운데 해가 지고, 한 시대의 끝이 도래한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2NydzK2umgHwDgvFwGxCLmSBeji.jpg"
-  },
-  {
-    "movieCd": "20244564",
-    "movieNm": "새벽의 Tango",
-    "openDt": "2026-04-22",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "김효은",
-    "isReRelease": false,
-    "overview": "믿었던 친구의 배신으로 깊은 상처를 입은 '지원'. 세상으로부터 도망치듯 들어간 공장에서 누구보다 긍정과 다정함의 힘을 믿는 룸메이트 '주희'를 만나는데, 갑자기 'Tango'를 함께 추자는 제안이 부담스럽기만 하다. 하지만 '지원'은 자신을 기다리며 건네는 '주희'의 서툰 스텝을 따라가며 굳게 닫았던 마음의 문을 용기 내어 조금씩 열기 시작한다. 마침내 다시 누군가를 믿어보려던 찰나, 어린 조장 '한별'이 일으킨 사고에 '주희'와 함께 휘말린 '지원'의 일상은 흔들리기 시작하는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pSPv9MaIHHV5RkZNcvvJxOFDMiy.jpg"
-  },
-  {
-    "movieCd": "20262787",
-    "movieNm": "원 오크 록 디톡스 투어 인 시네마",
-    "openDt": "2026-04-22",
-    "genreNm": "음악,다큐멘터리",
-    "nationAlt": "한국",
-    "director": "정보 없음",
-    "isReRelease": false,
-    "overview": "<원 오크 록 디톡스 투어 인 시네마>는 2025년 일본 가나가와 닛산 스타디움에서 열린 원 오크 록의 레전드 공연을 담은 콘서트 영화다. 약 3년 만에 발표한 정규 앨범 ‘DETOX’는 보다 강렬하고 직선적인 록 사운드로 밴드의 새로운 챕터를 열었다. 이를 중심으로 진행된 ‘DETOX WORLD TOUR’는 북미와 유럽, 아시아를 거치며 이어졌고 그 여정의 정점이 바로 닛산 스타디움 공연이었다. 2005년 작은 라이브하우스에서 시작한 원 오크 록은 지금까지 일본을 넘어 전 세계 무대에서 활동하며 글로벌 팬덤을 구축해 왔다. 타카의 폭발적인 보컬과 밴드의 강렬한 연주, 그리고 공연장을 가득 채운 관객의 함성은 그들이 걸어온 시간과 현재의 에너지를 고스란히 보여준다. 이 영화는 그날 밤 공연의 열기와 감정을 스크린에 담아낸다. 무대 위의 치열한 퍼포먼스와 순간순간 터져 나오는 관객의 반응, 그리고 밴드와 팬이 하나가 되는 공연의 순간들이 이어진다. SCREENX와 4DX 포맷으로 상영되는 이번 작품은 스타디움 공연의 스케일과 현장의 열기를 극장 공간으로 확장시켜 관객이 공연의 중심에 서 있는 듯한 몰입감을 선사한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AqlcUdVgXywN2kQFtHDY6kZmGyk.jpg"
-  },
-  {
-    "movieCd": "20240532",
-    "movieNm": "짱구",
-    "openDt": "2026-04-22",
-    "genreNm": "코미디,드라마",
-    "nationAlt": "한국",
-    "director": "정우",
-    "isReRelease": false,
-    "overview": "배우가 되고 싶어 서울 자취러가 된 부산 사나이 짱구. 전기세도 못 낼 만큼 팍팍한 서울살이 속에서 되는 일은 좀처럼 없다. 대사는 꼬이고, 서울말은 더 꼬이고, 연애도 밀당에 밀린다. 하지만 짱구는 넘어지면 털고 일어나고 쪽팔리면 더 크게 웃는다. 인생이 뜻대로 안 풀릴 때 이렇게 버티는 방법도 있다. 무겁지 않다. 그렇다고 가볍지도 않다. 웃기면서 뜨겁다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8ddOwCQnSHwtVIvuo4IiyCcPeOW.jpg"
-  },
-  {
-    "movieCd": "20263121",
-    "movieNm": "플래닛 어스 : 대자연의 힘 ",
-    "openDt": "2026-04-22",
-    "genreNm": "",
-    "nationAlt": "영국",
-    "director": "정보 없음",
-    "isReRelease": false,
-    "overview": ""
-  },
-  {
     "movieCd": "20228063",
     "movieNm": "미스매치",
     "openDt": "2026-04-23",
@@ -173,6 +64,16 @@
     "isReRelease": false,
     "overview": "상상력 가득한 6살 공감소녀 달님이의 환상 속 어드벤처! 동화책 속으로 들어가 백설공주를 만나고, 공룡 친구 ‘핑크’를 지키기 위해 공룡 세상으로 떠나고, 동생과 함께한 캠핑에서 가족의 소중함을 느끼는 달님이의 판타지 여행! 상상이 현실이 되는 세 가지 이야기 속에서 친구와 가족, 그리고 사랑의 마음을 배워 가는 달님이에게 이번엔 어떤 놀라운 모험이 펼쳐질까? 노래하고 춤추며 모두 함께 즐기는 신나는 싱어롱 파티가 시작된다!",
     "posterUrl": "https://image.tmdb.org/t/p/w500/vKS6arCPL0rMLeUgH1W4CE2TfUJ.jpg"
+  },
+  {
+    "movieCd": "20263327",
+    "movieNm": "사랑의 하츄핑 특별판",
+    "openDt": "2026-05-01",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "김수훈",
+    "isReRelease": false,
+    "overview": ""
   },
   {
     "movieCd": "20263146",
@@ -288,11 +189,12 @@
     "movieCd": "20262631",
     "movieNm": "5월18일생",
     "openDt": "2026-05-14",
-    "genreNm": "",
+    "genreNm": "드라마",
     "nationAlt": "한국",
     "director": "송동윤",
     "isReRelease": false,
-    "overview": ""
+    "overview": "1980년 5월 18일, 광주에서 태어난 소설가 ‘미수’의 삶은 이미 시작부터 비극이었다. 태어나던 날 행방불명된 아버지와 평생 그를 찾아다닌 어머니로 인한 외로움은 오직 글쓰기로 풀어낼 수 있었고, 세상과 단절한 채 작품 활동에만 전념하던 어느 날 요양원으로부터 ‘이서연’이라는 인물의 유품이 담긴 우편물을 받는다. 일기와 카세트테이프 속 기록과 기억의 파편을 조합해 그날의 진실을 마주하게 되는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qgoSpSiw9MqF8cpGG4mhUvQUF8O.jpg"
   },
   {
     "movieCd": "20263162",
@@ -370,14 +272,47 @@
     "overview": ""
   },
   {
+    "movieCd": "20263222",
+    "movieNm": "극장판 호빵맨: 세균맨과 그림책의 루룬",
+    "openDt": "2026-05-23",
+    "genreNm": "애니메이션,판타지,가족",
+    "nationAlt": "일본",
+    "director": "카와고에 준",
+    "isReRelease": false,
+    "overview": "어느 날, 세균맨은 한 권의 그림책을 발견한다. 그림책 속에서 “사랑과 용기의 전사 세균맨, 도와줘!!”라는 목소리가 들려오고, 그대로 그림책 속으로 빨려 들어가게 된다. 사막 너머로 펼쳐진 거대한 숲에서 만난 것은 숲의 요정 ‘루룬’. 겁이 많아 용기를 내지 못하는 루룬은, 숲에서 난동을 부리는 ‘휘리릭 코끼리’를 물리쳐 달라고 세균맨에게 부탁한다. 처음에는 내켜 하지 않던 세균맨이지만, 포기하지 않고 맞서 싸우는 그의 모습을 보며 루룬도 점점 용기를 얻게 된다. 하지만 휘리릭 코끼리의 강력한 힘에 큰 위기를 맞이하고, 절체절명의 순간, 세균맨은 루룬에게 “호빵맨을 불러와!”라고 전한다—.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j8PjZuz2RZTEg07TVm9Ru2o0dGi.jpg"
+  },
+  {
     "movieCd": "20263363",
     "movieNm": "리마인더스 오브 힘",
     "openDt": "2026-05-27",
     "genreNm": "로맨스,드라마",
     "nationAlt": "미국",
-    "director": "정보 없음",
+    "director": "바네사 캐스윌",
     "isReRelease": false,
     "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
+  },
+  {
+    "movieCd": "20262788",
+    "movieNm": "쇼타씨의 마지막 출장",
+    "openDt": "2026-05-27",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "이주형",
+    "isReRelease": false,
+    "overview": "한국으로 마지막 출장을 앞두고 있는 강철맨 CEO 쇼타. 헤어진 연인의 마음을 돌리려고 그녀의 고향 에노시마로 여행 온 한국 청년 대성. 두 사람은 우연히 라멘 가게에서 만나게 되고 쇼타의 사직서와 대성의 편지가 바뀌게 되면서 예상치 못한 인연이 시작된다. 그리고 쇼타와 대성은 상대의 전하지 못했던 마음을 대신 전하며 서로의 삶 속으로 들어가게 되는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oB05aa4yU5yRLMyftbLrphKjd41.jpg"
+  },
+  {
+    "movieCd": "20248252",
+    "movieNm": "와일드 씽",
+    "openDt": "2026-06-03",
+    "genreNm": "코미디,음악",
+    "nationAlt": "한국",
+    "director": "손재곤",
+    "isReRelease": false,
+    "overview": "가요계를 휩쓸었지만 예기치 못한 사건에 휘말려 하루아침에 해체된 3인조 혼성 댄스 그룹 '트라이앵글'이 20년 만에 찾아온 재기의 기회를 잡기 위해 무모한 도전을 벌이는 코미디 영화",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vpszanJFXaRNc9iytuZaaK3fcii.jpg"
   }
 ]
