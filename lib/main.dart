@@ -1380,7 +1380,7 @@ class _SelectedDateMovieList extends StatelessWidget {
                     Text(
                       _dDayText,
                       style: const TextStyle(
-                        color: UIColors.selectedCellBorder,
+                        color: UIColors.todayText,
                         fontSize: UIText.selectedDateTitle,
                         fontWeight: FontWeight.w800,
                       ),
