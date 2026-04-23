@@ -49,6 +49,7 @@ class UIColors {
   static const Color titleText = Color(0xFF111827);
   static const Color bodyText = Color(0xFF374151);
   static const Color subText = Color(0xFF6B7280);
+  static const Color todayText = Color(0xFFDC2626);
 
   // Divider / icon
   static const Color divider = Color(0xFFE5E7EB);
@@ -1240,8 +1241,8 @@ class _DayCell extends StatelessWidget {
             children: [
               Text(
                 '${date.day}',
-                style: const TextStyle(
-                  color: UIColors.titleText,
+                style: TextStyle(
+                  color: isToday ? UIColors.todayText : UIColors.titleText,
                   fontSize: UIText.dayNumber,
                   fontWeight: UIText.dayNumberWeight,
                   height: 1.0,
