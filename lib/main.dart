@@ -832,6 +832,33 @@ class _CalendarSidePanel extends StatelessWidget {
     );
   }
 
+  void _showAndroidAddToHomeScreenGuide(BuildContext context) {
+    showDialog<void>(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: const Text('안드로이드: 홈 화면에 바로가기 추가'),
+          content: const Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              _GuideStep(number: '1', text: '안드로이드에서 Chrome 또는 삼성 인터넷으로 이 페이지를 엽니다.'),
+              _GuideStep(number: '2', text: '브라우저 메뉴 버튼을 누릅니다.'),
+              _GuideStep(number: '3', text: '"홈 화면에 추가" 또는 "앱 설치"를 선택합니다.'),
+              _GuideStep(number: '4', text: '확인 버튼을 눌러 홈 화면에 추가합니다.'),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('확인'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final screenWidth = MediaQuery.sizeOf(context).width;
@@ -875,9 +902,16 @@ class _CalendarSidePanel extends StatelessWidget {
                   const SizedBox(height: UISpacing.l),
                   _InfoStackTile(
                     icon: Icons.add_to_home_screen,
-                    title: '홈 화면에 바로가기 추가하기',
+                    title: '아이폰: 홈 화면에 바로가기 추가',
                     subtitle: 'iPhone Safari에서 빠르게 여는 방법',
                     onTap: () => _showAddToHomeScreenGuide(context),
+                  ),
+                  const SizedBox(height: UISpacing.m),
+                  _InfoStackTile(
+                    icon: Icons.android,
+                    title: '안드로이드: 홈 화면에 바로가기 추가',
+                    subtitle: 'Chrome 또는 삼성 인터넷에서 추가하는 방법',
+                    onTap: () => _showAndroidAddToHomeScreenGuide(context),
                   ),
                   const Spacer(),
                   const Divider(height: 1, color: UIColors.divider),
