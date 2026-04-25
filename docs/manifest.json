@@ -1,6 +1,6 @@
 {
-    "name": "movie_calendar",
-    "short_name": "movie_calendar",
+    "name": "Movie calendar",
+    "short_name": "Movie calendar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
