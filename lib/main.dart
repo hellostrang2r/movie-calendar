@@ -1,9 +1,11 @@
-import 'package:flutter/foundation.dart';
 import 'dart:convert';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
+
+import 'web/open_external_url.dart';
 
 void main() {
   runApp(const ReleaseCalendarApp());
@@ -802,8 +804,22 @@ class _MonthSummary extends StatelessWidget {
   }
 }
 
-class _CalendarSidePanel extends StatelessWidget {
+class _CalendarSidePanel extends StatefulWidget {
   const _CalendarSidePanel();
+
+  @override
+  State<_CalendarSidePanel> createState() => _CalendarSidePanelState();
+}
+
+class _CalendarSidePanelState extends State<_CalendarSidePanel> {
+  bool _isOtherCalendarsExpanded = false;
+
+  static const List<_OtherCalendarLink> _otherCalendars = [
+    _OtherCalendarLink(
+      title: '다른 캘린더 준비중',
+      url: '',
+    ),
+  ];
 
   void _showAddToHomeScreenGuide(BuildContext context) {
     showDialog<void>(
@@ -859,6 +875,20 @@ class _CalendarSidePanel extends StatelessWidget {
     );
   }
 
+  void _openOtherCalendar(BuildContext context, String url) {
+    final trimmedUrl = url.trim();
+    if (trimmedUrl.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('아직 연결된 캘린더 URL이 없습니다.')),
+      );
+      return;
+    }
+
+    if (kIsWeb) {
+      openExternalUrl(trimmedUrl);
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final screenWidth = MediaQuery.sizeOf(context).width;
@@ -903,16 +933,39 @@ class _CalendarSidePanel extends StatelessWidget {
                   _InfoStackTile(
                     icon: Icons.add_to_home_screen,
                     title: '아이폰: 홈 화면에 바로가기 추가',
-                    subtitle: 'iPhone Safari에서 빠르게 여는 방법',
                     onTap: () => _showAddToHomeScreenGuide(context),
                   ),
                   const SizedBox(height: UISpacing.m),
                   _InfoStackTile(
                     icon: Icons.android,
                     title: '안드로이드: 홈 화면에 바로가기 추가',
-                    subtitle: 'Chrome 또는 삼성 인터넷에서 추가하는 방법',
                     onTap: () => _showAndroidAddToHomeScreenGuide(context),
                   ),
+                  const SizedBox(height: UISpacing.m),
+                  _InfoStackTile(
+                    icon: Icons.calendar_view_month,
+                    title: '다른 캘린더 구경하기',
+                    trailingIcon: _isOtherCalendarsExpanded
+                        ? Icons.expand_less
+                        : Icons.expand_more,
+                    onTap: () {
+                      setState(() {
+                        _isOtherCalendarsExpanded = !_isOtherCalendarsExpanded;
+                      });
+                    },
+                  ),
+                  if (_isOtherCalendarsExpanded) ...[
+                    const SizedBox(height: UISpacing.s),
+                    ..._otherCalendars.map(
+                      (calendar) => Padding(
+                        padding: const EdgeInsets.only(bottom: UISpacing.s),
+                        child: _OtherCalendarListTile(
+                          title: calendar.title,
+                          onTap: () => _openOtherCalendar(context, calendar.url),
+                        ),
+                      ),
+                    ),
+                  ],
                   const Spacer(),
                   const Divider(height: 1, color: UIColors.divider),
                   const SizedBox(height: UISpacing.l),
@@ -1014,14 +1067,14 @@ class _InfoStackTile extends StatelessWidget {
   const _InfoStackTile({
     required this.icon,
     required this.title,
-    required this.subtitle,
     required this.onTap,
+    this.trailingIcon = Icons.chevron_right,
   });
 
   final IconData icon;
   final String title;
-  final String subtitle;
   final VoidCallback onTap;
+  final IconData trailingIcon;
 
   @override
   Widget build(BuildContext context) {
@@ -1054,23 +1107,78 @@ class _InfoStackTile extends StatelessWidget {
                         fontWeight: FontWeight.w700,
                       ),
                     ),
-                    const SizedBox(height: UISpacing.xs),
-                    Text(
-                      subtitle,
-                      style: const TextStyle(
-                        color: UIColors.subText,
-                        fontSize: UIText.movieDirector,
-                        height: 1.25,
-                      ),
-                    ),
                   ],
                 ),
               ),
               const SizedBox(width: UISpacing.s),
-              const Icon(
-                Icons.chevron_right,
+              Icon(
+                trailingIcon,
                 color: UIColors.subText,
                 size: 20,
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _OtherCalendarLink {
+  const _OtherCalendarLink({
+    required this.title,
+    required this.url,
+  });
+
+  final String title;
+  final String url;
+}
+
+class _OtherCalendarListTile extends StatelessWidget {
+  const _OtherCalendarListTile({
+    required this.title,
+    required this.onTap,
+  });
+
+  final String title;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+      color: UIColors.scaffoldBackground,
+      borderRadius: BorderRadius.circular(UISizes.posterRadius),
+      child: InkWell(
+        borderRadius: BorderRadius.circular(UISizes.posterRadius),
+        onTap: onTap,
+        child: Container(
+          width: double.infinity,
+          margin: const EdgeInsets.only(left: UISpacing.xl),
+          padding: const EdgeInsets.symmetric(
+            horizontal: UISpacing.m,
+            vertical: UISpacing.s,
+          ),
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(UISizes.posterRadius),
+            border: Border.all(color: UIColors.divider),
+          ),
+          child: Row(
+            children: [
+              Expanded(
+                child: Text(
+                  title,
+                  style: const TextStyle(
+                    color: UIColors.titleText,
+                    fontSize: UIText.movieMeta,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ),
+              SizedBox(width: UISpacing.s),
+              Icon(
+                Icons.open_in_new,
+                color: UIColors.subText,
+                size: 18,
               ),
             ],
           ),
