@@ -1,3 +1,4 @@
+import argparse
 import datetime
 import json
 import os
@@ -11,7 +12,7 @@ from requests.exceptions import ReadTimeout
 
 load_dotenv()
 
-KOBIS_KEY = os.getenv("KOBIS_KEY")
+KOBIS_KEY = os.getenv("KOBIS_KEY", "").strip()
 TMDB_BEARER_TOKEN = os.getenv("TMDB_BEARER_TOKEN", "").strip()
 
 DATA_DIR = Path("data")
@@ -57,6 +58,34 @@ def load_blocked_keywords():
 
 
 BLOCKED_TITLE_KEYWORDS = load_blocked_keywords()
+
+
+def redact_secrets(text):
+    redacted = str(text)
+
+    for secret in [KOBIS_KEY, TMDB_BEARER_TOKEN]:
+        if secret:
+            redacted = redacted.replace(secret, "***")
+
+    redacted = re.sub(r"([?&]key=)[^&\s]+", r"\1***", redacted, flags=re.IGNORECASE)
+    redacted = re.sub(
+        r"(Authorization['\"]?:\s*['\"]?Bearer\s+)[^'\"\s]+",
+        r"\1***",
+        redacted,
+        flags=re.IGNORECASE,
+    )
+    redacted = re.sub(
+        r"(Bearer\s+)[A-Za-z0-9._\-]+",
+        r"\1***",
+        redacted,
+        flags=re.IGNORECASE,
+    )
+
+    return redacted
+
+
+def format_safe_error(error):
+    return redact_secrets(f"{type(error).__name__}: {error}")
 
 
 def get_tmdb_headers():
@@ -172,7 +201,8 @@ def fetch_tmdb_movie_details(tmdb_movie_id, language="ko-KR"):
 
     except Exception as e:
         print(
-            f"[TMDB] 상세 조회 실패: movie_id={tmdb_movie_id}, language={language} / {e}"
+            "[TMDB] 상세 조회 실패: "
+            f"movie_id={tmdb_movie_id}, language={language} / {format_safe_error(e)}"
         )
         return None
 
@@ -195,7 +225,10 @@ def fetch_tmdb_movie_credits(tmdb_movie_id):
         return response.json()
 
     except Exception as e:
-        print(f"[TMDB] 크레딧 조회 실패: movie_id={tmdb_movie_id} / {e}")
+        print(
+            f"[TMDB] 크레딧 조회 실패: movie_id={tmdb_movie_id} / "
+            f"{format_safe_error(e)}"
+        )
         return None
 
     finally:
@@ -343,7 +376,10 @@ def get_kr_release_dates(item_id):
         response.raise_for_status()
         data = response.json()
     except Exception as e:
-        print(f"[TMDB] KR 개봉일 조회 실패: movie_id={item_id} / {e}")
+        print(
+            f"[TMDB] KR 개봉일 조회 실패: movie_id={item_id} / "
+            f"{format_safe_error(e)}"
+        )
         return []
     finally:
         time.sleep(0.2)
@@ -427,7 +463,7 @@ def search_tmdb_movies(query, open_dt=None):
         return data.get("results", [])
 
     except Exception as e:
-        print(f"[TMDB] 검색 실패: {query} / {e}")
+        print(f"[TMDB] 검색 실패: {query} / {format_safe_error(e)}")
         return []
 
     finally:
@@ -488,7 +524,7 @@ def discover_tmdb_movies(movie_name, open_dt=None):
         return filtered
 
     except Exception as e:
-        print(f"[TMDB] discover 실패: {movie_name} / {e}")
+        print(f"[TMDB] discover 실패: {movie_name} / {format_safe_error(e)}")
         return []
 
     finally:
@@ -655,6 +691,9 @@ def maybe_enrich_movie_with_tmdb(movie, excluded_ids):
 
 
 def fetch_movie_page(open_start_year, open_end_year, page=1, per_page=100):
+    if not KOBIS_KEY:
+        raise RuntimeError("KOBIS_KEY가 설정되지 않았습니다.")
+
     url = "https://www.kobis.or.kr/kobisopenapi/webservice/rest/movie/searchMovieList.json"
 
     params = {
@@ -692,7 +731,8 @@ def fetch_movie_page(open_start_year, open_end_year, page=1, per_page=100):
                 time.sleep(2)
 
     raise RuntimeError(
-        f"KOBIS 응답이 지연되어 조회에 실패했습니다. 잠시 후 다시 시도해 주세요. ({last_error})"
+        "KOBIS 응답이 지연되어 조회에 실패했습니다. "
+        f"잠시 후 다시 시도해 주세요. ({format_safe_error(last_error)})"
     )
 
 
@@ -955,9 +995,22 @@ def detect_user_deleted_ids(last_generated_movies, current_movies):
     return deleted_ids
 
 
-def read_start_date():
-    start_input = input("시작 날짜 입력 (YYYY-MM-DD): ").strip()
-    return datetime.datetime.strptime(start_input, "%Y-%m-%d").date()
+def parse_start_date(value):
+    return datetime.datetime.strptime(value, "%Y-%m-%d").date()
+
+
+def resolve_start_date():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--start-date",
+        help="조회 시작 날짜 (YYYY-MM-DD). 생략 시 오늘 날짜를 사용합니다.",
+    )
+    args = parser.parse_args()
+
+    if args.start_date:
+        return parse_start_date(args.start_date)
+
+    return datetime.date.today()
 
 
 def load_update_data():
@@ -1198,7 +1251,7 @@ def print_update_summary(
 
 
 def main():
-    start_date = read_start_date()
+    start_date = resolve_start_date()
     end_date = start_date + datetime.timedelta(days=UPDATE_WINDOW_DAYS)
 
     print(f"\n조회 범위: {start_date} ~ {end_date}")

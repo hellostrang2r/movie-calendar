@@ -1,0 +1,74 @@
+name: Weekly Movie Update
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: "Start date in YYYY-MM-DD format"
+        required: false
+  schedule:
+    - cron: "0 18 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Install Python dependencies
+        run: python -m pip install requests python-dotenv
+
+      - name: Get Flutter dependencies
+        run: flutter pub get
+
+      - name: Update movie data
+        env:
+          KOBIS_KEY: ${{ secrets.KOBIS_KEY }}
+          TMDB_BEARER_TOKEN: ${{ secrets.TMDB_BEARER_TOKEN }}
+          START_DATE: ${{ github.event.inputs.start_date }}
+        run: |
+          if [ -n "$START_DATE" ]; then
+            python3 update_movies.py --start-date "$START_DATE"
+          else
+            python3 update_movies.py
+          fi
+
+      - name: Validate Flutter project
+        run: |
+          flutter analyze
+          flutter test
+
+      - name: Build web
+        run: flutter build web --release --base-href /movie-calendar/
+
+      - name: Publish build to docs
+        run: |
+          rm -rf docs
+          cp -R build/web docs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/movies.json data/last_generated_movies.json data/excluded_movie_ids.json data/manual_movies.json docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: weekly movie update"
+          git push
