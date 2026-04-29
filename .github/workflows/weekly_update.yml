@@ -10,6 +10,10 @@ on:
     - cron: "0 18 * * 0"
     - cron: "0 18 * * 4"
 
+concurrency:
+  group: weekly-movie-update
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -20,6 +24,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -72,4 +78,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: weekly movie update"
+          git pull --rebase origin main
           git push
