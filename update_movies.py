@@ -1682,9 +1682,9 @@ def main():
         current_map,
         newly_generated_movies,
     )
-    manual_added, _ = merge_manual_movies(current_map, manual_movies)
     held_movies = merge_movies_into_list(held_movies, newly_held_movies)
     held_movies = extract_held_movies_from_current_map(current_map, held_movies)
+    manual_added, _ = merge_manual_movies(current_map, manual_movies)
     final_movies = build_final_movies(current_map)
     final_movies, removed_duplicates = split_duplicate_release_titles(final_movies)
     if removed_duplicates:
