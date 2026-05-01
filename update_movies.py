@@ -841,6 +841,10 @@ def movie_sort_key(movie):
 
 
 def build_excluded_movie_entry(movie):
+    return build_excluded_movie_entry_with_reason(movie, "")
+
+
+def build_excluded_movie_entry_with_reason(movie, excluded_reason):
     return prepare_movie_for_status({
         "movieCd": movie.get("movieCd", ""),
         "movieNm": movie.get("movieNm", ""),
@@ -850,6 +854,7 @@ def build_excluded_movie_entry(movie):
         "director": movie.get("director", ""),
         "posterUrl": movie.get("posterUrl", ""),
         "overview": movie.get("overview", ""),
+        "excludedReason": excluded_reason,
     }, STATUS_EXCLUDED)
 
 
@@ -872,6 +877,7 @@ def load_excluded_movies(path: Path):
                     "director": "",
                     "posterUrl": "",
                     "overview": "",
+                    "excludedReason": "",
                     "status": STATUS_EXCLUDED,
                 })
                 seen_ids.add(movie_cd)
@@ -888,6 +894,7 @@ def load_excluded_movies(path: Path):
                     "director": item.get("director", ""),
                     "posterUrl": item.get("posterUrl", ""),
                     "overview": item.get("overview", ""),
+                    "excludedReason": item.get("excludedReason", ""),
                     "status": item.get("status", STATUS_EXCLUDED),
                 })
                 seen_ids.add(movie_cd)
@@ -941,6 +948,7 @@ def ensure_movie_optional_fields(movie):
     normalized = dict(movie)
     normalized.setdefault("overview", "")
     normalized.setdefault("holdReason", "")
+    normalized.setdefault("excludedReason", "")
     return normalized
 
 
@@ -962,7 +970,15 @@ def prepare_movie_for_status(movie, default_status):
 
     if normalized["status"] != STATUS_HELD:
         normalized.pop("holdReason", None)
+    if normalized["status"] != STATUS_EXCLUDED:
+        normalized.pop("excludedReason", None)
 
+    return normalized
+
+
+def annotate_excluded_reason(movie, excluded_reason):
+    normalized = prepare_movie_for_status(movie, STATUS_EXCLUDED)
+    normalized["excludedReason"] = excluded_reason
     return normalized
 
 
@@ -1025,6 +1041,18 @@ def apply_status_transitions(
     next_held_movies = merge_movies_into_list(next_held_movies, manual_to_held)
     next_held_movies = merge_movies_into_list(next_held_movies, excluded_to_held)
 
+    current_to_excluded = [
+        annotate_excluded_reason(movie, "상태 변경으로 제외")
+        for movie in current_to_excluded
+    ]
+    manual_to_excluded = [
+        annotate_excluded_reason(movie, "상태 변경으로 제외")
+        for movie in manual_to_excluded
+    ]
+    held_to_excluded = [
+        annotate_excluded_reason(movie, "상태 변경으로 제외")
+        for movie in held_to_excluded
+    ]
     next_excluded_movies = merge_movies_into_list(excluded_remaining, current_to_excluded)
     next_excluded_movies = merge_movies_into_list(next_excluded_movies, manual_to_excluded)
     next_excluded_movies = merge_movies_into_list(next_excluded_movies, held_to_excluded)
@@ -1300,7 +1328,9 @@ def add_deleted_movies_to_exclusions(
             and movie_id not in existing_excluded_ids
             and movie_id not in manual_ids
         ):
-            excluded_movies.append(build_excluded_movie_entry(movie))
+            excluded_movies.append(
+                build_excluded_movie_entry_with_reason(movie, "사용자 삭제")
+            )
 
     return excluded_movies, auto_detected_deleted_ids
 
@@ -1660,7 +1690,13 @@ def main():
     if removed_duplicates:
         excluded_movies = merge_movies_into_list(
             excluded_movies,
-            [build_excluded_movie_entry(movie) for movie in removed_duplicates],
+            [
+                build_excluded_movie_entry_with_reason(
+                    movie,
+                    "같은 날짜/제목 중복",
+                )
+                for movie in removed_duplicates
+            ],
         )
 
     save_update_results(
