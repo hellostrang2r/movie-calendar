@@ -909,6 +909,17 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263090",
+    "movieNm": "붉은 10월의 반란 파트 2",
+    "openDt": "2026-04-17",
+    "genreNm": "",
+    "nationAlt": "기타",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
+    "status": "saved"
+  },
+  {
     "movieCd": "20242482",
     "movieNm": "관념의 남자 김철수",
     "openDt": "2026-04-22",
@@ -1014,6 +1025,17 @@
     "isReRelease": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8ddOwCQnSHwtVIvuo4IiyCcPeOW.jpg",
     "overview": "배우가 되고 싶어 서울 자취러가 된 부산 사나이 짱구. 전기세도 못 낼 만큼 팍팍한 서울살이 속에서 되는 일은 좀처럼 없다. 대사는 꼬이고, 서울말은 더 꼬이고, 연애도 밀당에 밀린다. 하지만 짱구는 넘어지면 털고 일어나고 쪽팔리면 더 크게 웃는다. 인생이 뜻대로 안 풀릴 때 이렇게 버티는 방법도 있다. 무겁지 않다. 그렇다고 가볍지도 않다. 웃기면서 뜨겁다.",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20263121",
+    "movieNm": "플래닛 어스 : 대자연의 힘 ",
+    "openDt": "2026-04-22",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
     "status": "saved"
   },
   {
