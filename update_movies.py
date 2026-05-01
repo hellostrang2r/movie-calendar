@@ -1037,6 +1037,21 @@ def apply_status_transitions(
     )
 
 
+def persist_status_lists(manual_movies, held_movies, excluded_movies):
+    save_json_list(
+        MANUAL_MOVIES_FILE,
+        normalize_movies_for_status(manual_movies, STATUS_SAVED),
+    )
+    save_json_list(
+        HELD_MOVIES_FILE,
+        normalize_movies_for_status(held_movies, STATUS_HELD),
+    )
+    save_json_list(
+        EXCLUDED_IDS_FILE,
+        normalize_movies_for_status(excluded_movies, STATUS_EXCLUDED),
+    )
+
+
 def parse_saved_open_date(open_dt):
     if not open_dt:
         return None
@@ -1421,16 +1436,61 @@ def find_duplicate_release_titles(movies):
     }
 
 
-def print_data_warnings(final_movies):
-    duplicate_release_titles = find_duplicate_release_titles(final_movies)
-    if not duplicate_release_titles:
-        return
+def score_movie_metadata_completeness(movie):
+    score = 0
 
-    print("\n[확인 필요: 같은 날짜/제목 중복]")
-    for (open_dt, _), movies in duplicate_release_titles.items():
-        title = movies[0].get("movieNm", "")
-        movie_ids = ", ".join(movie_key(movie) for movie in movies)
-        print(f"- {title} ({open_dt}) / {movie_ids}")
+    if movie.get("posterUrl"):
+        score += 3
+    if movie.get("overview"):
+        score += 3
+    if movie.get("genreNm"):
+        score += 2
+    if not is_missing_director(movie):
+        score += 2
+
+    return score
+
+
+def split_duplicate_release_titles(movies):
+    duplicate_release_titles = find_duplicate_release_titles(movies)
+    if not duplicate_release_titles:
+        return sort_movies(movies), []
+
+    kept_movies = []
+    removed_movies = []
+    removed_ids = set()
+
+    for movie in movies:
+        movie_cd = movie_key(movie)
+        title = normalize_title_for_match(movie.get("movieNm", ""))
+        open_dt = movie.get("openDt", "")
+        duplicate_group = duplicate_release_titles.get((open_dt, title))
+
+        if not duplicate_group:
+            kept_movies.append(movie)
+            continue
+
+        best_movie = sorted(
+            duplicate_group,
+            key=lambda item: (
+                score_movie_metadata_completeness(item),
+                len(item.get("overview", "")),
+                1 if str(item.get("movieCd", "")).startswith("manual_") else 0,
+                str(item.get("movieCd", "")),
+            ),
+            reverse=True,
+        )[0]
+
+        if movie_cd == movie_key(best_movie):
+            if movie_cd not in {movie_key(item) for item in kept_movies}:
+                kept_movies.append(best_movie)
+            continue
+
+        if movie_cd and movie_cd not in removed_ids:
+            removed_movies.append(movie)
+            removed_ids.add(movie_cd)
+
+    return sort_movies(kept_movies), sort_movies(removed_movies)
 
 
 def save_update_results(
@@ -1465,6 +1525,7 @@ def print_update_summary(
     newly_held_movies,
     refreshed_existing,
     released_held_movies,
+    removed_duplicates,
     added,
     skipped_existing,
     manual_added,
@@ -1478,6 +1539,7 @@ def print_update_summary(
     print(f"새로 보류된 개수: {len(newly_held_movies)}")
     print(f"기존 영화 재보강 개수: {len(refreshed_existing)}")
     print(f"보류 해제 개수: {len(released_held_movies)}")
+    print(f"중복으로 제외된 개수: {len(removed_duplicates)}")
     print(f"새로 추가된 개수: {len(added)}")
     print(f"기존에 있어서 유지된 개수: {len(skipped_existing)}")
     print(f"수동 추가 개수: {len(manual_added)}")
@@ -1506,6 +1568,11 @@ def print_update_summary(
         print("\n[보류 해제된 영화]")
         for movie in released_held_movies[:20]:
             print(f"- {movie.get('movieNm')} ({movie.get('openDt')})")
+
+    if removed_duplicates:
+        print("\n[중복으로 제외된 영화]")
+        for movie in removed_duplicates[:20]:
+            print(f"- {movie.get('movieNm')} ({movie.get('openDt')}) / {movie_key(movie)}")
 
     if held_movies:
         print("\n[보류된 영화]")
@@ -1537,10 +1604,11 @@ def main():
         held_movies,
         excluded_movies,
     )
+    persist_status_lists(manual_movies, held_movies, excluded_movies)
 
     excluded_ids = build_excluded_id_set(excluded_movies)
     manual_movies = enrich_manual_movies(manual_movies, excluded_ids)
-    save_json_list(MANUAL_MOVIES_FILE, manual_movies)
+    persist_status_lists(manual_movies, held_movies, excluded_movies)
 
     excluded_movies, _ = add_deleted_movies_to_exclusions(
         excluded_movies,
@@ -1588,8 +1656,12 @@ def main():
     held_movies = merge_movies_into_list(held_movies, newly_held_movies)
     held_movies = extract_held_movies_from_current_map(current_map, held_movies)
     final_movies = build_final_movies(current_map)
-
-    print_data_warnings(final_movies)
+    final_movies, removed_duplicates = split_duplicate_release_titles(final_movies)
+    if removed_duplicates:
+        excluded_movies = merge_movies_into_list(
+            excluded_movies,
+            [build_excluded_movie_entry(movie) for movie in removed_duplicates],
+        )
 
     save_update_results(
         final_movies,
@@ -1605,6 +1677,7 @@ def main():
         newly_held_movies,
         refreshed_existing,
         released_held_movies,
+        removed_duplicates,
         added,
         skipped_existing,
         manual_added,

@@ -335,6 +335,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263272",
+    "movieNm": "돌핀보이: 푸른 바다의 수호자",
+    "openDt": "2026-06-03",
+    "genreNm": "애니메이션,가족,판타지,모험",
+    "nationAlt": "독일",
+    "director": "Mohammad KheirAndish",
+    "isReRelease": false,
+    "overview": "돌고래 가족의 보살핌 속에 바다의 히어로로 성장한 ‘돌핀보이’. 어느 날, 극적으로 만난 아빠가 바다를 차지하려는 악당에게 납치당하는 사건이 발생한다. 돌핀보이는 단짝 돌고래 ‘스노우볼’, 반전 매력 상어 ‘샤키’, 인간 소녀 레일라와 함께 아빠를 구하고 위기에 빠진 바다를 지키기 위해 환상적인 모험을 시작한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gjz5g41ZhB6d3efXk7jw8isurdC.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263262",
     "movieNm": "맘보 점보",
     "openDt": "2026-06-03",
@@ -356,6 +368,18 @@
     "isReRelease": false,
     "overview": "가요계를 휩쓸었지만 예기치 못한 사건에 휘말려 하루아침에 해체된 3인조 혼성 댄스 그룹 '트라이앵글'이 20년 만에 찾아온 재기의 기회를 잡기 위해 무모한 도전을 벌이는 코미디 영화",
     "posterUrl": "https://image.tmdb.org/t/p/w500/vpszanJFXaRNc9iytuZaaK3fcii.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20262771",
+    "movieNm": "현상수배",
+    "openDt": "2026-06-10",
+    "genreNm": "로맨스,액션,코미디",
+    "nationAlt": "한국,대만",
+    "director": "신재호",
+    "isReRelease": false,
+    "overview": "평범한 집배원 ‘현준’은 자신과 똑 닮은 현상수배범 ‘철구’로 인해 일상이 꼬이기 시작한다. ‘철구’를 쫓던 경찰들 역시 ‘현준’으로 인해 수사에 혼선을 겪게 되고, 그에게 공조 수사를 제안하게 되는데… 대만까지 이어진 추격에 ‘철구’의 옛 연인까지 얽히며 모든 게 제대로 꼬였다! 나랑 똑 닮은 그놈, 반드시 잡아야 한다!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pIsr1LMLymZBBSbaFSiO0oe7elJ.jpg",
     "status": "saved"
   }
 ]
