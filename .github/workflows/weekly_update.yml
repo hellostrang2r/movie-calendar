@@ -76,6 +76,7 @@ jobs:
           rm -rf docs
           cp -R build/web docs
           printf '%s\n' 'k-moviereleasecalendar.kr' > docs/CNAME
+          touch docs/.nojekyll
 
       - name: Commit changes
         if: ${{ github.event.inputs.dry_run != 'true' }}
