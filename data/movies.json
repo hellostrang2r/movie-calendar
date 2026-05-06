@@ -1230,6 +1230,28 @@
     "status": "saved"
   },
   {
+    "movieCd": "manual_20260513_topgun",
+    "movieNm": "탑건",
+    "openDt": "2026-05-13",
+    "genreNm": "액션,드라마",
+    "nationAlt": "미국",
+    "director": "토니 스콧",
+    "isReRelease": true,
+    "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "manual_20260513_topgunmaverick",
+    "movieNm": "탑건: 매버릭",
+    "openDt": "2026-05-13",
+    "genreNm": "액션,드라마",
+    "nationAlt": "미국",
+    "director": "조셉 코신스키",
+    "isReRelease": true,
+    "overview": "",
+    "status": "saved"
+  },
+  {
     "movieCd": "20252801",
     "movieNm": "교생실습",
     "openDt": "2026-05-13",
@@ -1443,6 +1465,17 @@
     "isReRelease": false,
     "overview": "내성적이고 평범한 콜린은 누가 봐도 섹시한 외모의 레이와 우연히 마주친다. 그 남자의 직업도 배경도 모르지만, 단지 그의 존재만으로 콜린의 마음은 흔들린다. 레이와 만나면서 콜린은 지금까지 경험 못한 새로운 세상을 알게 된다. 비밀과 규칙으로 가득한 레이의 세계에 콜린은 조금 더 깊숙이, 가까이 다가가고 싶은데...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/inN8IOb9wJD2Jx9XsRqh2Nd0VW9.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "manual_20260527_mandalorianandgrogu",
+    "movieNm": "만달로리안과 그로구",
+    "openDt": "2026-05-27",
+    "genreNm": "SF,액션,모험",
+    "nationAlt": "미국",
+    "director": "존 파브로",
+    "isReRelease": false,
+    "overview": "",
     "status": "saved"
   },
   {

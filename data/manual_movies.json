@@ -104,5 +104,38 @@
     "posterUrl": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
     "overview": "전설적 밴드 ‘너바나’와는 별로 관련이 없어 보이는 ‘너바나 더 밴드’의 콤비 맷과 제이. 어느 날 이들은 공연을 위해 타임 머신을 만들자는 황당한 계획을 세우고 처음 만났던 17년 전으로 돌아가기로 하는데…",
     "status": "saved"
+  },
+  {
+    "movieCd": "manual_20260513_topgun",
+    "movieNm": "탑건",
+    "openDt": "2026-05-13",
+    "genreNm": "액션,드라마",
+    "nationAlt": "미국",
+    "director": "토니 스콧",
+    "isReRelease": true,
+    "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "manual_20260513_topgunmaverick",
+    "movieNm": "탑건: 매버릭",
+    "openDt": "2026-05-13",
+    "genreNm": "액션,드라마",
+    "nationAlt": "미국",
+    "director": "조셉 코신스키",
+    "isReRelease": true,
+    "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "manual_20260527_mandalorianandgrogu",
+    "movieNm": "만달로리안과 그로구",
+    "openDt": "2026-05-27",
+    "genreNm": "SF,액션,모험",
+    "nationAlt": "미국",
+    "director": "존 파브로",
+    "isReRelease": false,
+    "overview": "",
+    "status": "saved"
   }
 ]
