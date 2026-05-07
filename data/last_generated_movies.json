@@ -1,65 +1,5 @@
 [
   {
-    "movieCd": "20263146",
-    "movieNm": "캣 앤 독",
-    "openDt": "2026-05-04",
-    "genreNm": "모험,코미디",
-    "nationAlt": "프랑스",
-    "director": "림 케리시",
-    "isReRelease": false,
-    "overview": "도둑 잭은 박물관에서 루비를 훔쳐서 나오던 중 마주친 경찰과 몸싸움을 벌이다가 그만 루비를 놓치게 된다. 그 순간 떠돌이 개 쉬쉬가 루비를 삼키게 되고 삼킨 루비를 찾기 위해 도둑 잭은 떠돌이 개 쉬쉬와 함께 비행기에 타려 한다. 잭은 빠른 수속을 위해 시각 장애인인 척하다가 모니카와 고양이 디바를 마주친다. 화물칸으로 이송 중이던 쉬쉬와 디바는 철장을 빠져나오면서 주인들을 잃게 되는데...",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jeRwrMXgOF2o3GqzIoYNSZ5W1yv.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20261243",
-    "movieNm": "그녀가 돌아온 날",
-    "openDt": "2026-05-06",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "홍상수",
-    "isReRelease": false,
-    "overview": "결혼 후 연기를 안 하게 되었고, 이혼 후 다시 일을 하기 위해 독립영화를 한 편 찍었다. 오늘 그 찍은 영화의 개봉을 위해 인터뷰를 한다. 중년의 나이가 돼서 아주 오랜만에 세상에 배우로 얼굴을 내미는 날이다. 세 번의 인터뷰가 삼 십분 간격으로 이어지고 여자는 질문들에 최선을 다해서 답한다. 인터뷰 후에 새로 시작한 연기수업에 가게 된다. 거기서 연기 선생은 오늘 있은 인터뷰를 다시 재현해보라고 한다. 인터뷰 중에 가장 중요한 부분에 다다르면 여자는 왠일인지 기억이 전혀 나지 않는 것 같다. 피곤하고 집으로 빨리 돌아가고 싶다. 딸이 기다리고 있다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pzAR32SOHwYT9OebuPh7jiSWapf.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20262947",
-    "movieNm": "모탈 컴뱃 2",
-    "openDt": "2026-05-06",
-    "genreNm": "액션,판타지,모험",
-    "nationAlt": "미국",
-    "director": "Simon McQuoid",
-    "isReRelease": false,
-    "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NgBKiPrJzv1VHdEN8brdy59Rxo.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20250630",
-    "movieNm": "빌리 아일리시 - 히트 미 하드 앤드 소프트: 더 투어",
-    "openDt": "2026-05-06",
-    "genreNm": "음악,다큐멘터리",
-    "nationAlt": "미국",
-    "director": "제임스 카메론",
-    "isReRelease": false,
-    "overview": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/c4WWethl0Jk60kB7ry1LrLmWuaQ.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20261943",
-    "movieNm": "올 그린스",
-    "openDt": "2026-05-06",
-    "genreNm": "코미디,드라마",
-    "nationAlt": "일본",
-    "director": "Takashi Koyama",
-    "isReRelease": false,
-    "overview": "학교에서도, 집에서도 마음 붙일 곳 없는 보쿠 히데미. 예쁘고 쾌활하게 보이지만 말 못 할 사정을 가진 미루쿠. 꿈과 재능의 갈림길에서 좌절하는 이와쿠마코. 3인 3색 개성을 지닌 세 여고생, 초록으로 대동단결! 세 사람이 이루고자 하는 목표는 바로 이 답답한 시골 마을에서 탈출하기. 소녀들의 발칙하고 불미스러운 일확천금 계획이 시작된다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xbSZGbv6yxY4onrbuTJZYEFnhhW.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20252801",
     "movieNm": "교생실습",
     "openDt": "2026-05-13",
@@ -141,18 +81,6 @@
     "isReRelease": false,
     "overview": "1980년 5월 18일, 광주에서 태어난 소설가 ‘미수’의 삶은 이미 시작부터 비극이었다. 태어나던 날 행방불명된 아버지와 평생 그를 찾아다닌 어머니로 인한 외로움은 오직 글쓰기로 풀어낼 수 있었고, 세상과 단절한 채 작품 활동에만 전념하던 어느 날 요양원으로부터 ‘이서연’이라는 인물의 유품이 담긴 우편물을 받는다. 일기와 카세트테이프 속 기록과 기억의 파편을 조합해 그날의 진실을 마주하게 되는데…",
     "posterUrl": "https://image.tmdb.org/t/p/w500/qgoSpSiw9MqF8cpGG4mhUvQUF8O.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263162",
-    "movieNm": "그림자 내각",
-    "openDt": "2026-05-14",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "한국",
-    "director": "Kim Si-woo",
-    "isReRelease": false,
-    "overview": "1979년 10월 16일, 유신정권을 종식한 부마 민주항쟁에서부터 시작하여 10.26 박정희 서거, 12.12 전두환의 군사반란, 2024년 12.3 윤석열의 내란으로 이어지는 대한민국의 과거부터 현재에 이르기까지 내란의 실체와 청산하지 못한 과거사를 추적하는 정치 다큐드라마로 군사반란과 내란을 어떻게 구조적으로 준비하였는지를 탐사한다. 그리고 전두환의 정적제거, 윤석열의 정적제거 실체를 추적하여 내란을 준비하는 과정을 낱낱이 파헤치고, 그 동조세력들의 실상을 추적한다. 또한 양극화의 뉴미디어와 국론분열 세력의 실체 및 독재권력으로 조성한 전두환, 노태우의 비자금 등을 집중 탐사하며, 전두환의 비자금이 내란 정권에 미친 영향과 과거 군사반란과 현재의 내란에 얽혀 있는 권력 주변의 검은 커넥션을 파헤친 작품이다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1HXPRXq1app922weQgkkiYXGnFK.jpg",
     "status": "saved"
   },
   {
@@ -312,6 +240,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20250412",
+    "movieNm": "파이널 피스",
+    "openDt": "2026-05-27",
+    "genreNm": "드라마,미스터리",
+    "nationAlt": "일본",
+    "director": "쿠마자와 나오토",
+    "isReRelease": false,
+    "overview": "산 속에서 고가의 장기말과 함께 신원불명의 사체가 발견된다. 장기말의 소유주를 추적하던 끝에 혜성처럼 등장한 천재 장기 기사 '케이스케'가 용의자로 떠오른다. 그리고 그의 주변을 파헤치던 중 악연으로 얽힌 전설적인 도박꾼 '토묘'가 사라졌다는 사실이 밝혀진다. 완벽한 수를 두는 천재 기사, 자취를 감춘 도박꾼. 두 남자의 운명이 걸린 대국이 이어질수록 모든 판을 뒤집을 충격적인 비밀이 드러나기 시작하는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zp11vcnq5X69jjXY4PHpTE5NVUz.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263521",
     "movieNm": "카드캡터 체리 극장판",
     "openDt": "2026-05-28",
@@ -360,6 +300,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263161",
+    "movieNm": "위대한 환상",
+    "openDt": "2026-06-10",
+    "genreNm": "드라마,코미디,역사",
+    "nationAlt": "이탈리아",
+    "director": "로베르토 안도",
+    "isReRelease": false,
+    "overview": "1860년, 콰트로에서 원정을 시작한 천인대가 수세에 몰리게 되자 모병된 병사의 기발한 계략으로 부르봉 왕조 군대와의 전투에서 승리한다는 이야기를 그린 극영화",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3mWC3uDDOzSRacf3eujVPVLP8DH.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20262771",
     "movieNm": "현상수배",
     "openDt": "2026-06-10",
@@ -369,6 +321,18 @@
     "isReRelease": false,
     "overview": "평범한 집배원 ‘현준’은 자신과 똑 닮은 현상수배범 ‘철구’로 인해 일상이 꼬이기 시작한다. ‘철구’를 쫓던 경찰들 역시 ‘현준’으로 인해 수사에 혼선을 겪게 되고, 그에게 공조 수사를 제안하게 되는데… 대만까지 이어진 추격에 ‘철구’의 옛 연인까지 얽히며 모든 게 제대로 꼬였다! 나랑 똑 닮은 그놈, 반드시 잡아야 한다!",
     "posterUrl": "https://image.tmdb.org/t/p/w500/pIsr1LMLymZBBSbaFSiO0oe7elJ.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20263162",
+    "movieNm": "그림자 내각",
+    "openDt": "2026-06-25",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "Kim Si-woo",
+    "isReRelease": false,
+    "overview": "1979년 10월 16일, 유신정권을 종식한 부마 민주항쟁에서부터 시작하여 10.26 박정희 서거, 12.12 전두환의 군사반란, 2024년 12.3 윤석열의 내란으로 이어지는 대한민국의 과거부터 현재에 이르기까지 내란의 실체와 청산하지 못한 과거사를 추적하는 정치 다큐드라마로 군사반란과 내란을 어떻게 구조적으로 준비하였는지를 탐사한다. 그리고 전두환의 정적제거, 윤석열의 정적제거 실체를 추적하여 내란을 준비하는 과정을 낱낱이 파헤치고, 그 동조세력들의 실상을 추적한다. 또한 양극화의 뉴미디어와 국론분열 세력의 실체 및 독재권력으로 조성한 전두환, 노태우의 비자금 등을 집중 탐사하며, 전두환의 비자금이 내란 정권에 미친 영향과 과거 군사반란과 현재의 내란에 얽혀 있는 권력 주변의 검은 커넥션을 파헤친 작품이다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1HXPRXq1app922weQgkkiYXGnFK.jpg",
     "status": "saved"
   }
 ]
