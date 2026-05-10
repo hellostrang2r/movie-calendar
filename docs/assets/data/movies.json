@@ -1230,28 +1230,6 @@
     "status": "saved"
   },
   {
-    "movieCd": "manual_20260513_topgun",
-    "movieNm": "탑건",
-    "openDt": "2026-05-13",
-    "genreNm": "액션,드라마",
-    "nationAlt": "미국",
-    "director": "토니 스콧",
-    "isReRelease": true,
-    "overview": "",
-    "status": "saved"
-  },
-  {
-    "movieCd": "manual_20260513_topgunmaverick",
-    "movieNm": "탑건: 매버릭",
-    "openDt": "2026-05-13",
-    "genreNm": "액션,드라마",
-    "nationAlt": "미국",
-    "director": "조셉 코신스키",
-    "isReRelease": true,
-    "overview": "",
-    "status": "saved"
-  },
-  {
     "movieCd": "20252801",
     "movieNm": "교생실습",
     "openDt": "2026-05-13",
@@ -1375,12 +1353,13 @@
     "movieCd": "manual_20260515_ifonly",
     "movieNm": "이프 온리",
     "openDt": "2026-05-15",
-    "genreNm": "",
+    "genreNm": "드라마,로맨스,판타지",
     "nationAlt": "기타",
-    "director": "정보 없음",
+    "director": "Gil Junger",
     "isReRelease": true,
-    "overview": "",
-    "status": "saved"
+    "overview": "바쁜 일상에 쫓겨 연인 사만다를 뒤로 미뤄왔던 이안. 사소한 다툼 끝에 그녀를 떠나보낸 그날 밤, 예상치 못한 사고로 그는 눈앞에서 가장 소중한 사람을 잃는다. 모든 것이 끝났다고 생각한 순간, 잠에서 깨어난 그의 앞에 믿을 수 없게도 똑같은 하루가 다시 펼쳐진다. 단 한 번, 다시 주어진 기회. 모든 후회의 순간을 되돌리듯 사만다에게 다시 사랑을 전하려는 이안. 과연 그는, 그녀를 지킬 수 있을까?",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mdP2jfx5ai3DoCFWQi5mqBWuxAy.jpg"
   },
   {
     "movieCd": "20259727",
@@ -1392,6 +1371,18 @@
     "isReRelease": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qd1zggtwHMu7wMCM9BzFLSidpJu.jpg",
     "overview": "숯과 얼음 같았던 두 사람이 어떤 해후를 하였을지는 알 길이 없다. 다만 김재규는 죽음 순간까지 의연함을 잃지 않았다. 재판 과정에서도 목숨을 구걸하지 않겠다며 변호인들의 변호를 거부했고 사형 직전 일체의 종교 의식도 거부한 채 오래전 어머니가 건네준 산복숭아씨 단주를 굴리며 쓸쓸히 홀로 형장의 이슬로 사라져 갔다. 오로지, 그가 남긴 마지막 말은 '대한민국 국민 여러분, 자유를 만끽하십시오’ 였다. 아무도 그를 알아주는 사람은 없었다.",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20262972",
+    "movieNm": "남태령",
+    "openDt": "2026-05-20",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "김현지",
+    "isReRelease": false,
+    "overview": "좋아요, 리트윗, 북마크로 열린 우연한 광장에서, 가로막히고 얼어붙은 고갯길에서, 동짓밤을 함께 하며 우리는 서로의 동지가 되었다. 체감온도 영하 20도의 긴긴밤은, 그렇게 가장 밝은 밤이 됐다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6QQcJCWtKBcSDE7J8snQvtieAqn.jpg",
     "status": "saved"
   },
   {
@@ -1503,17 +1494,6 @@
     "status": "saved"
   },
   {
-    "movieCd": "manual_20260527_mandalorianandgrogu",
-    "movieNm": "만달로리안과 그로구",
-    "openDt": "2026-05-27",
-    "genreNm": "SF,액션,모험",
-    "nationAlt": "미국",
-    "director": "존 파브로",
-    "isReRelease": false,
-    "overview": "",
-    "status": "saved"
-  },
-  {
     "movieCd": "20263363",
     "movieNm": "리마인더스 오브 힘",
     "openDt": "2026-05-27",
@@ -1586,6 +1566,30 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263512",
+    "movieNm": "이상한 과자 가게 전천당",
+    "openDt": "2026-05-29",
+    "genreNm": "드라마,판타지",
+    "nationAlt": "한국",
+    "director": "박봉섭",
+    "isReRelease": false,
+    "overview": "간절한 소원과 행운의 동전을 지닌 사람 앞에만 나타나는 신비한 과자 가게 ‘전천당’. ‘전천당’ 주인 ‘홍자’ 앞에 행운의 동전을 지닌 손님들이 찾아온다. 아픈 엄마를 낫게 해주고 싶은 학생부터 강한 힘을 얻고 싶은 학생, 피아노를 잘 치고 싶은 입시 준비생까지! 각자 원하는 능력을 받게 되지만, 그것도 잠시 질투와 욕망을 파는 과자 가게 ‘화앙당’의 주인 ‘요미’가 나타나면서 거부할 수 없는 제안을 건네기 시작하는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xHnw4j8F0xMFB1P7mxD4rJsp87J.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20257302",
+    "movieNm": "고독의 오후",
+    "openDt": "2026-06-03",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "프랑스,포르투갈,스페인",
+    "director": "Albert Serra",
+    "isReRelease": false,
+    "overview": "현역 스타 투우사 안드레스 로카 레이의 초상으로, 전통에 대한 존중과 미학적인 도전으로서 위험을 무릅쓰고 황소를 맞서는 투우사의 내밀한 경험을 되돌아보게 한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a6ZtfC3IcCUktFdlm1T4U45wd32.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263272",
     "movieNm": "돌핀보이: 푸른 바다의 수호자",
     "openDt": "2026-06-03",
@@ -1622,6 +1626,30 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263597",
+    "movieNm": "최후의 만찬",
+    "openDt": "2026-06-04",
+    "genreNm": "드라마",
+    "nationAlt": "미국",
+    "director": "Mauro Borrelli",
+    "isReRelease": false,
+    "overview": "예수 그리스도의 마지막 날들에 대한 이야기로 배신으로 이어지는 날, 제자들의 모임은 임박한 배신 앞에 모이게 된다. 그들이 모이면서 숨겨진 비밀과 숨겨진 동기가 그물망으로 풀어지며 점차 갈등의 계기가 되어간다. 수면 아래에서 긴장이 고조되면서 신뢰가 시험 받고 충성심에 의문이 제기된다. 최후의 만찬은 겉으로 드러난 것이 없고 모든 시선이 더 깊은 진실을 숨기는 밤이 된다. 최후의 만찬은 예수 그리스도 곁을 걸었던 사람들이 경험하는 신성한 사랑과 희생의 궁극적인 행위를 기념하는 강력하고 경건한 영화이다. 이 신성한 이야기는 구원의 역사를 형성한 순간들 뒤에 숨겨진 심오한 성경적 진리를 조명하며 이야기할 수 없는 관점을 드러낸다. 영화는 깊은 친밀감을 통해 관객들에게 구원과 은혜, 그리고 영원한 희망의 약속이라는 감동적인 증거를 보도록 초대한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/s1l3QN7oY1hYkgz0AE1mcYKlrXu.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "manual_20260610_sheepinthebox",
+    "movieNm": "상자 속의 양",
+    "openDt": "2026-06-10",
+    "genreNm": "드라마",
+    "nationAlt": "일본",
+    "director": "고레에다 히로카즈",
+    "isReRelease": false,
+    "overview": "근미래, 죽은 아들과 똑 닮은 휴머노이드를 가족으로 받아들이면서 벌어지는 이야기",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uwxNbArTZ7BUf9UQszS5DCs6prT.jpg"
+  },
+  {
     "movieCd": "20263161",
     "movieNm": "위대한 환상",
     "openDt": "2026-06-10",
@@ -1646,25 +1674,15 @@
     "status": "saved"
   },
   {
-    "movieCd": "manual_20260610_sheepinthebox",
-    "movieNm": "상자 속의 양",
-    "openDt": "2026-06-10",
-    "genreNm": "드라마",
-    "nationAlt": "일본",
-    "director": "고레에다 히로카즈",
-    "isReRelease": false,
-    "overview": "",
-    "status": "saved"
-  },
-  {
     "movieCd": "manual_20260715_minionsandmonsters",
     "movieNm": "미니언즈 & 몬스터즈",
     "openDt": "2026-07-15",
-    "genreNm": "",
+    "genreNm": "모험,애니메이션,코미디,가족,판타지",
     "nationAlt": "기타",
-    "director": "정보 없음",
+    "director": "Pierre Coffin",
     "isReRelease": false,
-    "overview": "",
-    "status": "saved"
+    "overview": "우연히 영화 촬영장에 난입한 미니언들이 세계적인 무비스타로 거듭나며 벌어지는 이야기",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8uvgppq5obV06X9X8SogQiU79Kd.jpg"
   }
 ]
