@@ -39,7 +39,7 @@ TMDB_API_BASE = "https://api.themoviedb.org/3"
 TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 KOBIS_TIMEOUT_SECONDS = 60
 KOBIS_MAX_RETRIES = 3
-UPDATE_WINDOW_DAYS = 90
+UPDATE_WINDOW_DAYS = 150
 TMDB_ENRICH_LOG_HEADER_PRINTED = False
 TITLE_NOISE_PATTERNS = [
     r"\b4k\s*리마스터\b",
@@ -963,9 +963,13 @@ def resolve_movie_status(movie, default_status):
     return default_status
 
 
-def prepare_movie_for_status(movie, default_status):
+def prepare_movie_for_status(movie, default_status, force_default_status=False):
     normalized = ensure_movie_optional_fields(movie)
-    normalized["status"] = resolve_movie_status(normalized, default_status)
+    normalized["status"] = (
+        default_status
+        if force_default_status
+        else resolve_movie_status(normalized, default_status)
+    )
     normalized.pop("addToMovies", None)
 
     if normalized["status"] != STATUS_HELD:
@@ -977,14 +981,22 @@ def prepare_movie_for_status(movie, default_status):
 
 
 def annotate_excluded_reason(movie, excluded_reason):
-    normalized = prepare_movie_for_status(movie, STATUS_EXCLUDED)
+    normalized = prepare_movie_for_status(
+        movie,
+        STATUS_EXCLUDED,
+        force_default_status=True,
+    )
     normalized["excludedReason"] = excluded_reason
     return normalized
 
 
-def normalize_movies_for_status(movies, default_status):
+def normalize_movies_for_status(movies, default_status, force_default_status=False):
     return [
-        prepare_movie_for_status(movie, default_status)
+        prepare_movie_for_status(
+            movie,
+            default_status,
+            force_default_status=force_default_status,
+        )
         for movie in movies
         if isinstance(movie, dict)
     ]
@@ -1065,18 +1077,56 @@ def apply_status_transitions(
     )
 
 
+def dedupe_status_buckets(manual_movies, held_movies, excluded_movies):
+    # More restrictive buckets win so one movie ends up in one editable list.
+    excluded_ids = {movie_key(movie) for movie in excluded_movies if movie_key(movie)}
+    held_ids = {movie_key(movie) for movie in held_movies if movie_key(movie)}
+
+    deduped_held_movies = [
+        movie for movie in held_movies if movie_key(movie) not in excluded_ids
+    ]
+    deduped_manual_movies = [
+        movie
+        for movie in manual_movies
+        if movie_key(movie) not in excluded_ids and movie_key(movie) not in held_ids
+    ]
+
+    return (
+        sort_movies(deduped_manual_movies),
+        sort_movies(deduped_held_movies),
+        sort_movies(excluded_movies),
+    )
+
+
 def persist_status_lists(manual_movies, held_movies, excluded_movies):
+    manual_movies, held_movies, excluded_movies = dedupe_status_buckets(
+        manual_movies,
+        held_movies,
+        excluded_movies,
+    )
     save_json_list(
         MANUAL_MOVIES_FILE,
-        normalize_movies_for_status(manual_movies, STATUS_SAVED),
+        normalize_movies_for_status(
+            manual_movies,
+            STATUS_SAVED,
+            force_default_status=True,
+        ),
     )
     save_json_list(
         HELD_MOVIES_FILE,
-        normalize_movies_for_status(held_movies, STATUS_HELD),
+        normalize_movies_for_status(
+            held_movies,
+            STATUS_HELD,
+            force_default_status=True,
+        ),
     )
     save_json_list(
         EXCLUDED_IDS_FILE,
-        normalize_movies_for_status(excluded_movies, STATUS_EXCLUDED),
+        normalize_movies_for_status(
+            excluded_movies,
+            STATUS_EXCLUDED,
+            force_default_status=True,
+        ),
     )
 
 
@@ -1117,7 +1167,11 @@ def build_hold_reasons(movie):
 
 
 def annotate_hold_reason(movie):
-    normalized = prepare_movie_for_status(movie, STATUS_HELD)
+    normalized = prepare_movie_for_status(
+        movie,
+        STATUS_HELD,
+        force_default_status=True,
+    )
     reasons = build_hold_reasons(normalized)
     normalized["holdReason"] = ", ".join(reasons)
     return normalized
@@ -1417,14 +1471,19 @@ def merge_generated_movies(current_map, newly_generated_movies):
     return added, skipped_existing
 
 
-def merge_manual_movies(current_map, manual_movies):
+def merge_manual_movies(current_map, manual_movies, blocked_ids=None):
     manual_added = []
     manual_skipped = []
+    blocked_ids = blocked_ids or set()
 
     for movie in manual_movies:
         movie_cd = movie_key(movie)
 
         if not movie_cd:
+            continue
+
+        if movie_cd in blocked_ids:
+            manual_skipped.append(movie)
             continue
 
         if movie_cd in current_map:
@@ -1442,7 +1501,7 @@ def merge_manual_movies(current_map, manual_movies):
 
 def build_final_movies(current_map):
     final_movies = [
-        prepare_movie_for_status(movie, STATUS_SAVED)
+        prepare_movie_for_status(movie, STATUS_SAVED, force_default_status=True)
         for movie in current_map.values()
     ]
     return sort_movies(final_movies)
@@ -1533,18 +1592,39 @@ def save_update_results(
     save_json_list(MOVIES_FILE, final_movies)
     save_json_list(
         LAST_GENERATED_FILE,
-        normalize_movies_for_status(newly_generated_movies, STATUS_SAVED),
+        normalize_movies_for_status(
+            newly_generated_movies,
+            STATUS_SAVED,
+            force_default_status=True,
+        ),
+    )
+    manual_movies, held_movies, excluded_movies = dedupe_status_buckets(
+        manual_movies,
+        held_movies,
+        excluded_movies,
     )
     save_json_list(
         MANUAL_MOVIES_FILE,
-        normalize_movies_for_status(manual_movies, STATUS_SAVED),
+        normalize_movies_for_status(
+            manual_movies,
+            STATUS_SAVED,
+            force_default_status=True,
+        ),
     )
     save_json_list(
         HELD_MOVIES_FILE,
-        normalize_movies_for_status(held_movies, STATUS_HELD),
+        normalize_movies_for_status(
+            held_movies,
+            STATUS_HELD,
+            force_default_status=True,
+        ),
     )
 
-    excluded_movies = normalize_movies_for_status(excluded_movies, STATUS_EXCLUDED)
+    excluded_movies = normalize_movies_for_status(
+        excluded_movies,
+        STATUS_EXCLUDED,
+        force_default_status=True,
+    )
     excluded_movies.sort(key=movie_sort_key)
     save_json_list(EXCLUDED_IDS_FILE, excluded_movies)
 
@@ -1634,10 +1714,20 @@ def main():
         held_movies,
         excluded_movies,
     )
+    manual_movies, held_movies, excluded_movies = dedupe_status_buckets(
+        manual_movies,
+        held_movies,
+        excluded_movies,
+    )
     persist_status_lists(manual_movies, held_movies, excluded_movies)
 
     excluded_ids = build_excluded_id_set(excluded_movies)
     manual_movies = enrich_manual_movies(manual_movies, excluded_ids)
+    manual_movies, held_movies, excluded_movies = dedupe_status_buckets(
+        manual_movies,
+        held_movies,
+        excluded_movies,
+    )
     persist_status_lists(manual_movies, held_movies, excluded_movies)
 
     excluded_movies, _ = add_deleted_movies_to_exclusions(
@@ -1684,7 +1774,14 @@ def main():
     )
     held_movies = merge_movies_into_list(held_movies, newly_held_movies)
     held_movies = extract_held_movies_from_current_map(current_map, held_movies)
-    manual_added, _ = merge_manual_movies(current_map, manual_movies)
+    blocked_manual_ids = build_excluded_id_set(held_movies) | build_excluded_id_set(
+        excluded_movies
+    )
+    manual_added, _ = merge_manual_movies(
+        current_map,
+        manual_movies,
+        blocked_ids=blocked_manual_ids,
+    )
     final_movies = build_final_movies(current_map)
     final_movies, removed_duplicates = split_duplicate_release_titles(final_movies)
     if removed_duplicates:

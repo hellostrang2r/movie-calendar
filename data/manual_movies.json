@@ -118,6 +118,18 @@
     "posterUrl": "https://image.tmdb.org/t/p/w500/jeqXUwNilvNqNXqAHsdwm5pEfae.jpg"
   },
   {
+    "movieCd": "manual_20260515_ifonly",
+    "movieNm": "이프 온리",
+    "openDt": "2026-05-15",
+    "genreNm": "드라마,로맨스,판타지",
+    "nationAlt": "기타",
+    "director": "Gil Junger",
+    "isReRelease": true,
+    "overview": "바쁜 일상에 쫓겨 연인 사만다를 뒤로 미뤄왔던 이안. 사소한 다툼 끝에 그녀를 떠나보낸 그날 밤, 예상치 못한 사고로 그는 눈앞에서 가장 소중한 사람을 잃는다. 모든 것이 끝났다고 생각한 순간, 잠에서 깨어난 그의 앞에 믿을 수 없게도 똑같은 하루가 다시 펼쳐진다. 단 한 번, 다시 주어진 기회. 모든 후회의 순간을 되돌리듯 사만다에게 다시 사랑을 전하려는 이안. 과연 그는, 그녀를 지킬 수 있을까?",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mdP2jfx5ai3DoCFWQi5mqBWuxAy.jpg"
+  },
+  {
     "movieCd": "20263344",
     "movieNm": "너바나 더 밴드 : 전설적 밴드 ‘너바나’와는 별 관련 없는 ‘너바나 더 밴드’의 콤비 맷과 제이. 어느 날 공연을 위해 타임머신을 만드는 황당한 작전을 세우고 처음 만났던 17년 전으로 돌",
     "openDt": "2026-05-20",
@@ -140,5 +152,29 @@
     "overview": "은하계를 누비는 현상금 사냥꾼 ‘딘 자린’ & 치명적인 귀여움의 ‘그로구’",
     "status": "saved",
     "posterUrl": "https://image.tmdb.org/t/p/w500/9eeT2X0ykYGp0Xq0rjrmtVwslGV.jpg"
+  },
+  {
+    "movieCd": "manual_20260610_sheepinthebox",
+    "movieNm": "상자 속의 양",
+    "openDt": "2026-06-10",
+    "genreNm": "드라마",
+    "nationAlt": "일본",
+    "director": "고레에다 히로카즈",
+    "isReRelease": false,
+    "overview": "근미래, 죽은 아들과 똑 닮은 휴머노이드를 가족으로 받아들이면서 벌어지는 이야기",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uwxNbArTZ7BUf9UQszS5DCs6prT.jpg"
+  },
+  {
+    "movieCd": "manual_20260715_minionsandmonsters",
+    "movieNm": "미니언즈 & 몬스터즈",
+    "openDt": "2026-07-15",
+    "genreNm": "모험,애니메이션,코미디,가족,판타지",
+    "nationAlt": "기타",
+    "director": "Pierre Coffin",
+    "isReRelease": false,
+    "overview": "우연히 영화 촬영장에 난입한 미니언들이 세계적인 무비스타로 거듭나며 벌어지는 이야기",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8uvgppq5obV06X9X8SogQiU79Kd.jpg"
   }
 ]

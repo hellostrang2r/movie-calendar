@@ -1372,6 +1372,17 @@
     "status": "saved"
   },
   {
+    "movieCd": "manual_20260515_ifonly",
+    "movieNm": "이프 온리",
+    "openDt": "2026-05-15",
+    "genreNm": "",
+    "nationAlt": "기타",
+    "director": "정보 없음",
+    "isReRelease": true,
+    "overview": "",
+    "status": "saved"
+  },
+  {
     "movieCd": "20259727",
     "movieNm": "1026: 새로운 세상을 위한",
     "openDt": "2026-05-20",
@@ -1632,6 +1643,28 @@
     "isReRelease": false,
     "overview": "평범한 집배원 ‘현준’은 자신과 똑 닮은 현상수배범 ‘철구’로 인해 일상이 꼬이기 시작한다. ‘철구’를 쫓던 경찰들 역시 ‘현준’으로 인해 수사에 혼선을 겪게 되고, 그에게 공조 수사를 제안하게 되는데… 대만까지 이어진 추격에 ‘철구’의 옛 연인까지 얽히며 모든 게 제대로 꼬였다! 나랑 똑 닮은 그놈, 반드시 잡아야 한다!",
     "posterUrl": "https://image.tmdb.org/t/p/w500/pIsr1LMLymZBBSbaFSiO0oe7elJ.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "manual_20260610_sheepinthebox",
+    "movieNm": "상자 속의 양",
+    "openDt": "2026-06-10",
+    "genreNm": "드라마",
+    "nationAlt": "일본",
+    "director": "고레에다 히로카즈",
+    "isReRelease": false,
+    "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "manual_20260715_minionsandmonsters",
+    "movieNm": "미니언즈 & 몬스터즈",
+    "openDt": "2026-07-15",
+    "genreNm": "",
+    "nationAlt": "기타",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
     "status": "saved"
   }
 ]
