@@ -252,7 +252,7 @@ class _ReleaseCalendarPageState extends State<ReleaseCalendarPage> {
     super.initState();
     repository =
         widget.repository ??
-        ((kDebugMode && !kIsWeb)
+        (kDebugMode
             ? LocalMovieRepository()
             : GithubMovieRepository());
     final now = DateTime.now();
@@ -2117,12 +2117,15 @@ class LocalMovieRepository implements MovieRepository {
     DateTime lastDay,
   ) async {
     try {
-      final response = await http
-          .get(
-            Uri.parse(
+      final localDataUri = kIsWeb
+          ? Uri.base.resolve(
+              'data/movies.json?t=${DateTime.now().millisecondsSinceEpoch}',
+            )
+          : Uri.parse(
               'http://localhost:8000/data/movies.json?t=${DateTime.now().millisecondsSinceEpoch}',
-            ),
-          )
+            );
+      final response = await http
+          .get(localDataUri)
           .timeout(const Duration(milliseconds: 500));
 
       if (response.statusCode == 200) {
