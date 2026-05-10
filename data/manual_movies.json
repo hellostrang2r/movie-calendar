@@ -48,40 +48,6 @@
     "status": "saved"
   },
   {
-    "movieCd": "20263090",
-    "movieNm": "붉은 10월의 반란 파트 2",
-    "openDt": "2026-04-17",
-    "genreNm": "",
-    "nationAlt": "기타",
-    "director": "정보 없음",
-    "isReRelease": false,
-    "overview": "",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263121",
-    "movieNm": "플래닛 어스 : 대자연의 힘 ",
-    "openDt": "2026-04-22",
-    "genreNm": "",
-    "nationAlt": "영국",
-    "director": "정보 없음",
-    "isReRelease": false,
-    "overview": "",
-    "status": "saved"
-  },
-  {
-    "movieCd": "manual_20260429_vivaldiandme",
-    "movieNm": "비발디와 나",
-    "openDt": "2026-04-29",
-    "genreNm": "드라마,음악",
-    "nationAlt": "이탈리아",
-    "director": "다미아노 미키엘레토",
-    "isReRelease": false,
-    "overview": "18세기 초 베네치아, 뛰어난 오케스트라로 명성 높은 피에타 고아원. 화려한 명성과 달리 소녀들은 얼굴도 이름도 숨긴 채 연주해야 하고, 세상 밖으로 나갈 수 있는 유일한 방법은 결혼뿐이다. 스무 살의 천재 바이올리니스트 체칠리아는 새로 부임한 음악 교사 비발디를 만나며 그의 음악을 통해 자신의 재능과 운명을 마주하게 된다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/40DCL4scy4pxAodQomVhuxRizXr.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "manual_20260429_devilwearsprada2",
     "movieNm": "악마는 프라다를 입는다 2",
     "openDt": "2026-04-29",
