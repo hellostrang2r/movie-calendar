@@ -1,188 +1,15 @@
-import 'dart:convert';
-
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:http/http.dart' as http;
 
+import 'data/movie_repository.dart';
+import 'models/movie.dart';
+import 'theme/ui_config.dart';
 import 'web/open_external_url.dart';
+
+export 'data/movie_repository.dart' show MockMovieRepository;
 
 void main() {
   runApp(const ReleaseCalendarApp());
-}
-
-/// =====================================================
-/// UI CONFIG
-/// =====================================================
-
-class UIColors {
-  // App
-  static const Color scaffoldBackground = Color(0xFFF8FAFC);
-  static const Color appBarBackground = Color(0xFFFFFFFF);
-  static const Color appBarForeground = Color(0xFF111827);
-
-  // Summary
-  static const Color summaryBackground = Color(0xFFFFFFFF);
-  static const Color summaryDivider = Color(0xFFE5E7EB);
-
-  // Calendar
-  static const Color calendarCellBackground = Color(0xFFFFFFFF);
-  static const Color calendarCellBorder = Color(0xFFE5E7EB);
-  static const Color selectedCellBackground = Color(0xFFDBEAFE);
-  static const Color selectedCellBorder = Color(0xFF2563EB);
-  static const Color todayCellBackground = Color(0xFFE0F2FE);
-  static const Color todayCellBorder = Color(0xFF0284C7);
-
-  // Indicators
-  static const Color indicatorDot = Color(0xFF2563EB);
-  static const Color indicatorBadgeBackground = Color(0xFF2563EB);
-  static const Color indicatorBadgeText = Color(0xFFFFFFFF);
-
-  // Movie card
-  static const Color movieCardBackground = Color(0xFFFFFFFF);
-  static const Color moviePosterBackground = Color(0xFFF3F4F6);
-  static const Color sidePanelBackground = Color(0xFFFFFFFF);
-
-  // Badge
-  static const Color rereleaseBadgeBackground = Color(0xFFFDE68A);
-  static const Color rereleaseBadgeText = Color(0xFF92400E);
-
-  // Text
-  static const Color titleText = Color(0xFF111827);
-  static const Color bodyText = Color(0xFF374151);
-  static const Color subText = Color(0xFF6B7280);
-  static const Color todayText = Color(0xFFDC2626);
-
-  // Divider / icon
-  static const Color divider = Color(0xFFE5E7EB);
-  static const Color icon = Color(0xFF374151);
-
-  // Button / loading / error
-  static const Color primaryButtonBackground = Color(0xFF2563EB);
-  static const Color primaryButtonForeground = Color(0xFFFFFFFF);
-  static const Color loadingIndicator = Color(0xFF2563EB);
-  static const Color errorIcon = Color(0xFFDC2626);
-  static const Color errorText = Color(0xFF111827);
-}
-
-class UISpacing {
-  static const double xs = 4;
-  static const double s = 8;
-  static const double m = 12;
-  static const double l = 16;
-  static const double xl = 24;
-}
-
-class UISizes {
-  static const double cardRadius = 16;
-  static const double summaryRadius = 16;
-  static const double calendarCellRadius = 16;
-  static const double movieCardRadius = 16;
-  static const double posterRadius = 10;
-  static const double badgeRadius = 999;
-
-  static const double selectedBorderWidth = 1.6;
-  static const double normalBorderWidth = 1.0;
-  static const double summaryDividerWidth = 1.0;
-
-  static const double movieListHeight = 320;
-  static const double compactMovieListRatio = 0.34;
-  static const double compactScreenHeightThreshold = 700;
-
-  static const double moviePosterWidth = 42;
-  static const double moviePosterHeight = 56;
-  static const double dialogPosterWidth = 96;
-  static const double dialogPosterHeight = 136;
-
-  static const double movieDotSize = 6;
-  static const double movieDotRowHeight = 14;
-  static const double movieDotSpacing = 2;
-
-  static const double errorIconSize = 40;
-  static const double loadingStrokeWidth = 3;
-  static const double sidePanelWidthFactor = 0.5;
-}
-
-class UIText {
-  static const double appBarTitle = 18;
-  static const double monthTitle = 22;
-
-  static const double summaryLabel = 14;
-  static const double summaryValue = 18;
-
-  static const double weekday = 14;
-  static const double dayNumber = 13;
-  static const double indicatorBadge = 9;
-
-  static const double selectedDateTitle = 16;
-  static const double movieTitle = 15;
-  static const double movieMeta = 13;
-  static const double movieDirector = 12;
-  static const double dialogTitle = 18;
-  static const double dialogBody = 14;
-  static const double badge = 12;
-
-  static const double emptyText = 14;
-  static const double errorText = 14;
-  static const double retryButton = 14;
-
-  static const FontWeight appBarTitleWeight = FontWeight.w700;
-  static const FontWeight monthTitleWeight = FontWeight.w700;
-  static const FontWeight summaryLabelWeight = FontWeight.w500;
-  static const FontWeight summaryValueWeight = FontWeight.w700;
-  static const FontWeight weekdayWeight = FontWeight.w700;
-  static const FontWeight dayNumberWeight = FontWeight.w700;
-  static const FontWeight selectedDateTitleWeight = FontWeight.w700;
-  static const FontWeight movieTitleWeight = FontWeight.w700;
-  static const FontWeight badgeWeight = FontWeight.w700;
-  static const FontWeight indicatorBadgeWeight = FontWeight.bold;
-  static const FontWeight retryButtonWeight = FontWeight.w600;
-}
-
-class UILayout {
-  static const double pageHorizontalPadding = 16;
-
-  static const double monthHeaderLeft = 8;
-  static const double monthHeaderTop = 8;
-  static const double monthHeaderRight = 8;
-  static const double monthHeaderBottom = 4;
-
-  static const double weekdayHorizontalPadding = 12;
-  static const double calendarHorizontalPadding = 12;
-  static const double calendarTopPadding = 8;
-
-  static const double calendarMainAxisSpacing = 8;
-  static const double calendarCrossAxisSpacing = 8;
-
-  static const double selectedListLeft = 16;
-  static const double selectedListTop = 12;
-  static const double selectedListRight = 16;
-  static const double selectedListBottom = 16;
-}
-
-class UICalendar {
-  static const double cellPaddingHorizontal = 4;
-  static const double cellPaddingVertical = 5;
-  static const double weekdayVerticalPadding = 5;
-}
-
-class UIMovieCard {
-  static const double padding = 12;
-  static const double gapBetweenPosterAndText = 12;
-}
-
-class UIBadge {
-  static const double horizontalPadding = 8;
-  static const double verticalPadding = 4;
-}
-
-class UIAdaptive {
-  static const bool enableSwipeMonth = true;
-}
-
-class UIAnimation {
-  static const Duration pageDuration = Duration(milliseconds: 280);
-  static const Curve pageCurve = Curves.easeInOut;
 }
 
 /// =====================================================
@@ -252,9 +79,7 @@ class _ReleaseCalendarPageState extends State<ReleaseCalendarPage> {
     super.initState();
     repository =
         widget.repository ??
-        (kDebugMode
-            ? LocalMovieRepository()
-            : GithubMovieRepository());
+        (kDebugMode ? LocalMovieRepository() : GithubMovieRepository());
     final now = DateTime.now();
     _baseMonth = DateTime(now.year, now.month);
     focusedMonth = _baseMonth;
@@ -815,10 +640,7 @@ class _CalendarSidePanelState extends State<_CalendarSidePanel> {
   bool _isOtherCalendarsExpanded = false;
 
   static const List<_OtherCalendarLink> _otherCalendars = [
-    _OtherCalendarLink(
-      title: '다른 캘린더 준비중',
-      url: '',
-    ),
+    _OtherCalendarLink(title: '다른 캘린더 준비중', url: ''),
   ];
 
   void _showAddToHomeScreenGuide(BuildContext context) {
@@ -858,7 +680,10 @@ class _CalendarSidePanelState extends State<_CalendarSidePanel> {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              _GuideStep(number: '1', text: '안드로이드에서 Chrome 또는 삼성 인터넷으로 이 페이지를 엽니다.'),
+              _GuideStep(
+                number: '1',
+                text: '안드로이드에서 Chrome 또는 삼성 인터넷으로 이 페이지를 엽니다.',
+              ),
               _GuideStep(number: '2', text: '브라우저 메뉴 버튼을 누릅니다.'),
               _GuideStep(number: '3', text: '"홈 화면에 추가" 또는 "앱 설치"를 선택합니다.'),
               _GuideStep(number: '4', text: '확인 버튼을 눌러 홈 화면에 추가합니다.'),
@@ -878,9 +703,9 @@ class _CalendarSidePanelState extends State<_CalendarSidePanel> {
   void _openOtherCalendar(BuildContext context, String url) {
     final trimmedUrl = url.trim();
     if (trimmedUrl.isEmpty) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('아직 연결된 캘린더 URL이 없습니다.')),
-      );
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(const SnackBar(content: Text('아직 연결된 캘린더 URL이 없습니다.')));
       return;
     }
 
@@ -961,7 +786,8 @@ class _CalendarSidePanelState extends State<_CalendarSidePanel> {
                         padding: const EdgeInsets.only(bottom: UISpacing.s),
                         child: _OtherCalendarListTile(
                           title: calendar.title,
-                          onTap: () => _openOtherCalendar(context, calendar.url),
+                          onTap: () =>
+                              _openOtherCalendar(context, calendar.url),
                         ),
                       ),
                     ),
@@ -1112,11 +938,7 @@ class _InfoStackTile extends StatelessWidget {
                 ),
               ),
               const SizedBox(width: UISpacing.s),
-              Icon(
-                trailingIcon,
-                color: UIColors.subText,
-                size: 20,
-              ),
+              Icon(trailingIcon, color: UIColors.subText, size: 20),
             ],
           ),
         ),
@@ -1126,20 +948,14 @@ class _InfoStackTile extends StatelessWidget {
 }
 
 class _OtherCalendarLink {
-  const _OtherCalendarLink({
-    required this.title,
-    required this.url,
-  });
+  const _OtherCalendarLink({required this.title, required this.url});
 
   final String title;
   final String url;
 }
 
 class _OtherCalendarListTile extends StatelessWidget {
-  const _OtherCalendarListTile({
-    required this.title,
-    required this.onTap,
-  });
+  const _OtherCalendarListTile({required this.title, required this.onTap});
 
   final String title;
   final VoidCallback onTap;
@@ -1176,11 +992,7 @@ class _OtherCalendarListTile extends StatelessWidget {
                 ),
               ),
               SizedBox(width: UISpacing.s),
-              Icon(
-                Icons.open_in_new,
-                color: UIColors.subText,
-                size: 18,
-              ),
+              Icon(Icons.open_in_new, color: UIColors.subText, size: 18),
             ],
           ),
         ),
@@ -1890,255 +1702,5 @@ class _LoadingState extends StatelessWidget {
         ),
       ),
     );
-  }
-}
-
-/// =====================================================
-/// MODEL / REPOSITORY
-/// =====================================================
-
-class Movie {
-  const Movie({
-    required this.movieCd,
-    required this.title,
-    required this.openDate,
-    required this.genre,
-    required this.nation,
-    required this.director,
-    this.isReRelease = false,
-    this.posterUrl,
-    this.overview,
-  });
-
-  final String movieCd;
-  final String title;
-  final DateTime openDate;
-  final String genre;
-  final String nation;
-  final String director;
-  final bool isReRelease;
-  final String? posterUrl;
-  final String? overview;
-}
-
-abstract class MovieRepository {
-  Future<List<Movie>> fetchMoviesByMonth(DateTime firstDay, DateTime lastDay);
-}
-
-List<Movie> _moviesFromJson(String body) {
-  final List<dynamic> data = jsonDecode(body);
-
-  return data.map((json) {
-    return Movie(
-      movieCd: json['movieCd'] as String,
-      title: json['movieNm'] as String,
-      openDate: DateTime.parse(json['openDt'] as String),
-      genre: json['genreNm'] as String? ?? '기타',
-      nation: json['nationAlt'] as String? ?? '미상',
-      director: json['director'] as String? ?? '정보 없음',
-      isReRelease: json['isReRelease'] as bool? ?? false,
-      posterUrl: json['posterUrl'] as String?,
-      overview: json['overview'] as String?,
-    );
-  }).toList();
-}
-
-List<Movie> _filterMoviesByRange(
-  List<Movie> movies,
-  DateTime firstDay,
-  DateTime lastDay,
-) {
-  return movies.where((movie) {
-    final d = movie.openDate;
-    final afterOrSame = !d.isBefore(
-      DateTime(firstDay.year, firstDay.month, firstDay.day),
-    );
-    final beforeOrSame = !d.isAfter(
-      DateTime(lastDay.year, lastDay.month, lastDay.day),
-    );
-    return afterOrSame && beforeOrSame;
-  }).toList();
-}
-
-Future<List<Movie>> _loadBundledMoviesByMonth(
-  DateTime firstDay,
-  DateTime lastDay,
-) async {
-  final body = await rootBundle.loadString('data/movies.json');
-  return _filterMoviesByRange(_moviesFromJson(body), firstDay, lastDay);
-}
-
-class MockMovieRepository implements MovieRepository {
-  @override
-  Future<List<Movie>> fetchMoviesByMonth(
-    DateTime firstDay,
-    DateTime lastDay,
-  ) async {
-    await Future<void>.delayed(const Duration(milliseconds: 300));
-
-    final sample = <Movie>[
-      Movie(
-        movieCd: '20260001',
-        title: '봄의 장면',
-        openDate: DateTime(firstDay.year, firstDay.month, 2),
-        genre: '드라마',
-        nation: '한국',
-        director: '김다온',
-      ),
-      Movie(
-        movieCd: '20260002',
-        title: '문라이트 시티',
-        openDate: DateTime(firstDay.year, firstDay.month, 2),
-        genre: '로맨스',
-        nation: '한국',
-        director: '이서현',
-      ),
-      Movie(
-        movieCd: '20260003',
-        title: '심연의 항해',
-        openDate: DateTime(firstDay.year, firstDay.month, 8),
-        genre: '스릴러',
-        nation: '미국',
-        director: 'Daniel Hart',
-      ),
-      Movie(
-        movieCd: '20260004',
-        title: '낮과 밤 사이',
-        openDate: DateTime(firstDay.year, firstDay.month, 8),
-        genre: '미스터리',
-        nation: '한국',
-        director: '박예준',
-      ),
-      Movie(
-        movieCd: '20260005',
-        title: '소년과 별',
-        openDate: DateTime(firstDay.year, firstDay.month, 14),
-        genre: '애니메이션',
-        nation: '일본',
-        director: 'Aoi Tanaka',
-      ),
-      Movie(
-        movieCd: '20260006',
-        title: '리와인드 1999',
-        openDate: DateTime(firstDay.year, firstDay.month, 18),
-        genre: 'SF',
-        nation: '영국',
-        director: 'Emily Rose',
-      ),
-      Movie(
-        movieCd: '20260007',
-        title: '클래식 리마스터',
-        openDate: DateTime(firstDay.year, firstDay.month, 18),
-        genre: '드라마',
-        nation: '프랑스',
-        director: 'Jean Moreau',
-        isReRelease: true,
-      ),
-      Movie(
-        movieCd: '20260008',
-        title: '도시의 초상',
-        openDate: DateTime(firstDay.year, firstDay.month, 24),
-        genre: '독립영화',
-        nation: '한국',
-        director: '최민석',
-      ),
-      Movie(
-        movieCd: '20260009',
-        title: '한여름의 끝',
-        openDate: DateTime(firstDay.year, firstDay.month, 24),
-        genre: '멜로',
-        nation: '한국',
-        director: '정하린',
-      ),
-      Movie(
-        movieCd: '20260010',
-        title: '라스트 스테이션',
-        openDate: DateTime(firstDay.year, firstDay.month, 24),
-        genre: '액션',
-        nation: '미국',
-        director: 'Chris Nolan Jr.',
-      ),
-      Movie(
-        movieCd: '20260011',
-        title: '하늘 아래 우리',
-        openDate: DateTime(firstDay.year, firstDay.month, 30),
-        genre: '다큐멘터리',
-        nation: '한국',
-        director: '윤세아',
-      ),
-    ];
-
-    return sample.where((movie) {
-      final d = movie.openDate;
-      final afterOrSame = !d.isBefore(
-        DateTime(firstDay.year, firstDay.month, firstDay.day),
-      );
-      final beforeOrSame = !d.isAfter(
-        DateTime(lastDay.year, lastDay.month, lastDay.day),
-      );
-      return afterOrSame && beforeOrSame;
-    }).toList();
-  }
-}
-
-class GithubMovieRepository implements MovieRepository {
-  final String url =
-      'https://raw.githubusercontent.com/hellostrang2r/movie-calendar/main/data/movies.json';
-
-  @override
-  Future<List<Movie>> fetchMoviesByMonth(
-    DateTime firstDay,
-    DateTime lastDay,
-  ) async {
-    try {
-      final response = await http
-          .get(Uri.parse('$url?t=${DateTime.now().millisecondsSinceEpoch}'))
-          .timeout(const Duration(seconds: 3));
-
-      if (response.statusCode == 200) {
-        return _filterMoviesByRange(
-          _moviesFromJson(response.body),
-          firstDay,
-          lastDay,
-        );
-      }
-    } catch (_) {
-      // Fall back to the bundled data below.
-    }
-
-    return _loadBundledMoviesByMonth(firstDay, lastDay);
-  }
-}
-
-class LocalMovieRepository implements MovieRepository {
-  @override
-  Future<List<Movie>> fetchMoviesByMonth(
-    DateTime firstDay,
-    DateTime lastDay,
-  ) async {
-    try {
-      final localDataUri = kIsWeb
-          ? Uri.base.resolve(
-              'data/movies.json?t=${DateTime.now().millisecondsSinceEpoch}',
-            )
-          : Uri.parse(
-              'http://localhost:8000/data/movies.json?t=${DateTime.now().millisecondsSinceEpoch}',
-            );
-      final response = await http
-          .get(localDataUri)
-          .timeout(const Duration(milliseconds: 500));
-
-      if (response.statusCode == 200) {
-        return _filterMoviesByRange(
-          _moviesFromJson(response.body),
-          firstDay,
-          lastDay,
-        );
-      }
-    } catch (_) {
-      // Fall back to the bundled data below.
-    }
-
-    return _loadBundledMoviesByMonth(firstDay, lastDay);
   }
 }

@@ -4,6 +4,7 @@ import json
 import os
 import re
 import time
+from dataclasses import dataclass
 from pathlib import Path
 
 import requests
@@ -30,6 +31,13 @@ VALID_MOVIE_STATUSES = {
     STATUS_HELD,
     STATUS_EXCLUDED,
 }
+
+
+@dataclass
+class StatusBuckets:
+    saved: list
+    held: list
+    excluded: list
 
 EXCLUDED_GENRE_KEYWORDS = [
     "성인물(에로)",
@@ -1016,10 +1024,10 @@ def split_movies_by_status(movies, default_status):
         else:
             saved_movies.append(movie)
 
-    return (
-        sort_movies(saved_movies),
-        sort_movies(held_movies),
-        sort_movies(excluded_movies),
+    return StatusBuckets(
+        saved=sort_movies(saved_movies),
+        held=sort_movies(held_movies),
+        excluded=sort_movies(excluded_movies),
     )
 
 
@@ -1029,52 +1037,51 @@ def apply_status_transitions(
     held_movies,
     excluded_movies,
 ):
-    current_saved, current_to_held, current_to_excluded = split_movies_by_status(
+    current = split_movies_by_status(
         current_movies,
         STATUS_SAVED,
     )
-    manual_saved, manual_to_held, manual_to_excluded = split_movies_by_status(
+    manual = split_movies_by_status(
         manual_movies,
         STATUS_SAVED,
     )
-    held_to_saved, held_remaining, held_to_excluded = split_movies_by_status(
+    held = split_movies_by_status(
         held_movies,
         STATUS_HELD,
     )
-    excluded_to_saved, excluded_to_held, excluded_remaining = split_movies_by_status(
+    excluded = split_movies_by_status(
         excluded_movies,
         STATUS_EXCLUDED,
     )
 
-    next_manual_movies = merge_movies_into_list(manual_saved, held_to_saved)
-    next_manual_movies = merge_movies_into_list(next_manual_movies, excluded_to_saved)
+    next_manual_movies = merge_movies_into_list(manual.saved, held.saved)
+    next_manual_movies = merge_movies_into_list(next_manual_movies, excluded.saved)
 
-    next_held_movies = merge_movies_into_list(held_remaining, current_to_held)
-    next_held_movies = merge_movies_into_list(next_held_movies, manual_to_held)
-    next_held_movies = merge_movies_into_list(next_held_movies, excluded_to_held)
+    next_held_movies = merge_movies_into_list(held.held, current.held)
+    next_held_movies = merge_movies_into_list(next_held_movies, manual.held)
+    next_held_movies = merge_movies_into_list(next_held_movies, excluded.held)
 
     current_to_excluded = [
         annotate_excluded_reason(movie, "상태 변경으로 제외")
-        for movie in current_to_excluded
+        for movie in current.excluded
     ]
     manual_to_excluded = [
         annotate_excluded_reason(movie, "상태 변경으로 제외")
-        for movie in manual_to_excluded
+        for movie in manual.excluded
     ]
     held_to_excluded = [
         annotate_excluded_reason(movie, "상태 변경으로 제외")
-        for movie in held_to_excluded
+        for movie in held.excluded
     ]
-    next_excluded_movies = merge_movies_into_list(excluded_remaining, current_to_excluded)
+    next_excluded_movies = merge_movies_into_list(excluded.excluded, current_to_excluded)
     next_excluded_movies = merge_movies_into_list(next_excluded_movies, manual_to_excluded)
     next_excluded_movies = merge_movies_into_list(next_excluded_movies, held_to_excluded)
 
-    return (
-        current_saved,
-        next_manual_movies,
-        next_held_movies,
-        next_excluded_movies,
-    )
+    return StatusBuckets(
+        saved=current.saved,
+        held=next_held_movies,
+        excluded=next_excluded_movies,
+    ), next_manual_movies
 
 
 def dedupe_status_buckets(manual_movies, held_movies, excluded_movies):
@@ -1091,15 +1098,15 @@ def dedupe_status_buckets(manual_movies, held_movies, excluded_movies):
         if movie_key(movie) not in excluded_ids and movie_key(movie) not in held_ids
     ]
 
-    return (
-        sort_movies(deduped_manual_movies),
-        sort_movies(deduped_held_movies),
-        sort_movies(excluded_movies),
+    return StatusBuckets(
+        saved=sort_movies(deduped_manual_movies),
+        held=sort_movies(deduped_held_movies),
+        excluded=sort_movies(excluded_movies),
     )
 
 
 def persist_status_lists(manual_movies, held_movies, excluded_movies):
-    manual_movies, held_movies, excluded_movies = dedupe_status_buckets(
+    status_buckets = dedupe_status_buckets(
         manual_movies,
         held_movies,
         excluded_movies,
@@ -1107,7 +1114,7 @@ def persist_status_lists(manual_movies, held_movies, excluded_movies):
     save_json_list(
         MANUAL_MOVIES_FILE,
         normalize_movies_for_status(
-            manual_movies,
+            status_buckets.saved,
             STATUS_SAVED,
             force_default_status=True,
         ),
@@ -1115,7 +1122,7 @@ def persist_status_lists(manual_movies, held_movies, excluded_movies):
     save_json_list(
         HELD_MOVIES_FILE,
         normalize_movies_for_status(
-            held_movies,
+            status_buckets.held,
             STATUS_HELD,
             force_default_status=True,
         ),
@@ -1123,7 +1130,7 @@ def persist_status_lists(manual_movies, held_movies, excluded_movies):
     save_json_list(
         EXCLUDED_IDS_FILE,
         normalize_movies_for_status(
-            excluded_movies,
+            status_buckets.excluded,
             STATUS_EXCLUDED,
             force_default_status=True,
         ),
@@ -1231,10 +1238,18 @@ def refresh_held_movies(held_movies, raw_movie_map, excluded_ids):
     return sort_movies(still_held), sort_movies(released)
 
 
-def extract_held_movies_from_current_map(current_map, held_movies):
+def extract_held_movies_from_current_map(
+    current_map,
+    held_movies,
+    force_saved_ids=None,
+):
     held_map = build_movie_map(held_movies)
+    force_saved_ids = force_saved_ids or set()
 
     for movie_cd in list(current_map.keys()):
+        if movie_cd in force_saved_ids:
+            continue
+
         movie = ensure_movie_optional_fields(current_map[movie_cd])
         if not should_hold_movie(movie):
             continue
@@ -1598,7 +1613,7 @@ def save_update_results(
             force_default_status=True,
         ),
     )
-    manual_movies, held_movies, excluded_movies = dedupe_status_buckets(
+    status_buckets = dedupe_status_buckets(
         manual_movies,
         held_movies,
         excluded_movies,
@@ -1606,7 +1621,7 @@ def save_update_results(
     save_json_list(
         MANUAL_MOVIES_FILE,
         normalize_movies_for_status(
-            manual_movies,
+            status_buckets.saved,
             STATUS_SAVED,
             force_default_status=True,
         ),
@@ -1614,14 +1629,14 @@ def save_update_results(
     save_json_list(
         HELD_MOVIES_FILE,
         normalize_movies_for_status(
-            held_movies,
+            status_buckets.held,
             STATUS_HELD,
             force_default_status=True,
         ),
     )
 
     excluded_movies = normalize_movies_for_status(
-        excluded_movies,
+        status_buckets.excluded,
         STATUS_EXCLUDED,
         force_default_status=True,
     )
@@ -1708,26 +1723,35 @@ def main():
     manual_movies = data["manual_movies"]
     excluded_movies = data["excluded_movies"]
     held_movies = data["held_movies"]
-    current_movies, manual_movies, held_movies, excluded_movies = apply_status_transitions(
+    status_buckets, manual_movies = apply_status_transitions(
         current_movies,
         manual_movies,
         held_movies,
         excluded_movies,
     )
-    manual_movies, held_movies, excluded_movies = dedupe_status_buckets(
+    current_movies = status_buckets.saved
+    held_movies = status_buckets.held
+    excluded_movies = status_buckets.excluded
+    status_buckets = dedupe_status_buckets(
         manual_movies,
         held_movies,
         excluded_movies,
     )
+    manual_movies = status_buckets.saved
+    held_movies = status_buckets.held
+    excluded_movies = status_buckets.excluded
     persist_status_lists(manual_movies, held_movies, excluded_movies)
 
     excluded_ids = build_excluded_id_set(excluded_movies)
     manual_movies = enrich_manual_movies(manual_movies, excluded_ids)
-    manual_movies, held_movies, excluded_movies = dedupe_status_buckets(
+    status_buckets = dedupe_status_buckets(
         manual_movies,
         held_movies,
         excluded_movies,
     )
+    manual_movies = status_buckets.saved
+    held_movies = status_buckets.held
+    excluded_movies = status_buckets.excluded
     persist_status_lists(manual_movies, held_movies, excluded_movies)
 
     excluded_movies, _ = add_deleted_movies_to_exclusions(
@@ -1773,7 +1797,12 @@ def main():
         newly_generated_movies,
     )
     held_movies = merge_movies_into_list(held_movies, newly_held_movies)
-    held_movies = extract_held_movies_from_current_map(current_map, held_movies)
+    manual_saved_ids = build_excluded_id_set(manual_movies)
+    held_movies = extract_held_movies_from_current_map(
+        current_map,
+        held_movies,
+        force_saved_ids=manual_saved_ids,
+    )
     blocked_manual_ids = build_excluded_id_set(held_movies) | build_excluded_id_set(
         excluded_movies
     )
