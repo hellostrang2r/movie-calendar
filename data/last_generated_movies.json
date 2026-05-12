@@ -348,6 +348,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20250655",
+    "movieNm": "디스클로저 데이",
+    "openDt": "2026-06-10",
+    "genreNm": "미스터리,SF,스릴러",
+    "nationAlt": "미국",
+    "director": "스티븐 스필버그",
+    "isReRelease": false,
+    "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/86EdVHOEFjFNPeE0sWjpCqcUORj.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263161",
     "movieNm": "위대한 환상",
     "openDt": "2026-06-10",
@@ -372,6 +384,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20261524",
+    "movieNm": "짝사랑 세계",
+    "openDt": "2026-06-24",
+    "genreNm": "드라마",
+    "nationAlt": "일본",
+    "director": "도이 노부히로",
+    "isReRelease": false,
+    "overview": "세상을 알기 전 어린 나이에 세상과 이별한 미사키, 유카, 사쿠라는 12년째 남들과 다름없는 보통의 하루를 보내고 있다. 하지만 사람들과 닿을 수 없기에 전하지 못한 마음과 묻지 못한 말이 자꾸만 쌓여간다. 어느 날, 라디오에서 흘러나온 메시지. 보고 싶은 이에게 마음을 전하면 다시 세상으로 돌아갈 수 있다? 사랑하지만 닿을 수 없는 세계. 전하고 싶지만 말할 수 없는 마음. 어쩌면 짝사랑일까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ynFwJHuZ9qorpNt5GfCRBwgJqRp.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263162",
     "movieNm": "그림자 내각",
     "openDt": "2026-06-25",
@@ -381,6 +405,30 @@
     "isReRelease": false,
     "overview": "1979년 10월 16일, 유신정권을 종식한 부마 민주항쟁에서부터 시작하여 10.26 박정희 서거, 12.12 전두환의 군사반란, 2024년 12.3 윤석열의 내란으로 이어지는 대한민국의 과거부터 현재에 이르기까지 내란의 실체와 청산하지 못한 과거사를 추적하는 정치 다큐드라마로 군사반란과 내란을 어떻게 구조적으로 준비하였는지를 탐사한다. 그리고 전두환의 정적제거, 윤석열의 정적제거 실체를 추적하여 내란을 준비하는 과정을 낱낱이 파헤치고, 그 동조세력들의 실상을 추적한다. 또한 양극화의 뉴미디어와 국론분열 세력의 실체 및 독재권력으로 조성한 전두환, 노태우의 비자금 등을 집중 탐사하며, 전두환의 비자금이 내란 정권에 미친 영향과 과거 군사반란과 현재의 내란에 얽혀 있는 권력 주변의 검은 커넥션을 파헤친 작품이다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1HXPRXq1app922weQgkkiYXGnFK.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20263530",
+    "movieNm": "마티 슈프림",
+    "openDt": "2026-07-01",
+    "genreNm": "드라마,스릴러",
+    "nationAlt": "미국",
+    "director": "조쉬 사프디",
+    "isReRelease": false,
+    "overview": "아무도 존중해주지 않는 꿈을 가진 마티 마우저, 위대함을 좇아 지옥을 오가는 여정을 시작한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20262902",
+    "movieNm": "다윗",
+    "openDt": "2026-07-15",
+    "genreNm": "애니메이션,드라마,가족,역사",
+    "nationAlt": "남아프리카공화국,미국",
+    "director": "필 커닝햄",
+    "isReRelease": false,
+    "overview": "소년 다윗은 어느 날 선지자 사무엘로부터 왕이 될 운명을 듣게 되지만, 그것이 무엇을 의미하는지 알기도 전에 전쟁의 한가운데로 내던져진다. 모두가 숨을 죽인 전장, 세상이 두려워한 거인 골리앗 앞에 홀로 선 다윗은 단 하나의 돌로 마침내 그를 쓰러뜨린다. 기적 같은 승리 이후, 그는 단숨에 영웅이 되지만 그 이름은 곧 사울 왕의 분노를 깨운다. 또다시 거대한 위협 앞에 맞서게 된 다윗은 자신에게 주어진 운명의 무게와 마주하게 되는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tGmTssnoltCCZBY7ys4lYRTFYFj.jpg",
     "status": "saved"
   }
 ]
