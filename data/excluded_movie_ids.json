@@ -742,5 +742,29 @@
     "overview": "전 세계 트렌드를 주도해 온 전설적인 패션 매거진 ‘런웨이’가 급변하는 미디어 시장 속에서 예기치 못한 위기에 직면한다. ‘런웨이’를 지켜내려는 편집장 ‘미란다’와 20년 만에 신임 기획 에디터로 당당히 돌아온 ‘앤디’, 그리고 이제는 럭셔리 브랜드 임원이 되어 다시 나타난 ‘에밀리’까지 더 화려하고, 치열해진 뉴욕 패션계에서 주도권을 차지하기 위해 벌이는 이들의 새로운 이야기가 펼쳐진다!",
     "excludedReason": "",
     "status": "excluded"
+  },
+  {
+    "movieCd": "20258236",
+    "movieNm": "만달로리안과 그로구",
+    "openDt": "2026-05-27",
+    "genreNm": "모험,SF,액션",
+    "nationAlt": "미국",
+    "director": "존 파브로",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tMP99wq45GQMoeZwITgjAS8Wihm.jpg",
+    "overview": "은하계를 누비는 현상금 사냥꾼 ‘딘 자린’ & 치명적인 귀여움의 ‘그로구’",
+    "excludedReason": "같은 날짜/제목 중복",
+    "status": "excluded"
+  },
+  {
+    "movieCd": "20261766",
+    "movieNm": "상자 속의 양",
+    "openDt": "2026-06-10",
+    "genreNm": "드라마,SF",
+    "nationAlt": "일본",
+    "director": "고레에다 히로카즈",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/s6rXbKa97PTO2zVJyuAtccJKv1z.jpg",
+    "overview": "근미래, 죽은 아들과 똑 닮은 휴머노이드를 가족으로 받아들이면서 벌어지는 이야기",
+    "excludedReason": "같은 날짜/제목 중복",
+    "status": "excluded"
   }
 ]
