@@ -1,17 +1,5 @@
 [
   {
-    "movieCd": "20262631",
-    "movieNm": "5월18일생",
-    "openDt": "2026-05-14",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "송동윤",
-    "isReRelease": false,
-    "overview": "1980년 5월 18일, 광주에서 태어난 소설가 ‘미수’의 삶은 이미 시작부터 비극이었다. 태어나던 날 행방불명된 아버지와 평생 그를 찾아다닌 어머니로 인한 외로움은 오직 글쓰기로 풀어낼 수 있었고, 세상과 단절한 채 작품 활동에만 전념하던 어느 날 요양원으로부터 ‘이서연’이라는 인물의 유품이 담긴 우편물을 받는다. 일기와 카세트테이프 속 기록과 기억의 파편을 조합해 그날의 진실을 마주하게 되는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qgoSpSiw9MqF8cpGG4mhUvQUF8O.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20259727",
     "movieNm": "1026: 새로운 세상을 위한",
     "openDt": "2026-05-20",
@@ -153,18 +141,6 @@
     "isReRelease": false,
     "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20258236",
-    "movieNm": "만달로리안과 그로구",
-    "openDt": "2026-05-27",
-    "genreNm": "모험,SF,액션",
-    "nationAlt": "미국",
-    "director": "존 파브로",
-    "isReRelease": false,
-    "overview": "은하계를 누비는 현상금 사냥꾼 ‘딘 자린’ & 치명적인 귀여움의 ‘그로구’",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tMP99wq45GQMoeZwITgjAS8Wihm.jpg",
     "status": "saved"
   },
   {
@@ -372,6 +348,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263911",
+    "movieNm": "극장판 전생했더니 슬라임이었던 건에 대하여 창해의 눈물편",
+    "openDt": "2026-06-10",
+    "genreNm": "애니메이션,판타지,모험,코미디",
+    "nationAlt": "일본",
+    "director": "키쿠치 야스히토",
+    "isReRelease": false,
+    "overview": "마물의 나라 【템페스트】의 개국제를 마친 리무루 일행은 엘프의 대국 【마도 왕조 살리온】의 천제 에르메시아의 초대를 받아 그녀가 소유하고 있는 리조트 섬을 방문한다. 리무루 일행이 잠깐 바캉스를 만끽하는 사이 유라라는 의문의 여성이 나타나는데──. 끝없이 펼쳐진 창해를 무대로 새로운 사건이 일어난다!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/y6EdV6tnfX0jd3I0rtw5U9jpnpi.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20250655",
     "movieNm": "디스클로저 데이",
     "openDt": "2026-06-10",
@@ -381,18 +369,6 @@
     "isReRelease": false,
     "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
     "posterUrl": "https://image.tmdb.org/t/p/w500/86EdVHOEFjFNPeE0sWjpCqcUORj.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20261766",
-    "movieNm": "상자 속의 양",
-    "openDt": "2026-06-10",
-    "genreNm": "드라마,SF",
-    "nationAlt": "일본",
-    "director": "고레에다 히로카즈",
-    "isReRelease": false,
-    "overview": "근미래, 죽은 아들과 똑 닮은 휴머노이드를 가족으로 받아들이면서 벌어지는 이야기",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/s6rXbKa97PTO2zVJyuAtccJKv1z.jpg",
     "status": "saved"
   },
   {
