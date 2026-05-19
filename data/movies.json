@@ -1482,6 +1482,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263432",
+    "movieNm": "더 파이터: 리벤지",
+    "openDt": "2026-05-27",
+    "genreNm": "액션",
+    "nationAlt": "중국",
+    "director": "Li Bingyuan",
+    "isReRelease": false,
+    "overview": "MMA 경기 중 의문사한 형의 소식을 접한 '샤오난'은 공식 발표 뒤에 숨겨진 의혹을 풀기 위해 홀로 비정한 지하 격투 세계에 발을 들인다.  그에게 주어진 목표는 오직 하나, 형의 목숨을 오락거리로 이용하고 죽음으로 몰아넣은 배후를 찾아내는 것!  그러나 승리를 거듭할수록 거대한 음모의 실체와 마주하며 예상치 못한 위기에 빠지게 되는데...  더 이상 물러설 곳은 없다. 목숨을 건 최후의 결전이 시작된다!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c8C9MfAj2rqfD97sHoqyeSPKHov.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20258837",
     "movieNm": "뒷자리에 태워줘",
     "openDt": "2026-05-27",
@@ -1590,6 +1602,30 @@
     "status": "saved"
   },
   {
+    "movieCd": "20001301",
+    "movieNm": "유레카",
+    "openDt": "2026-05-27",
+    "genreNm": "드라마",
+    "nationAlt": "일본",
+    "director": "아오야마 신지",
+    "isReRelease": false,
+    "overview": "비고 모텐슨이 연기하는 흑백 웨스턴으로 시작한다. 하지만 화면은 곧 컬러로 바뀌고 한 경찰의 시점으로 우리는 현재 다코타 보호지역에 사는 인디언 원주민의 일상과, 문화와 땅 모두를 빼앗긴 채 사는 그들의 고통을 대면한다. 이 저주를 풀기 위해 경찰과 함께 사는 소녀는 곧 조상의 무속과 연결될 것이다. 소녀는 사람을 변신하게 만드는 주술을 부리는 할아버지를 찾아가 새로 변신한다. 남미로 날아간 새가 목도하는 것은 현시점이 아닌, 70년대 젊은 인디언 사람들이 서양 금광 채굴자들에게 억압받는 모습이다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/99pfXDBLpsZBJOYsuj2r75h1UwC.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20246091",
+    "movieNm": "이인",
+    "openDt": "2026-05-27",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "김경래",
+    "isReRelease": false,
+    "overview": "성철이 운영하는 카페에 영화감독 정웅이 찾아온다. 정웅은 자신이 쓰고 있는 시나리오를, 성철은 자신이 겪었던 일을 이야기한다. 정웅은 성철에게 그의 경험을 자신의 영화에 써도 되는지 묻는다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eT32UcIYnsoUBzzPQ6dVkYKT7iX.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20250412",
     "movieNm": "파이널 피스",
     "openDt": "2026-05-27",
@@ -1614,6 +1650,30 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263824",
+    "movieNm": "킬러웨일: 침묵의 습격자",
+    "openDt": "2026-05-28",
+    "genreNm": "스릴러,공포,액션,미스터리,SF",
+    "nationAlt": "미국",
+    "director": "Jo-Anne Brechin",
+    "isReRelease": false,
+    "overview": "사고로 남자 친구를 잃고 청력이 손상된 첼리스트 대학생 매디는 친구 트리시와 함께 태국으로 치유 여행을 떠나지만, 그곳에서 수족관을 탈출한 범고래의 표적이 된다. 외딴 섬에 고립된 두 사람은 범고래의 공격을 피하며 사투를 벌이고, 매디는 친구의 충격적인 비밀을 알게 된다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20263510",
+    "movieNm": "스페이스 타임",
+    "openDt": "2026-05-29",
+    "genreNm": "SF,액션,스릴러",
+    "nationAlt": "호주",
+    "director": "Michael O'Halloran",
+    "isReRelease": false,
+    "overview": "우주 간 항행 엔진을 개발하던 과학자팀이 사고로 인해 모든 지원이 끊긴 채 추방된다. 그들은 미래를 바꿀 수도 있는 시간 공간 장치를 되살리기 위해 범죄에 손을 대고야 만다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uje1ecKMnNpZp0at5TxlvVgVXqI.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263512",
     "movieNm": "이상한 과자 가게 전천당",
     "openDt": "2026-05-29",
@@ -1623,6 +1683,18 @@
     "isReRelease": false,
     "overview": "간절한 소원과 행운의 동전을 지닌 사람 앞에만 나타나는 신비한 과자 가게 ‘전천당’. ‘전천당’ 주인 ‘홍자’ 앞에 행운의 동전을 지닌 손님들이 찾아온다. 아픈 엄마를 낫게 해주고 싶은 학생부터 강한 힘을 얻고 싶은 학생, 피아노를 잘 치고 싶은 입시 준비생까지! 각자 원하는 능력을 받게 되지만, 그것도 잠시 질투와 욕망을 파는 과자 가게 ‘화앙당’의 주인 ‘요미’가 나타나면서 거부할 수 없는 제안을 건네기 시작하는데…",
     "posterUrl": "https://image.tmdb.org/t/p/w500/xHnw4j8F0xMFB1P7mxD4rJsp87J.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20261773",
+    "movieNm": "코드 네임: 알라룸",
+    "openDt": "2026-06-02",
+    "genreNm": "액션,범죄,스릴러",
+    "nationAlt": "미국",
+    "director": "마이클 폴리쉬",
+    "isReRelease": false,
+    "overview": "비밀 요원인 조와 로라는 임무 중에 만나 소속 기관을 떠나고 결혼까지 하게 된다. 폴란드의 한 리조트에서 휴가를 보내던 두 사람은 그 지역의 비행기 추락 사고로 인해 다시 전 소속과 얽히며, 암살자에게 쫓기는 신세가 된다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg",
     "status": "saved"
   },
   {
@@ -1722,6 +1794,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20252701",
+    "movieNm": "푸틴: 절대 권력의 최후",
+    "openDt": "2026-06-04",
+    "genreNm": "스릴러,전쟁,범죄",
+    "nationAlt": "폴란드",
+    "director": "파트릭 베가",
+    "isReRelease": false,
+    "overview": "러시아 대통령 푸틴의 과거와 현재 그리고 미래를 다룬 드라마 영화",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263911",
     "movieNm": "극장판 전생했더니 슬라임이었던 건에 대하여 창해의 눈물편",
     "openDt": "2026-06-10",
@@ -1815,6 +1899,30 @@
     "isReRelease": false,
     "overview": "필리핀에서 성공한 사업가 ‘미진’은 한인 최대 범죄 조직의 덫에 걸려 도박 중독에 빠진다. 태권도 국가대표를 꿈꾸던 아들 ‘도준’은 그런 엄마를 향한 원망이 더욱 커지게 된다. 한편, 피도 눈물도 없는 조직의 수장 '동철'은 빚을 빌미로 '미진'을 납치하고, '도준'은 주어진 48시간 이내에 엄마를 구하기 위해 목숨을 건 싸움을 나서게 되는데...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/ifuoiLIERaYnB8E70VtAYvPL1t3.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20247161",
+    "movieNm": "충충충 ",
+    "openDt": "2026-06-17",
+    "genreNm": "범죄",
+    "nationAlt": "한국",
+    "director": "한창록",
+    "isReRelease": false,
+    "overview": "같은 고등학교에 다니면서 각자의 사연을 안고 있는 여학생 지숙, “이 소녀를 지키는 게 세상을 구하는 일”이라고 믿는 남자 친구 용기, 그들과 어울리는 덤보는 첫 장면 애벌레들처럼 꼼지락거리면서 함께 모여 지낸다. 그런데 학교에 ‘꽃미남’ 우주가 전학을 오고 지숙이 한눈에 반하면서 문제가 생긴다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rV2hM79R7OnHGbmBG2Mw6s7taDa.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20244607",
+    "movieNm": "소리없이 나빌레라",
+    "openDt": "2026-06-24",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "현진식",
+    "isReRelease": false,
+    "overview": "[프롤로그 : 웅얼거리는 세상, 닫아버린 입술] 세상의 소리들은 늘 보청기 너머로 흩어지는 파편화된 잡음이자 의미 없는 웅얼거림이었다. 중학교 음악 시간에 놀림을 받은 이후, 무용수 고아라는 철저히 자신의 목소리를 지운 채 입을 닫았다. [변주 : 20년 만의 첫 노래, 자장가] 자신의 손장단에 맞추어 아이의 등을 토닥이던 밤. 아이를 위해 조심스럽게 입술을 뗀다. 무려 20년 만에 세상 밖으로 꺼낸 첫 노래, 자장가. 기교나 완벽한 음정은 없었지만, 손바닥을 타고 전해지는 진심만으로도 그것은 충분히 경이로운 음악이었다. [공명 : 잡음, 나만의 주파수가 되다] 고아라의 흩어지는 숨결을 세상에 없던 비트로 조각해 내는 작곡가 이원우. 두 아티스트의 치열한 주파수 충돌! 자장가가 일깨운 감각은 고아라의 세계를 전복시킨다. 발을 구를 때 마룻바닥이 긁히는 소리, 흔들리는 나뭇잎의 바스락거림. 흩어지는 잡음마저 예술로 승화시킨 치열하고도 전위적인 무대는 고아라만이 직조할 수 있는 독보적인 비트로 잉태된다. [비상 : 스스로 뿜어내는 삶의 파동] 들리지 않기에 그릴 수 있었던 낯선 주파수 위로 온몸을 내던진 무용수. 고아라는 더 이상 세상의 음악에 자신의 움직임을 구겨 넣지 않는다. 20년 만의 자장가에서 시작된 이 치열하고도 뜨거운 박동이 마침내 당신의 무뎌진 감각을 향해 돌진한다 “여러분, 지금 내 음악이 들리시나요?”",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mjFw4aB5xguiQncRGAAg9Y9u5xW.jpg",
     "status": "saved"
   },
   {
