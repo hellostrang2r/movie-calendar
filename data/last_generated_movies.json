@@ -1,65 +1,5 @@
 [
   {
-    "movieCd": "20259727",
-    "movieNm": "1026: 새로운 세상을 위한",
-    "openDt": "2026-05-20",
-    "genreNm": "다큐멘터리,드라마,역사",
-    "nationAlt": "한국",
-    "director": "최위안",
-    "isReRelease": false,
-    "overview": "숯과 얼음 같았던 두 사람이 어떤 해후를 하였을지는 알 길이 없다. 다만 김재규는 죽음 순간까지 의연함을 잃지 않았다. 재판 과정에서도 목숨을 구걸하지 않겠다며 변호인들의 변호를 거부했고 사형 직전 일체의 종교 의식도 거부한 채 오래전 어머니가 건네준 산복숭아씨 단주를 굴리며 쓸쓸히 홀로 형장의 이슬로 사라져 갔다. 오로지, 그가 남긴 마지막 말은 '대한민국 국민 여러분, 자유를 만끽하십시오’ 였다. 아무도 그를 알아주는 사람은 없었다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qd1zggtwHMu7wMCM9BzFLSidpJu.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20262972",
-    "movieNm": "남태령",
-    "openDt": "2026-05-20",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "한국",
-    "director": "김현지",
-    "isReRelease": false,
-    "overview": "좋아요, 리트윗, 북마크로 열린 우연한 광장에서, 가로막히고 얼어붙은 고갯길에서, 동짓밤을 함께 하며 우리는 서로의 동지가 되었다. 체감온도 영하 20도의 긴긴밤은, 그렇게 가장 밝은 밤이 됐다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6QQcJCWtKBcSDE7J8snQvtieAqn.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263344",
-    "movieNm": "너바나 더 밴드 : 전설적 밴드 ‘너바나’와는 별 관련 없는 ‘너바나 더 밴드’의 콤비 맷과 제이. 어느 날 공연을 위해 타임머신을 만드는 황당한 작전을 세우고 처음 만났던 17년 전으로 돌",
-    "openDt": "2026-05-20",
-    "genreNm": "코미디,어드벤처,SF",
-    "nationAlt": "캐나다",
-    "director": "맷 존슨",
-    "isReRelease": false,
-    "overview": "전설적 밴드 ‘너바나’와는 별로 관련이 없어 보이는 ‘너바나 더 밴드’의 콤비 맷과 제이. 어느 날 이들은 공연을 위해 타임 머신을 만들자는 황당한 계획을 세우고 처음 만났던 17년 전으로 돌아가기로 하는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20248218",
-    "movieNm": "반칙왕 몽키",
-    "openDt": "2026-05-20",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "한국",
-    "director": "황다은",
-    "isReRelease": false,
-    "overview": "저출산 시대에 사남매는 반칙이다. 맞벌이도 모자랄 판에 외벌이는 반칙이다. 가부장제 남성 생계부양자 사회에서 전업주부 아빠는 반칙이다. 사교육 왕국에서 돈 안드는 사적인 교육은 반칙이다. 다둥이 자녀 양육도 벅찬데 마을 아이들까지 돌보는 것도 반칙이다. 페어플레이가 사라진 반칙 사회에서 살아남기 위한 10년 차 전업주부 아빠의 통쾌한 반칙 프로젝트가 펼쳐진다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fQ6LKLzHqKQBjCX1AgW26fGmjL5.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20262975",
-    "movieNm": "신극장판 은혼: 요시와라 대염상",
-    "openDt": "2026-05-20",
-    "genreNm": "애니메이션,액션,SF",
-    "nationAlt": "일본",
-    "director": "Naoya Ando",
-    "isReRelease": false,
-    "overview": "해결사 사무소를 운영하는 ‘사카타 긴토키’. 어느 날, 그는 소매치기로 생계를 이어가던 고아 소년 ‘세이타’를 만나게 된다. ‘세이타’의 소원은 단 하나. 어릴 적 헤어진 어머니 ‘히노와’를 다시 만나는 것. 하지만 ‘히노와’가 있는 곳은 야왕 ‘호우센’이 군림하는 지상의 법이 통하지 않는 지하도시 요시와라 도원향. ‘세이타’의 간절한 소원을 외면할 수 없었던 ‘긴토키’와 해결사 일행은 요시와라에 발을 들인다. 그 선택은 도시를 뒤흔드는 거대한 충돌로 번지는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mVtUatYLMj30v8Gpv5dYfE2p2XT.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20252402",
     "movieNm": "군체",
     "openDt": "2026-05-21",
@@ -141,6 +81,18 @@
     "isReRelease": false,
     "overview": "내성적이고 평범한 콜린은 누가 봐도 섹시한 외모의 레이와 우연히 마주친다. 그 남자의 직업도 배경도 모르지만, 단지 그의 존재만으로 콜린의 마음은 흔들린다. 레이와 만나면서 콜린은 지금까지 경험 못한 새로운 세상을 알게 된다. 비밀과 규칙으로 가득한 레이의 세계에 콜린은 조금 더 깊숙이, 가까이 다가가고 싶은데...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/inN8IOb9wJD2Jx9XsRqh2Nd0VW9.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20262319",
+    "movieNm": "로메리아",
+    "openDt": "2026-05-27",
+    "genreNm": "드라마",
+    "nationAlt": "스페인",
+    "director": "카를라 시몬",
+    "isReRelease": false,
+    "overview": "어머니의 일기를 손에 쥔 마리나는 대학에 제출할 공식 서류를 찾는 과정에서 대서양 연안에 사는 자신의 친가족을 발견하게 된다. 행정적인 절차로 시작된 여정은 오래도록 묻혀 있던 가족의 비밀들을 드러내게 된다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xgF73wab5ObZW83uiQma6TvUvaA.jpg",
     "status": "saved"
   },
   {
@@ -456,6 +408,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20156645",
+    "movieNm": "울프 토템",
+    "openDt": "2026-06-10",
+    "genreNm": "모험,드라마",
+    "nationAlt": "중국",
+    "director": "장 자끄 아노",
+    "isReRelease": false,
+    "overview": "끝없이 펼쳐진 몽골 초원. 그곳에 발을 디딘 한 도시 청년은 늑대 새끼 한 마리와의 운명 같은 만남을 통해, 인간이 잊고 있던 자연의 질서와 자유의 본능을 조금씩 깨닫기 시작한다. 거친 바람, 살아 숨 쉬는 대지, 그리고 초원을 지배하는 늑대들 사이에서 그는 진정한 삶의 의미를 배워가지만, 인간의 탐욕이 평화롭던 초원의 균형을 서서히 무너뜨리기 시작한다. 그리고 마침내, 모든 것을 뒤바꿔 놓을 거대한 사건이 그를 기다리고 있는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ffmgd5K7gTUJVZngNhQoPzuMvEb.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263161",
     "movieNm": "위대한 환상",
     "openDt": "2026-06-10",
@@ -528,6 +492,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20242402",
+    "movieNm": "눈동자",
+    "openDt": "2026-06-24",
+    "genreNm": "스릴러",
+    "nationAlt": "한국",
+    "director": "염지호",
+    "isReRelease": false,
+    "overview": "쌍둥이 자매의 갑작스러운 의문사로 충격에 빠진 유명 사진작가가 진실을 쫓는 이야기. 그 과정에서 그녀의 시력은 점점 약해지고, 주변에서 정체불명의 존재를 느끼며 편집증과 어둠 속으로 빠져든다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zf9A14b8mzXc8v8NoeAMmrULlGe.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20244607",
     "movieNm": "소리없이 나빌레라",
     "openDt": "2026-06-24",
@@ -548,6 +524,7 @@
     "director": "오정훈",
     "isReRelease": false,
     "overview": "2024년 7월, 기록적인 폭우로 제방이 붕괴되며 순식간에 수몰된 정뱅이 마을. 폐허가 된 터전과 행정의 냉대 속에서 주민들은 서로 의지하며 고난을 견딘다. 진흙더미 위에서 함께 밥을 지어먹으며 시작된 회복의 여정. 과연 재난 속에서 피어난 공동체의 힘은 휩쓸려간 삶을 다시 일으켜 세울 수 있을까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AgfungPCNwj79phWyrHo3hO6rxZ.jpg",
     "status": "saved"
   },
   {
@@ -575,6 +552,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20264027",
+    "movieNm": "극장판 도라에몽: 신 진구의 해저비밀성",
+    "openDt": "2026-07-01",
+    "genreNm": "애니메이션,모험,판타지,가족",
+    "nationAlt": "일본",
+    "director": "야지마 테츠오",
+    "isReRelease": false,
+    "overview": "이번 여름방학은 바닷속 캠핑이다! 숨이 멎을 듯한 놀라움이 가득한 두근두근 해저 대모험! 여름방학 캠핑 장소를 두고 의견이 갈린 진구와 친구들은 도라에몽의 제안으로 바다 한가운데로 여행을 떠나기로 한다. 도라에몽의 비밀도구 '수중 버기’와 ‘적응총’을 사용해 다양한 해양 생물도 만나고 바비큐도 하며 즐거운 시간을 보내던 중, 수상한 침몰선과 미스터리한 소년 ‘엘’과 만난다. 신비로운 해저 도시 ‘무대륙’에서는 육지인들을 싫어해 쉽게 마음을 열지 않는데… 그때, 수수께끼의 ‘귀암성’이 활동을 시작했다는 긴급한 소식이 전해지고 육지와 바다 모두가 위험에 처하고 만다! 소중한 우정을 가슴에 품고, 지구의 운명을 건 환상적인 모험이 지금 시작된다!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j0n3oaUqbig4Gb0yG1GPrb2KRyl.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263530",
     "movieNm": "마티 슈프림",
     "openDt": "2026-07-01",
@@ -584,6 +573,18 @@
     "isReRelease": false,
     "overview": "아무도 존중해주지 않는 꿈을 가진 마티 마우저, 위대함을 좇아 지옥을 오가는 여정을 시작한다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20263948",
+    "movieNm": "에픽: 엘비스 프레슬리 콘서트",
+    "openDt": "2026-07-01",
+    "genreNm": "음악,다큐멘터리",
+    "nationAlt": "미국",
+    "director": "바즈 루어만",
+    "isReRelease": false,
+    "overview": "2년에 걸친 아카이브 탐색. 2,300여 개의 자료 검토. 59시간 분량의 희귀 영상. 그리고 70곡 이상의 음악. 시대를 초월한 전설적인 로큰롤의 왕이자 영원한 슈퍼스타 '엘비스 프레슬리'의 폭발적인 무대와 그 속에 담긴 삶의 순간들! 미공개 아카이브 영상과 그의 목소리로 완성된 음악의 여정이 지금껏 경험하지 못한 방식의 새로운 시선으로 스크린 위에 펼쳐진다!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/60Pzk7U2nes40bg4v9cDXQvw7o5.jpg",
     "status": "saved"
   },
   {
