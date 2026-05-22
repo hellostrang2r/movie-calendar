@@ -142,6 +142,17 @@
     "posterUrl": "https://image.tmdb.org/t/p/w500/9eeT2X0ykYGp0Xq0rjrmtVwslGV.jpg"
   },
   {
+    "movieCd": "manual_20260604_notebook",
+    "movieNm": "노트북",
+    "openDt": "2026-06-04",
+    "genreNm": "로맨스,드라마",
+    "nationAlt": "미국",
+    "director": "닉 카사베츠",
+    "isReRelease": true,
+    "overview": "첫눈에 서로에게 이끌린 노아와 앨리는 짧지만 뜨거운 여름 사랑을 나누지만, 현실의 벽 앞에서 이별한다. 오랜 시간이 흐른 뒤에도 서로를 잊지 못한 두 사람은 다시 마주하며 운명 같은 사랑의 기억을 되살리게 된다.",
+    "status": "saved"
+  },
+  {
     "movieCd": "manual_20260610_sheepinthebox",
     "movieNm": "상자 속의 양",
     "openDt": "2026-06-10",
@@ -154,6 +165,17 @@
     "posterUrl": "https://image.tmdb.org/t/p/w500/uwxNbArTZ7BUf9UQszS5DCs6prT.jpg"
   },
   {
+    "movieCd": "manual_20260617_toystory5",
+    "movieNm": "토이 스토리 5",
+    "openDt": "2026-06-17",
+    "genreNm": "애니메이션,모험,코미디,가족,판타지",
+    "nationAlt": "미국",
+    "director": "앤드류 스탠튼,맥케나 해리스",
+    "isReRelease": false,
+    "overview": "보니의 새 친구가 된 스마트 태블릿 '릴리패드'의 등장으로 전에 없던 위기를 맞은 제시, 우디, 버즈 등 장난감들이 다시 뭉쳐 예측불가한 여정을 함께하는 이야기.",
+    "status": "saved"
+  },
+  {
     "movieCd": "manual_20260715_minionsandmonsters",
     "movieNm": "미니언즈 & 몬스터즈",
     "openDt": "2026-07-15",
@@ -164,5 +186,16 @@
     "overview": "우연히 영화 촬영장에 난입한 미니언들이 세계적인 무비스타로 거듭나며 벌어지는 이야기",
     "status": "saved",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8uvgppq5obV06X9X8SogQiU79Kd.jpg"
+  },
+  {
+    "movieCd": "manual_20260805_odyssey",
+    "movieNm": "오디세이",
+    "openDt": "2026-08-05",
+    "genreNm": "모험,판타지,액션",
+    "nationAlt": "미국",
+    "director": "크리스토퍼 놀란",
+    "isReRelease": false,
+    "overview": "호메로스의 고전 서사시 '오디세이아'를 원작으로, 전쟁 이후 고향으로 돌아가기 위해 장대한 여정을 떠나는 오디세우스의 모험을 그린 대서사시.",
+    "status": "saved"
   }
 ]
