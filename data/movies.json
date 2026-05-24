@@ -1782,6 +1782,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "manual_20260604_notebook",
+    "movieNm": "노트북",
+    "openDt": "2026-06-04",
+    "genreNm": "로맨스,드라마",
+    "nationAlt": "미국",
+    "director": "닉 카사베츠",
+    "isReRelease": true,
+    "overview": "첫눈에 서로에게 이끌린 노아와 앨리는 짧지만 뜨거운 여름 사랑을 나누지만, 현실의 벽 앞에서 이별한다. 오랜 시간이 흐른 뒤에도 서로를 잊지 못한 두 사람은 다시 마주하며 운명 같은 사랑의 기억을 되살리게 된다.",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vdeZZRZUlSEbQMlG9R20m37fPhY.jpg"
+  },
+  {
     "movieCd": "20261148",
     "movieNm": "밀월",
     "openDt": "2026-06-04",
@@ -1815,17 +1827,6 @@
     "isReRelease": false,
     "overview": "러시아 대통령 푸틴의 과거와 현재 그리고 미래를 다룬 드라마 영화",
     "posterUrl": "https://image.tmdb.org/t/p/w500/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "manual_20260604_notebook",
-    "movieNm": "노트북",
-    "openDt": "2026-06-04",
-    "genreNm": "로맨스,드라마",
-    "nationAlt": "미국",
-    "director": "닉 카사베츠",
-    "isReRelease": true,
-    "overview": "첫눈에 서로에게 이끌린 노아와 앨리는 짧지만 뜨거운 여름 사랑을 나누지만, 현실의 벽 앞에서 이별한다. 오랜 시간이 흐른 뒤에도 서로를 잊지 못한 두 사람은 다시 마주하며 운명 같은 사랑의 기억을 되살리게 된다.",
     "status": "saved"
   },
   {
@@ -1949,6 +1950,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "manual_20260617_toystory5",
+    "movieNm": "토이 스토리 5",
+    "openDt": "2026-06-17",
+    "genreNm": "애니메이션,모험,코미디,가족,판타지",
+    "nationAlt": "미국",
+    "director": "앤드류 스탠튼,맥케나 해리스",
+    "isReRelease": false,
+    "overview": "보니의 새 친구가 된 스마트 태블릿 '릴리패드'의 등장으로 전에 없던 위기를 맞은 제시, 우디, 버즈 등 장난감들이 다시 뭉쳐 예측불가한 여정을 함께하는 이야기.",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AqrJx3nVVMlKWXGaPIH32GzjEJA.jpg"
+  },
+  {
     "movieCd": "20242402",
     "movieNm": "눈동자",
     "openDt": "2026-06-24",
@@ -1970,6 +1983,18 @@
     "isReRelease": false,
     "overview": "[프롤로그 : 웅얼거리는 세상, 닫아버린 입술] 세상의 소리들은 늘 보청기 너머로 흩어지는 파편화된 잡음이자 의미 없는 웅얼거림이었다. 중학교 음악 시간에 놀림을 받은 이후, 무용수 고아라는 철저히 자신의 목소리를 지운 채 입을 닫았다. [변주 : 20년 만의 첫 노래, 자장가] 자신의 손장단에 맞추어 아이의 등을 토닥이던 밤. 아이를 위해 조심스럽게 입술을 뗀다. 무려 20년 만에 세상 밖으로 꺼낸 첫 노래, 자장가. 기교나 완벽한 음정은 없었지만, 손바닥을 타고 전해지는 진심만으로도 그것은 충분히 경이로운 음악이었다. [공명 : 잡음, 나만의 주파수가 되다] 고아라의 흩어지는 숨결을 세상에 없던 비트로 조각해 내는 작곡가 이원우. 두 아티스트의 치열한 주파수 충돌! 자장가가 일깨운 감각은 고아라의 세계를 전복시킨다. 발을 구를 때 마룻바닥이 긁히는 소리, 흔들리는 나뭇잎의 바스락거림. 흩어지는 잡음마저 예술로 승화시킨 치열하고도 전위적인 무대는 고아라만이 직조할 수 있는 독보적인 비트로 잉태된다. [비상 : 스스로 뿜어내는 삶의 파동] 들리지 않기에 그릴 수 있었던 낯선 주파수 위로 온몸을 내던진 무용수. 고아라는 더 이상 세상의 음악에 자신의 움직임을 구겨 넣지 않는다. 20년 만의 자장가에서 시작된 이 치열하고도 뜨거운 박동이 마침내 당신의 무뎌진 감각을 향해 돌진한다 “여러분, 지금 내 음악이 들리시나요?”",
     "posterUrl": "https://image.tmdb.org/t/p/w500/mjFw4aB5xguiQncRGAAg9Y9u5xW.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20244889",
+    "movieNm": "여름의 카메라",
+    "openDt": "2026-06-24",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "성스러운",
+    "isReRelease": false,
+    "overview": "아빠를 따라 사진을 찍던 여름은 아빠가 세상을 떠난 후, 카메라에서 손을 놓게 된다. 그런 여름이 축구부 에이스인 연우에게 첫눈에 반해 고등학교때 아빠가 쓰던 카메라로 홀린듯 사진을 찍는다. 필름을 현상하자 그 속에는 고등학교 시절 아빠가 찍은 것으로 보이는 사진들이 있다. 여름은 사진들 속에서 아빠의 비밀을 보게 된다. 과연 여름은 첫사랑을 이루고 아빠의 비밀을 파헤칠 수 있을까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t5WfrPZA42CEcQImf6R3e7kGuVI.jpg",
     "status": "saved"
   },
   {
@@ -2045,17 +2070,6 @@
     "status": "saved"
   },
   {
-    "movieCd": "manual_20260617_toystory5",
-    "movieNm": "토이 스토리 5",
-    "openDt": "2026-06-17",
-    "genreNm": "애니메이션,모험,코미디,가족,판타지",
-    "nationAlt": "미국",
-    "director": "앤드류 스탠튼,맥케나 해리스",
-    "isReRelease": false,
-    "overview": "보니의 새 친구가 된 스마트 태블릿 '릴리패드'의 등장으로 전에 없던 위기를 맞은 제시, 우디, 버즈 등 장난감들이 다시 뭉쳐 예측불가한 여정을 함께하는 이야기.",
-    "status": "saved"
-  },
-  {
     "movieCd": "manual_20260715_minionsandmonsters",
     "movieNm": "미니언즈 & 몬스터즈",
     "openDt": "2026-07-15",
@@ -2076,6 +2090,7 @@
     "director": "크리스토퍼 놀란",
     "isReRelease": false,
     "overview": "호메로스의 고전 서사시 '오디세이아'를 원작으로, 전쟁 이후 고향으로 돌아가기 위해 장대한 여정을 떠나는 오디세우스의 모험을 그린 대서사시.",
-    "status": "saved"
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8ze9OcVuFiy94s6FFPvsn4oC2e1.jpg"
   }
 ]

@@ -150,7 +150,8 @@
     "director": "닉 카사베츠",
     "isReRelease": true,
     "overview": "첫눈에 서로에게 이끌린 노아와 앨리는 짧지만 뜨거운 여름 사랑을 나누지만, 현실의 벽 앞에서 이별한다. 오랜 시간이 흐른 뒤에도 서로를 잊지 못한 두 사람은 다시 마주하며 운명 같은 사랑의 기억을 되살리게 된다.",
-    "status": "saved"
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vdeZZRZUlSEbQMlG9R20m37fPhY.jpg"
   },
   {
     "movieCd": "manual_20260610_sheepinthebox",
@@ -173,7 +174,8 @@
     "director": "앤드류 스탠튼,맥케나 해리스",
     "isReRelease": false,
     "overview": "보니의 새 친구가 된 스마트 태블릿 '릴리패드'의 등장으로 전에 없던 위기를 맞은 제시, 우디, 버즈 등 장난감들이 다시 뭉쳐 예측불가한 여정을 함께하는 이야기.",
-    "status": "saved"
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AqrJx3nVVMlKWXGaPIH32GzjEJA.jpg"
   },
   {
     "movieCd": "manual_20260715_minionsandmonsters",
@@ -196,6 +198,7 @@
     "director": "크리스토퍼 놀란",
     "isReRelease": false,
     "overview": "호메로스의 고전 서사시 '오디세이아'를 원작으로, 전쟁 이후 고향으로 돌아가기 위해 장대한 여정을 떠나는 오디세우스의 모험을 그린 대서사시.",
-    "status": "saved"
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8ze9OcVuFiy94s6FFPvsn4oC2e1.jpg"
   }
 ]
