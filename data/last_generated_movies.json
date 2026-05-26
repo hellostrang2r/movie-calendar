@@ -432,6 +432,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20234993",
+    "movieNm": "현재를 위하여",
+    "openDt": "2026-06-17",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "김다솜",
+    "isReRelease": false,
+    "overview": "아름다운 목소리를 가진 현재는 아버지 일순의 가정 폭력에서 벗어나기 위해, 10년 전 실종된 딸을 찾고 있는 해인을 자신의 계획 속에 끌어들인다. 자신을 아버지의 폭력으로부터 구해준 해인을 보며 해인이 자신의 엄마이길 바라는 현재. 결국 현재는 자신의 가족을 버리기로 결심하는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3vFcc1Z6aUu1dhvKRHDL6idKOQf.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20242402",
     "movieNm": "눈동자",
     "openDt": "2026-06-24",
