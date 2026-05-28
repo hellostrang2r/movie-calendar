@@ -1,161 +1,5 @@
 [
   {
-    "movieCd": "20263432",
-    "movieNm": "더 파이터: 리벤지",
-    "openDt": "2026-05-27",
-    "genreNm": "액션",
-    "nationAlt": "중국",
-    "director": "Li Bingyuan",
-    "isReRelease": false,
-    "overview": "MMA 경기 중 의문사한 형의 소식을 접한 '샤오난'은 공식 발표 뒤에 숨겨진 의혹을 풀기 위해 홀로 비정한 지하 격투 세계에 발을 들인다.  그에게 주어진 목표는 오직 하나, 형의 목숨을 오락거리로 이용하고 죽음으로 몰아넣은 배후를 찾아내는 것!  그러나 승리를 거듭할수록 거대한 음모의 실체와 마주하며 예상치 못한 위기에 빠지게 되는데...  더 이상 물러설 곳은 없다. 목숨을 건 최후의 결전이 시작된다!",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/c8C9MfAj2rqfD97sHoqyeSPKHov.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20258837",
-    "movieNm": "뒷자리에 태워줘",
-    "openDt": "2026-05-27",
-    "genreNm": "로맨스,드라마,코미디",
-    "nationAlt": "영국",
-    "director": "Harry Lighton",
-    "isReRelease": false,
-    "overview": "내성적이고 평범한 콜린은 누가 봐도 섹시한 외모의 레이와 우연히 마주친다. 그 남자의 직업도 배경도 모르지만, 단지 그의 존재만으로 콜린의 마음은 흔들린다. 레이와 만나면서 콜린은 지금까지 경험 못한 새로운 세상을 알게 된다. 비밀과 규칙으로 가득한 레이의 세계에 콜린은 조금 더 깊숙이, 가까이 다가가고 싶은데...",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/inN8IOb9wJD2Jx9XsRqh2Nd0VW9.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20262319",
-    "movieNm": "로메리아",
-    "openDt": "2026-05-27",
-    "genreNm": "드라마",
-    "nationAlt": "스페인",
-    "director": "카를라 시몬",
-    "isReRelease": false,
-    "overview": "어머니의 일기를 손에 쥔 마리나는 대학에 제출할 공식 서류를 찾는 과정에서 대서양 연안에 사는 자신의 친가족을 발견하게 된다. 행정적인 절차로 시작된 여정은 오래도록 묻혀 있던 가족의 비밀들을 드러내게 된다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xgF73wab5ObZW83uiQma6TvUvaA.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263363",
-    "movieNm": "리마인더스 오브 힘",
-    "openDt": "2026-05-27",
-    "genreNm": "로맨스,드라마",
-    "nationAlt": "미국",
-    "director": "바네사 캐스윌",
-    "isReRelease": false,
-    "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20261737",
-    "movieNm": "몽그렐스",
-    "openDt": "2026-05-27",
-    "genreNm": "드라마",
-    "nationAlt": "캐나다",
-    "director": "제롬 유",
-    "isReRelease": false,
-    "overview": "1991년 여름, 슬픔에 잠긴 어느 한국인 가족이 야생 들개의 침입으로 고초를 겪고 있는 캐나다의 대초원으로 이민을 간다. 새로운 세계에 적응하면서 이들은 가족 사이의 깨져버린 유대감과도 직면해야 한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vCobHFWtyeyPGQF5KzNklExOdH3.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263644",
-    "movieNm": "미세스 그린 애플 매지컬 10주년 기념 라이브 ~피오르드~ 온 스크린",
-    "openDt": "2026-05-27",
-    "genreNm": "다큐멘터리,음악",
-    "nationAlt": "일본",
-    "director": "Tetsuro Inagaki",
-    "isReRelease": false,
-    "overview": "미세스 그린 애플의 메이저 데뷔 10주년을 기념해 펼쳐진 마법 같은 공연 ‘~피오르드~’. 오감을 자극하는 화려한 연출과 완벽한 라이브 퍼포먼스가 스크린에서 되살아난다. 오모리 모토키, 와카이 히로토, 후지사와 료카 세 사람이 빚어내는 압도적인 밴드 앙상블!",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uxTYV3KRPm6BkJ2YvRGPmtZUiz5.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263645",
-    "movieNm": "미세스 그린 애플 매지컬 10주년 다큐멘터리 필름 ~디 오리진~",
-    "openDt": "2026-05-27",
-    "genreNm": "다큐멘터리,음악",
-    "nationAlt": "일본",
-    "director": "토요시마 케이스케",
-    "isReRelease": false,
-    "overview": "메이저 데뷔 10주년, 그 눈부신 성공 뒤에 숨겨진 밴드의 ‘기원(ORIGIN)’을 찾아가는 여정. 오모리 모토키, 와카이 히로토, 후지사와 료카 세 사람의 시선으로 담아낸 창작의 고통과 멤버들 간의 단단한 유대감, 그리고 팬들을 향한 진심 어린 고백이 비로소 하나의 필름으로 완성된다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fwMJs9CiSZ5MbH858IQVjGmAkhW.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263030",
-    "movieNm": "백룸",
-    "openDt": "2026-05-27",
-    "genreNm": "공포,미스터리,SF",
-    "nationAlt": "미국",
-    "director": "케인 파슨스",
-    "isReRelease": false,
-    "overview": "존재해서는 안 될 미지의 공간 ‘백룸’ 속으로 사라진 사람들의 극한 상황을 그린 공간 스릴러",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/c3Cb7h4ecFsGfUM02KF638kbbtC.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20262788",
-    "movieNm": "쇼타씨의 마지막 출장",
-    "openDt": "2026-05-27",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "이주형",
-    "isReRelease": false,
-    "overview": "한국으로 마지막 출장을 앞두고 있는 강철맨 CEO 쇼타. 헤어진 연인의 마음을 돌리려고 그녀의 고향 에노시마로 여행 온 한국 청년 대성. 두 사람은 우연히 라멘 가게에서 만나게 되고 쇼타의 사직서와 대성의 편지가 바뀌게 되면서 예상치 못한 인연이 시작된다. 그리고 쇼타와 대성은 상대의 전하지 못했던 마음을 대신 전하며 서로의 삶 속으로 들어가게 되는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oB05aa4yU5yRLMyftbLrphKjd41.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20258868",
-    "movieNm": "엔조",
-    "openDt": "2026-05-27",
-    "genreNm": "드라마",
-    "nationAlt": "프랑스",
-    "director": "로빈 캄필로",
-    "isReRelease": false,
-    "overview": "16세 소년 엔조는 부유한 부모가 그려놓은 미래를 거부하고, 벽돌공 견습생의 길을 택한다. 남프랑스의 뜨거운 햇살 아래에서 그의 하루는 거친 노동과 가족의 기대 사이에서 갈라진다. 그러던 어느 날, 공사 현장에서 만난 우크라이나 출신 블라드는 카리스마와 자유로움으로 엔조의 마음을 뒤흔든다. 함께 벽돌을 쌓아 올리며, 엔조는 지금껏 알지 못했던 감정과 욕망을 마주하고, 새로운 가능성의 문을 열기 시작하는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/RZ78faQyatTJObWajQJvBaUX6U.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20001301",
-    "movieNm": "유레카",
-    "openDt": "2026-05-27",
-    "genreNm": "드라마",
-    "nationAlt": "일본",
-    "director": "아오야마 신지",
-    "isReRelease": false,
-    "overview": "비고 모텐슨이 연기하는 흑백 웨스턴으로 시작한다. 하지만 화면은 곧 컬러로 바뀌고 한 경찰의 시점으로 우리는 현재 다코타 보호지역에 사는 인디언 원주민의 일상과, 문화와 땅 모두를 빼앗긴 채 사는 그들의 고통을 대면한다. 이 저주를 풀기 위해 경찰과 함께 사는 소녀는 곧 조상의 무속과 연결될 것이다. 소녀는 사람을 변신하게 만드는 주술을 부리는 할아버지를 찾아가 새로 변신한다. 남미로 날아간 새가 목도하는 것은 현시점이 아닌, 70년대 젊은 인디언 사람들이 서양 금광 채굴자들에게 억압받는 모습이다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/99pfXDBLpsZBJOYsuj2r75h1UwC.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20246091",
-    "movieNm": "이인",
-    "openDt": "2026-05-27",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "김경래",
-    "isReRelease": false,
-    "overview": "성철이 운영하는 카페에 영화감독 정웅이 찾아온다. 정웅은 자신이 쓰고 있는 시나리오를, 성철은 자신이 겪었던 일을 이야기한다. 정웅은 성철에게 그의 경험을 자신의 영화에 써도 되는지 묻는다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eT32UcIYnsoUBzzPQ6dVkYKT7iX.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20250412",
-    "movieNm": "파이널 피스",
-    "openDt": "2026-05-27",
-    "genreNm": "드라마,미스터리",
-    "nationAlt": "일본",
-    "director": "쿠마자와 나오토",
-    "isReRelease": false,
-    "overview": "산 속에서 고가의 장기말과 함께 신원불명의 사체가 발견된다. 장기말의 소유주를 추적하던 끝에 혜성처럼 등장한 천재 장기 기사 '케이스케'가 용의자로 떠오른다. 그리고 그의 주변을 파헤치던 중 악연으로 얽힌 전설적인 도박꾼 '토묘'가 사라졌다는 사실이 밝혀진다. 완벽한 수를 두는 천재 기사, 자취를 감춘 도박꾼. 두 남자의 운명이 걸린 대국이 이어질수록 모든 판을 뒤집을 충격적인 비밀이 드러나기 시작하는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zp11vcnq5X69jjXY4PHpTE5NVUz.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20263521",
     "movieNm": "카드캡터 체리 극장판",
     "openDt": "2026-05-28",
@@ -324,6 +168,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263941",
+    "movieNm": "마스터즈 오브 유니버스",
+    "openDt": "2026-06-05",
+    "genreNm": "액션,판타지,SF",
+    "nationAlt": "미국",
+    "director": "트래비스 나이트",
+    "isReRelease": false,
+    "overview": "아담이 전설의 검과 함께 자신의 운명을 받아들여 우주 최강의 전사 ‘히맨’으로 각성하게 되고, 파괴된 세계를 구하기 위해 스켈레토에 맞서 싸우는 SF히어로액션",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u3g020QxrnsMdHDw0vvv1NjeFJA.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263911",
     "movieNm": "극장판 전생했더니 슬라임이었던 건에 대하여 창해의 눈물편",
     "openDt": "2026-06-10",
@@ -420,6 +276,30 @@
     "status": "saved"
   },
   {
+    "movieCd": "20248484",
+    "movieNm": "신사: 악귀의 속삭임",
+    "openDt": "2026-06-17",
+    "genreNm": "공포,미스터리",
+    "nationAlt": "한국",
+    "director": "구마키리 가즈요시",
+    "isReRelease": false,
+    "overview": "일본 고베의 버려진 마을. 이곳의 폐건물로 전시를 기획하는 대학생들의 국제 교류 활동이 한창이던 어느 날, 근처 폐허가 된 신사 답사를 갔던 학생이 실종된다. 연이어 기괴한 모습으로 죽거나 사라지는 학생들이 속출하고, 그들의 매니저 '유미'는 다시는 연락할 일 없을 줄 알았던 '명진'에게 도움을 요청한다. 심상치 않은 기운을 느낀 무당 '명진'은 곧장 일본으로 건너가 잔혹한 광경을 마주하게 되는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dfjVImqfpRW5ZApiazpfJk3EsBb.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20253327",
+    "movieNm": "어느 파리 택배기사의 48시간",
+    "openDt": "2026-06-17",
+    "genreNm": "드라마",
+    "nationAlt": "프랑스",
+    "director": "보리스 로즈킨",
+    "isReRelease": false,
+    "overview": "파리에서 자전거로 음식 배달 일을 하는 아프리카 기니 출신 난민 ‘술레이만’. 합법적 거주권을 얻기 위한 망명 심사가 이틀 앞으로 다가왔지만, 난민이자 배달 노동자로서 그의 하루하루는 외줄타기처럼 아슬아슬하다. 그는 늘 시간과 돈에 쫓긴다. 난민 브로커에게 줄 돈을 마련하기 위해 오늘도 그는 파리를 달린다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/C2SqmWk8P6NZ2l0xWn0qqqprZe.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20247161",
     "movieNm": "충충충 ",
     "openDt": "2026-06-17",
@@ -444,6 +324,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20258945",
+    "movieNm": "너만 보이는 날",
+    "openDt": "2026-06-24",
+    "genreNm": "코미디,로맨스,판타지",
+    "nationAlt": "중국",
+    "director": "Song Haolin",
+    "isReRelease": false,
+    "overview": "보여서는 안 될 것이 보이는 남자와 A부터 Z까지 완벽한 여자가 서로의 세상에 다가가면서 펼쳐지는 대체불가 입덕 로맨스",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zakDGmJdcEpOsUcvi94AtOvrm2x.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20242402",
     "movieNm": "눈동자",
     "openDt": "2026-06-24",
@@ -453,6 +345,18 @@
     "isReRelease": false,
     "overview": "쌍둥이 자매의 갑작스러운 의문사로 충격에 빠진 유명 사진작가가 진실을 쫓는 이야기. 그 과정에서 그녀의 시력은 점점 약해지고, 주변에서 정체불명의 존재를 느끼며 편집증과 어둠 속으로 빠져든다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/zf9A14b8mzXc8v8NoeAMmrULlGe.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20259317",
+    "movieNm": "사무라이 타임슬리퍼",
+    "openDt": "2026-06-24",
+    "genreNm": "코미디",
+    "nationAlt": "일본",
+    "director": "Junichi Yasuda",
+    "isReRelease": false,
+    "overview": "나는 에도 시대를 살아가던 사무라이였다. 칼을 들고 명예를 지키며 살아가던 중, 결투 도중 번개를 맞고 눈을 떠보니.. 이곳은 영화 촬영현장?! 말 대신 철로 달리는 마차가 거리를 가득 메우고, 사람들은 이해할 수 없는 물건을 들고 살아간다. 검 하나로 살아온 나에게, 이 시대는 낯설기만 하다. 갈 곳 없이 방황하던 중, 나는 ‘사무라이’가 등장하는 한 현장에 들어서게 된다. 그러나 그곳의 사무라이들은 모두 가짜였고, 결투는 연기였다. 진짜 사무라이였던 나는 어느새 엑스트라 배우가 되고, 영화 속 사무라이가 되어 참수전문 배우를 연기하며 새로운 삶을 시작하게 된다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rd6r7HWfv9Q6VRWBM4Ct3ThD0Gz.jpg",
     "status": "saved"
   },
   {
@@ -513,6 +417,18 @@
     "isReRelease": false,
     "overview": "1979년 10월 16일, 유신정권을 종식한 부마 민주항쟁에서부터 시작하여 10.26 박정희 서거, 12.12 전두환의 군사반란, 2024년 12.3 윤석열의 내란으로 이어지는 대한민국의 과거부터 현재에 이르기까지 내란의 실체와 청산하지 못한 과거사를 추적하는 정치 다큐드라마로 군사반란과 내란을 어떻게 구조적으로 준비하였는지를 탐사한다. 그리고 전두환의 정적제거, 윤석열의 정적제거 실체를 추적하여 내란을 준비하는 과정을 낱낱이 파헤치고, 그 동조세력들의 실상을 추적한다. 또한 양극화의 뉴미디어와 국론분열 세력의 실체 및 독재권력으로 조성한 전두환, 노태우의 비자금 등을 집중 탐사하며, 전두환의 비자금이 내란 정권에 미친 영향과 과거 군사반란과 현재의 내란에 얽혀 있는 권력 주변의 검은 커넥션을 파헤친 작품이다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1HXPRXq1app922weQgkkiYXGnFK.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264056",
+    "movieNm": "그린랜드 2: 마이그레이션",
+    "openDt": "2026-07-01",
+    "genreNm": "모험,스릴러,SF",
+    "nationAlt": "영국",
+    "director": "릭 로먼 워",
+    "isReRelease": false,
+    "overview": "생존한 개리티 가족은 안전한 그린란드 벙커를 떠나 폐허가 된 얼어붙은 유럽의 황무지를 가로질러 새로운 보금자리를 찾기 위한 위험한 여정을 시작한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
     "status": "saved"
   },
   {
