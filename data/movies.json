@@ -2094,6 +2094,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263598",
+    "movieNm": "패신저",
+    "openDt": "2026-06-24",
+    "genreNm": "공포,스릴러",
+    "nationAlt": "미국",
+    "director": "안드레 외브레달",
+    "isReRelease": false,
+    "overview": "캠핑카를 타고 유랑 생활을 시작한 커플 ‘매디’와 ‘타일러’는 어느 늦은 밤 도로 위에서 운전자가 사망하는 끔찍한 사고를 목격한다. 그 후 차량에 알 수 없는 표식이 생겨 불안한 매디의 눈에만 정체불명의 남자가 보이기 시작하고, 곧 그들은 ‘패신저’라고 불리우는 고대 악마의 표적이 되었음을 알게 된다. 목숨을 노리는 ‘패신저’의 공격을 피해 두 사람은 계속 도망치려 애쓰지만 집요한 추격은 그들의 턱밑까지 다다르는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/igMwSTVF3Hm5pjouUmmwO4fABOo.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20264056",
     "movieNm": "그린랜드 2: 마이그레이션",
     "openDt": "2026-07-01",
