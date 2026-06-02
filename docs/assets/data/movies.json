@@ -2034,6 +2034,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20262943",
+    "movieNm": "리브 원 데이",
+    "openDt": "2026-06-24",
+    "genreNm": "드라마,코미디,음악",
+    "nationAlt": "프랑스",
+    "director": "Amélie Bonnin",
+    "isReRelease": false,
+    "overview": "프랑스 요리 서바이벌 '탑 셰프'에서 우승을 차지한 파리의 스타 셰프 '세실'. 새 레스토랑 개업을 앞두고 있던 그녀에게 아버지가 쓰러졌다는 청천벽력 같은 소식이 날아든다. 급히 내려간 고향에서 세실을 맞이한 건, 심장마비 후에도 휴게소 식당 일을 고집하는 아버지와 첫사랑 '라파엘'과 연인 '소피앙'의 팽팽한 신경전! 뜻밖의 소동이 뒤엉킨 그곳, 주방보다 더 치열한 인생이란 서바이벌 속에서 과연 '세실'은 잊고 있던 행복의 레시피를 찾을 수 있을까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jq1353UWDpniAXQ72HTQogrn7N2.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20259317",
     "movieNm": "사무라이 타임슬리퍼",
     "openDt": "2026-06-24",
@@ -2151,6 +2163,18 @@
     "isReRelease": false,
     "overview": "2년에 걸친 아카이브 탐색. 2,300여 개의 자료 검토. 59시간 분량의 희귀 영상. 그리고 70곡 이상의 음악. 시대를 초월한 전설적인 로큰롤의 왕이자 영원한 슈퍼스타 '엘비스 프레슬리'의 폭발적인 무대와 그 속에 담긴 삶의 순간들! 미공개 아카이브 영상과 그의 목소리로 완성된 음악의 여정이 지금껏 경험하지 못한 방식의 새로운 시선으로 스크린 위에 펼쳐진다!",
     "posterUrl": "https://image.tmdb.org/t/p/w500/60Pzk7U2nes40bg4v9cDXQvw7o5.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20259946",
+    "movieNm": "모아나",
+    "openDt": "2026-07-08",
+    "genreNm": "가족,판타지,코미디,모험",
+    "nationAlt": "미국",
+    "director": "토마스 카일",
+    "isReRelease": false,
+    "overview": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/etJXeoQovaAcQD8gG0vebtoIlMH.jpg",
     "status": "saved"
   },
   {
