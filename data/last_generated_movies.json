@@ -1,89 +1,5 @@
 [
   {
-    "movieCd": "20261773",
-    "movieNm": "코드 네임: 알라룸",
-    "openDt": "2026-06-02",
-    "genreNm": "액션,범죄,스릴러",
-    "nationAlt": "미국",
-    "director": "마이클 폴리쉬",
-    "isReRelease": false,
-    "overview": "비밀 요원인 조와 로라는 임무 중에 만나 소속 기관을 떠나고 결혼까지 하게 된다. 폴란드의 한 리조트에서 휴가를 보내던 두 사람은 그 지역의 비행기 추락 사고로 인해 다시 전 소속과 얽히며, 암살자에게 쫓기는 신세가 된다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20257302",
-    "movieNm": "고독의 오후",
-    "openDt": "2026-06-03",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "프랑스,포르투갈,스페인",
-    "director": "Albert Serra",
-    "isReRelease": false,
-    "overview": "현역 스타 투우사 안드레스 로카 레이의 초상으로, 전통에 대한 존중과 미학적인 도전으로서 위험을 무릅쓰고 황소를 맞서는 투우사의 내밀한 경험을 되돌아보게 한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/a6ZtfC3IcCUktFdlm1T4U45wd32.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263272",
-    "movieNm": "돌핀보이: 푸른 바다의 수호자",
-    "openDt": "2026-06-03",
-    "genreNm": "애니메이션,가족,판타지,모험",
-    "nationAlt": "독일",
-    "director": "Mohammad KheirAndish",
-    "isReRelease": false,
-    "overview": "돌고래 가족의 보살핌 속에 바다의 히어로로 성장한 ‘돌핀보이’. 어느 날, 극적으로 만난 아빠가 바다를 차지하려는 악당에게 납치당하는 사건이 발생한다. 돌핀보이는 단짝 돌고래 ‘스노우볼’, 반전 매력 상어 ‘샤키’, 인간 소녀 레일라와 함께 아빠를 구하고 위기에 빠진 바다를 지키기 위해 환상적인 모험을 시작한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gjz5g41ZhB6d3efXk7jw8isurdC.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263262",
-    "movieNm": "맘보 점보",
-    "openDt": "2026-06-03",
-    "genreNm": "애니메이션,가족",
-    "nationAlt": "덴마크",
-    "director": "Karsten Kiilerich",
-    "isReRelease": false,
-    "overview": "얼른 커~다란 어른이 되고 싶었던 아기 하마 ‘맘보’! 어느날, 알록달록 마법 버섯을 아주 조금 먹었을 뿐인데! 덩치가 왕! 커졌다! 커다래지고 싶은 소원을 이뤘단 기쁨도 잠시, 너무 거대한 몸으로는 친구들과 함께 놀 수도, 엄마와 꼭 끌어안고 잠들 수도 없단 사실을 알게 된 ‘맘보’! 마법을 풀기 위해서는 마녀 ‘바바야가’를 찾아가야만 한다! 다시 작아지고 싶은 ‘맘보’는 친구들과 함께 커~다란 모험을 떠나기로 하는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/s289DVR31dkZxnGW0vQl10xQZZN.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20258725",
-    "movieNm": "순례자들은 왜 돌아오지 않는가",
-    "openDt": "2026-06-03",
-    "genreNm": "애니메이션,SF,모험,드라마",
-    "nationAlt": "한국",
-    "director": "Heo Pyoung-kang",
-    "isReRelease": false,
-    "overview": "혐오와 차별이 존재하지 않는 '마을'의 아이들은 고통과 슬픔은 조금도 모른 채로 자란다. 아이들은 18세가 되면 마을 밖으로 순례를 다녀오는데 일부는 영영 귀환하지 않는다. 마을이 이토록 완벽한데, 왜 돌아오지 않는 것일까. 호기심을 억누르지 못한 데이지는 순례자들을 따라서 '시초지'를 떠돈다. 여전히 마을에서 안온한 일상을 보내던 소피는 잊고 있던 데이지와의 기억을 되찾고, 데이지가 왜 시초지로 향했는지 고심한다. 인간성의 회복은 인식으로부터 시작한다. 첨단의 과학이 개성을 거세하고 인간을 물화한 시대, 인류는 아이러니하게도 결함과 다름을 인지해야만 공감과 사랑을 체화할 수 있다. 주어진 평화를 떨치고 능동적인 삶을 선택해 떠나온 아이들은 종종 괴로울 것이다. 다만 더 자주 행복하다고 느낄 것이다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eZNrywwbzJ6gcQ76JYtnbUgoTYG.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20248252",
-    "movieNm": "와일드 씽",
-    "openDt": "2026-06-03",
-    "genreNm": "코미디,음악",
-    "nationAlt": "한국",
-    "director": "손재곤",
-    "isReRelease": false,
-    "overview": "가요계를 휩쓸었지만 예기치 못한 사건에 휘말려 하루아침에 해체된 3인조 혼성 댄스 그룹 '트라이앵글'이 20년 만에 찾아온 재기의 기회를 잡기 위해 무모한 도전을 벌이는 코미디 영화",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vpszanJFXaRNc9iytuZaaK3fcii.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263761",
-    "movieNm": "플레이브 아시아 투어 [대쉬: 퀀텀 리프] 앙코르 인 시네마",
-    "openDt": "2026-06-03",
-    "genreNm": "다큐멘터리,음악,애니메이션",
-    "nationAlt": "한국",
-    "director": "정보 없음",
-    "isReRelease": false,
-    "overview": "편견을 넘어 신화로, K-POP의 패러다임을 바꾸다! 이제는 신화가 된 'PLAVE', 그들만이 가능한 강렬한 퍼포먼스! 버추얼 아이돌 최초 고척돔에 입성한 역사적인 순간, 모두가 함께 벅차올랐던 [DASH: Quantum Leap] Encore의 압도적인 현장이 스크린에 펼쳐진다! 뉴 제너레이션의 시작을 알렸던 Dash부터, 오직 PLLI를 위해 부르는 진심 가득한 팬송까지 모두가 함께 이뤄낸 꿈 같은 시간을 극장에서 다시 만난다!",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nJT9QtwS0xt0Pgmly3nzyUTRKoj.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20261148",
     "movieNm": "밀월",
     "openDt": "2026-06-04",
@@ -420,6 +336,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263403",
+    "movieNm": "동지도",
+    "openDt": "2026-07-01",
+    "genreNm": "드라마,역사,전쟁",
+    "nationAlt": "중국",
+    "director": "관호",
+    "isReRelease": false,
+    "overview": "2차대전, 작은 섬 동지도 부근. 미군 잠수함의 공격으로 전쟁포로 영국군 1,816명을 싣고 가던 일본의 수송선 ‘리스본 마루’는 침몰을 앞두게 된다. 침몰까지는 단 25시간. 일본군은 살아있는 모든 것을 죽이려는 수장 플랜을 가동한다. 그들의 삼엄한 감시를 피해 단 한 명이라도 더 구조하려는 동지도의 어민들. 그리고 섬 사람까지 모두를 사살하려는 일본군. 폭풍우 치는 바다, 384명을 구조하려 했던 처절한 그들의 생존극이 펼쳐진다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jKEjkF4OCwbvLewKuZpe6PieITX.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263530",
     "movieNm": "마티 슈프림",
     "openDt": "2026-07-01",
@@ -456,6 +384,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20262651",
+    "movieNm": "하나 코리아",
+    "openDt": "2026-07-08",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "프레드릭 쇨베르",
+    "isReRelease": false,
+    "overview": "모든 것을 뒤로하고, 자유를 찾아 남한 사회에 도착한 탈북 여성 혜선. 자유를 향한 그녀의 여정에는 대가가 따른다. 새로운 삶을 개척하기 위해 혜선은 짙게 드리우는 과거의 그림자와 싸우고, 포기와 순응을 요구하는 현대사회에서 자신의 자리를 찾아야 한다. 과연 혜선은 진정으로 자유로워질 수 있을까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ceYPF2nk4ZruN8wU4EFTaobQNOL.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20262902",
     "movieNm": "다윗",
     "openDt": "2026-07-15",
@@ -465,6 +405,18 @@
     "isReRelease": false,
     "overview": "소년 다윗은 어느 날 선지자 사무엘로부터 왕이 될 운명을 듣게 되지만, 그것이 무엇을 의미하는지 알기도 전에 전쟁의 한가운데로 내던져진다. 모두가 숨을 죽인 전장, 세상이 두려워한 거인 골리앗 앞에 홀로 선 다윗은 단 하나의 돌로 마침내 그를 쓰러뜨린다. 기적 같은 승리 이후, 그는 단숨에 영웅이 되지만 그 이름은 곧 사울 왕의 분노를 깨운다. 또다시 거대한 위협 앞에 맞서게 된 다윗은 자신에게 주어진 운명의 무게와 마주하게 되는데...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/tGmTssnoltCCZBY7ys4lYRTFYFj.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20262381",
+    "movieNm": "사랑의 하츄핑: 고래보석의 전설",
+    "openDt": "2026-08-05",
+    "genreNm": "애니메이션,가족,모험,판타지",
+    "nationAlt": "한국",
+    "director": "김수훈",
+    "isReRelease": false,
+    "overview": "고래가 품은 보석의 비밀을 찾아 바다로 떠난 로미와 하츄핑의 기적 같은 모험을 그린 판타지 애니메이션",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8AnkUvz3xeQJYEpG1ZGeHh5lDws.jpg",
     "status": "saved"
   }
 ]

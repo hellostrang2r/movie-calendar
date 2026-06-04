@@ -2142,6 +2142,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263403",
+    "movieNm": "동지도",
+    "openDt": "2026-07-01",
+    "genreNm": "드라마,역사,전쟁",
+    "nationAlt": "중국",
+    "director": "관호",
+    "isReRelease": false,
+    "overview": "2차대전, 작은 섬 동지도 부근. 미군 잠수함의 공격으로 전쟁포로 영국군 1,816명을 싣고 가던 일본의 수송선 ‘리스본 마루’는 침몰을 앞두게 된다. 침몰까지는 단 25시간. 일본군은 살아있는 모든 것을 죽이려는 수장 플랜을 가동한다. 그들의 삼엄한 감시를 피해 단 한 명이라도 더 구조하려는 동지도의 어민들. 그리고 섬 사람까지 모두를 사살하려는 일본군. 폭풍우 치는 바다, 384명을 구조하려 했던 처절한 그들의 생존극이 펼쳐진다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jKEjkF4OCwbvLewKuZpe6PieITX.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263530",
     "movieNm": "마티 슈프림",
     "openDt": "2026-07-01",
@@ -2178,6 +2190,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20262651",
+    "movieNm": "하나 코리아",
+    "openDt": "2026-07-08",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "프레드릭 쇨베르",
+    "isReRelease": false,
+    "overview": "모든 것을 뒤로하고, 자유를 찾아 남한 사회에 도착한 탈북 여성 혜선. 자유를 향한 그녀의 여정에는 대가가 따른다. 새로운 삶을 개척하기 위해 혜선은 짙게 드리우는 과거의 그림자와 싸우고, 포기와 순응을 요구하는 현대사회에서 자신의 자리를 찾아야 한다. 과연 혜선은 진정으로 자유로워질 수 있을까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ceYPF2nk4ZruN8wU4EFTaobQNOL.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20262902",
     "movieNm": "다윗",
     "openDt": "2026-07-15",
@@ -2200,6 +2224,18 @@
     "overview": "우연히 영화 촬영장에 난입한 미니언들이 세계적인 무비스타로 거듭나며 벌어지는 이야기",
     "status": "saved",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8uvgppq5obV06X9X8SogQiU79Kd.jpg"
+  },
+  {
+    "movieCd": "20262381",
+    "movieNm": "사랑의 하츄핑: 고래보석의 전설",
+    "openDt": "2026-08-05",
+    "genreNm": "애니메이션,가족,모험,판타지",
+    "nationAlt": "한국",
+    "director": "김수훈",
+    "isReRelease": false,
+    "overview": "고래가 품은 보석의 비밀을 찾아 바다로 떠난 로미와 하츄핑의 기적 같은 모험을 그린 판타지 애니메이션",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8AnkUvz3xeQJYEpG1ZGeHh5lDws.jpg",
+    "status": "saved"
   },
   {
     "movieCd": "manual_20260805_odyssey",
