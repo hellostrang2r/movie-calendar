@@ -1986,16 +1986,16 @@
     "status": "saved"
   },
   {
-    "movieCd": "manual_20260617_toystory5",
+    "movieCd": "20259781",
     "movieNm": "토이 스토리 5",
     "openDt": "2026-06-17",
-    "genreNm": "애니메이션,모험,코미디,가족,판타지",
+    "genreNm": "애니메이션,가족,코미디,모험",
     "nationAlt": "미국",
-    "director": "앤드류 스탠튼,맥케나 해리스",
+    "director": "앤드류 스탠튼",
     "isReRelease": false,
-    "overview": "보니의 새 친구가 된 스마트 태블릿 '릴리패드'의 등장으로 전에 없던 위기를 맞은 제시, 우디, 버즈 등 장난감들이 다시 뭉쳐 예측불가한 여정을 함께하는 이야기.",
-    "status": "saved",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AqrJx3nVVMlKWXGaPIH32GzjEJA.jpg"
+    "overview": "“시대는 변해도, 친구들은 영원하다\" 스마트 태블릿 ’릴리패드'의 등장으로 온라인 세계에 모여들게 된 아이들. 친구들과 어울리기 위해 ‘보니’에게도 ‘릴리패드’가 생기게 되고, 장난감들은 점점 일상에서 밀려나게 된다. '제시'는 이 위기를 해결하기 위해 자신만의 길을 떠났던 '우디'에게 도움을 요청하게 되는데… 다시 뭉친 '제시', '우디', '버즈'는 '보니'의 마음을 되돌리고 ‘보니’의 진정한 친구를 찾아줄 수 있을까? \"장난감 VS 전자기기! 새로운 세상 속, 멈춰있던 장난감들이 다시 움직이기 시작한다!\"",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AqrJx3nVVMlKWXGaPIH32GzjEJA.jpg",
+    "status": "saved"
   },
   {
     "movieCd": "20234993",
@@ -2070,6 +2070,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20250489",
+    "movieNm": "슈퍼걸 ",
+    "openDt": "2026-06-24",
+    "genreNm": "액션,모험,SF",
+    "nationAlt": "미국",
+    "director": "크레이그 질레스피",
+    "isReRelease": false,
+    "overview": "무자비한 적의 등장으로 인해 뜻밖의 동반자와 힘을 합치는 '슈퍼걸'의 이야기를 그린 액션 블록버스터",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2LSzCgS4StdD2hizIzwgLLCNVnN.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20244889",
     "movieNm": "여름의 카메라",
     "openDt": "2026-06-24",
@@ -2127,6 +2139,18 @@
     "isReRelease": false,
     "overview": "생존한 개리티 가족은 안전한 그린란드 벙커를 떠나 폐허가 된 얼어붙은 유럽의 황무지를 가로질러 새로운 보금자리를 찾기 위한 위험한 여정을 시작한다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20245245",
+    "movieNm": "그림자 아이",
+    "openDt": "2026-07-01",
+    "genreNm": "공포,판타지",
+    "nationAlt": "한국",
+    "director": "유은정",
+    "isReRelease": false,
+    "overview": "언니와 함께 옥상에서 떨어진 후 3년간 의식을 잃었던 수안. 깨어나 보니 사랑하는 언니 수련은 이제 세상에 없고, 추억으로 가득했던 집 역시 떠나왔다. 게다가 다정하고 따뜻했던 엄마 금옥은 자꾸만 무언가 숨기는 것 같고 어딘가 모르게 불안해 보인다. 언니의 죽음에 자신이 모르는 무언가가 있음을 느끼던 어느 날 수안의 눈앞에 죽은 언니와 똑같은 얼굴을 한 재인이 나타나고, 수안은 과거 언니가 들려주던 ‘그림자 동화’를 떠올린다. “외로운 그림자가 꼭 닮은 두 아이를 찾아왔어. 너희는 몸이 두 개니까 하나를 줘” 언니의 죽음, 재인의 등장, 버려진 옛집 그리고 그림자 동화. 지금 수안에겐 무슨 일이 벌어지고 있는 걸까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AakJaXtDkG2WVME26duyaZOZe8g.jpg",
     "status": "saved"
   },
   {
@@ -2190,6 +2214,30 @@
     "status": "saved"
   },
   {
+    "movieCd": "20258190",
+    "movieNm": "미명",
+    "openDt": "2026-07-08",
+    "genreNm": "드라마,판타지",
+    "nationAlt": "한국",
+    "director": "이원영",
+    "isReRelease": false,
+    "overview": "몽골 역사를 연구하는 남자는 아내와 행복한 일상을 보낸다. 하지만 대통령이 계엄을 선포한 다음 날, 불의의 사고로 아내를 잃고 그 충격으로 목소리마저 잃게 된다. 남자는 아내의 혼령과 대화하기 위해 다시 목소리를 찾아야 한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qFZu0Wmcuq1ZlR4TaB78lrokIm8.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20261467",
+    "movieNm": "시크릿 에이전트",
+    "openDt": "2026-07-08",
+    "genreNm": "스릴러,드라마,범죄",
+    "nationAlt": "브라질",
+    "director": "클레베르 멘돈사 필류",
+    "isReRelease": false,
+    "overview": "1977년 브라질, 이름을 버리고 사라졌던 '마르셀루'는 아들과 재회하기 위해 고향 헤시피로 돌아온다. 카니발의 열기로 들끓는 도시에서 지워진 줄 알았던 과거는 다시 그를 향해 다가오기 시작하는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iSK6OCs3z8b4y3QqD605r5Jen0x.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20262651",
     "movieNm": "하나 코리아",
     "openDt": "2026-07-08",
@@ -2224,6 +2272,18 @@
     "overview": "우연히 영화 촬영장에 난입한 미니언들이 세계적인 무비스타로 거듭나며 벌어지는 이야기",
     "status": "saved",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8uvgppq5obV06X9X8SogQiU79Kd.jpg"
+  },
+  {
+    "movieCd": "20233219",
+    "movieNm": "호프",
+    "openDt": "2026-07-15",
+    "genreNm": "SF,미스터리,액션",
+    "nationAlt": "한국",
+    "director": "나홍진",
+    "isReRelease": false,
+    "overview": "고립된 항구마을 호포항에서 시작된 의문의 존재 공격에 맞서는 주민들의 이야기",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "status": "saved"
   },
   {
     "movieCd": "20262381",

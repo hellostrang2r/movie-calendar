@@ -766,5 +766,29 @@
     "overview": "근미래, 죽은 아들과 똑 닮은 휴머노이드를 가족으로 받아들이면서 벌어지는 이야기",
     "excludedReason": "같은 날짜/제목 중복",
     "status": "excluded"
+  },
+  {
+    "movieCd": "manual_20260617_toystory5",
+    "movieNm": "토이 스토리 5",
+    "openDt": "2026-06-17",
+    "genreNm": "애니메이션,모험,코미디,가족,판타지",
+    "nationAlt": "미국",
+    "director": "앤드류 스탠튼,맥케나 해리스",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AqrJx3nVVMlKWXGaPIH32GzjEJA.jpg",
+    "overview": "보니의 새 친구가 된 스마트 태블릿 '릴리패드'의 등장으로 전에 없던 위기를 맞은 제시, 우디, 버즈 등 장난감들이 다시 뭉쳐 예측불가한 여정을 함께하는 이야기.",
+    "excludedReason": "같은 날짜/제목 중복",
+    "status": "excluded"
+  },
+  {
+    "movieCd": "20261784",
+    "movieNm": "미니언즈 & 몬스터즈",
+    "openDt": "2026-07-15",
+    "genreNm": "모험,애니메이션,코미디,가족,판타지",
+    "nationAlt": "미국",
+    "director": "피에르 꼬팽",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8uvgppq5obV06X9X8SogQiU79Kd.jpg",
+    "overview": "우연히 영화 촬영장에 난입한 미니언들이 세계적인 무비스타로 거듭나며 벌어지는 이야기",
+    "excludedReason": "같은 날짜/제목 중복",
+    "status": "excluded"
   }
 ]

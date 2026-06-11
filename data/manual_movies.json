@@ -166,18 +166,6 @@
     "posterUrl": "https://image.tmdb.org/t/p/w500/uwxNbArTZ7BUf9UQszS5DCs6prT.jpg"
   },
   {
-    "movieCd": "manual_20260617_toystory5",
-    "movieNm": "토이 스토리 5",
-    "openDt": "2026-06-17",
-    "genreNm": "애니메이션,모험,코미디,가족,판타지",
-    "nationAlt": "미국",
-    "director": "앤드류 스탠튼,맥케나 해리스",
-    "isReRelease": false,
-    "overview": "보니의 새 친구가 된 스마트 태블릿 '릴리패드'의 등장으로 전에 없던 위기를 맞은 제시, 우디, 버즈 등 장난감들이 다시 뭉쳐 예측불가한 여정을 함께하는 이야기.",
-    "status": "saved",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AqrJx3nVVMlKWXGaPIH32GzjEJA.jpg"
-  },
-  {
     "movieCd": "manual_20260715_minionsandmonsters",
     "movieNm": "미니언즈 & 몬스터즈",
     "openDt": "2026-07-15",
