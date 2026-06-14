@@ -2190,6 +2190,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20264431",
+    "movieNm": "무서운 영화",
+    "openDt": "2026-07-01",
+    "genreNm": "코미디,공포",
+    "nationAlt": "미국",
+    "director": "Michael Tiddes",
+    "isReRelease": false,
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263948",
     "movieNm": "에픽: 엘비스 프레슬리 콘서트",
     "openDt": "2026-07-01",
