@@ -2130,6 +2130,30 @@
     "status": "saved"
   },
   {
+    "movieCd": "20259869",
+    "movieNm": "국가초기화",
+    "openDt": "2026-06-25",
+    "genreNm": "다큐멘터리,역사",
+    "nationAlt": "한국",
+    "director": "Kim Jeong-hee",
+    "isReRelease": false,
+    "overview": "“국민 여러분, 잘 지내고 계십니까?” 1960년, 정권이 무너지고 헌법은 새로 쓰였다. 정치가 멈추자, 1961년 군이 움직였다. 혼란의 한가운데에서, 한 남자가 국가의 운명을 다시 그리기 시작했다. 모든 것을 지우고, 다시 쓴 시간. ‘국가초기화’가 시작되었다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5etztbksiKK9aTJoriXJYQI8gWZ.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264241",
+    "movieNm": "정동원 팬콘서트 필름 : 다시 만나는 길",
+    "openDt": "2026-06-26",
+    "genreNm": "다큐멘터리,음악",
+    "nationAlt": "한국",
+    "director": "나상인",
+    "isReRelease": false,
+    "overview": "입대 전 마지막 공연 준비 과정부터 팬들을 향한 진심 어린 마음까지 무대 위 가장 빛나는 순간으로 완성된 정동원의 첫 팬콘서트 영화. 잠시의 이별을 지나 다시 만날 내일을 향한 약속 ‘오늘을 건너, 내일 다시 만나는 길’",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k8OKatGkVCENGcpzoN7JnFgtbgx.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20264056",
     "movieNm": "그린랜드 2: 마이그레이션",
     "openDt": "2026-07-01",
@@ -2259,6 +2283,18 @@
     "isReRelease": false,
     "overview": "모든 것을 뒤로하고, 자유를 찾아 남한 사회에 도착한 탈북 여성 혜선. 자유를 향한 그녀의 여정에는 대가가 따른다. 새로운 삶을 개척하기 위해 혜선은 짙게 드리우는 과거의 그림자와 싸우고, 포기와 순응을 요구하는 현대사회에서 자신의 자리를 찾아야 한다. 과연 혜선은 진정으로 자유로워질 수 있을까?",
     "posterUrl": "https://image.tmdb.org/t/p/w500/ceYPF2nk4ZruN8wU4EFTaobQNOL.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20050194",
+    "movieNm": "회로",
+    "openDt": "2026-07-08",
+    "genreNm": "공포,스릴러,미스터리",
+    "nationAlt": "일본",
+    "director": "구로사와 기요시",
+    "isReRelease": false,
+    "overview": "대학생활로 바쁜 카와시마 료스케(川島亮介, 가토 하루히코 분)와 평범한 직장여성으로 살아가는 쿠도 미치(工藤ミチ, 아소 구미코 분). 하지만 언젠가부터 그들 주변에서는 이상한 일들이 벌어지기 시작했다. 미치의 동료는 자살하고, 회사의 사장은 실종된다. 애인도 가족도 친구도 차례로 사라져버리는데. 한편 료스케가 시작한 인터넷의 화면에는, 접속도 안했는데 \"유령을 만나고 싶습니까\"라는 메세지가 뜨면서, 검은 자루를 뒤집어쓴 이상한 남자가 류스케를 덮친다. 뭔가를 느낀 료스케는 같은 대학에서 이 이상한 사이트를 연구하고 있는 카라사와 하루에(唐澤春江, 코유키 분)를 찾아가는데, 이미 학생들도, 연구생들도 모두 사라져버린 후이다. 혼란에 빠진 사회. 인터넷을 매개체로 뭐라고 설명할 수 없는 공포가 사람들을 덮친다. 점점 더 폐허가 되고 있는 거리에서, 마침내 료스케와 미치가 만나고, 그들을 엄습해 오는 공포와 맞서는데.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uykt2VRVtMRd6Jqwm7oyRnDIT74.jpg",
     "status": "saved"
   },
   {
