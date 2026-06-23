@@ -2214,6 +2214,17 @@
     "status": "saved"
   },
   {
+    "movieCd": "20264427",
+    "movieNm": "극장판 암살교실 모두의 시간",
+    "openDt": "2026-07-01",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "키타무라 마사키",
+    "isReRelease": false,
+    "overview": "",
+    "status": "saved"
+  },
+  {
     "movieCd": "20263403",
     "movieNm": "동지도",
     "openDt": "2026-07-01",
@@ -2295,6 +2306,17 @@
     "isReRelease": false,
     "overview": "한때 유망주로 기대를 받았던 고교 야구 투수 ‘우진’은 입스에 시달려 스트라이크를 던질 수 없게 된다. 야구부가 ‘우진’을 포기하려던 순간, 낙심한 ‘우진’ 앞에 갑자기 전학생 ‘태희’가 나타나 그의 매니저를 자처하는데… 과연 두 사람은 꿈을 이룰 수 있을까?",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8NHjbKNq9y1kLeMyeUOXsKTnQ4I.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264718",
+    "movieNm": "블리치 천년혈전 편 : 화진담",
+    "openDt": "2026-07-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "타구치 토모히사",
+    "isReRelease": false,
+    "overview": "",
     "status": "saved"
   },
   {
@@ -2404,6 +2426,18 @@
     "overview": "우연히 영화 촬영장에 난입한 미니언들이 세계적인 무비스타로 거듭나며 벌어지는 이야기",
     "status": "saved",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8uvgppq5obV06X9X8SogQiU79Kd.jpg"
+  },
+  {
+    "movieCd": "20259551",
+    "movieNm": "파리의 사생활",
+    "openDt": "2026-07-15",
+    "genreNm": "드라마,미스터리,범죄",
+    "nationAlt": "영국",
+    "director": "레베카 즐로토브스키",
+    "isReRelease": false,
+    "overview": "파리에 사는 정신과 상담의 릴리안은 어느 날 자신의 환자인 폴라가 스스로 목숨을 끊었다는 소식을 듣는다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a2KQjaEodbBxQAPOz6cU385L7hG.jpg",
+    "status": "saved"
   },
   {
     "movieCd": "20233219",
