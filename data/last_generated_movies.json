@@ -1,65 +1,5 @@
 [
   {
-    "movieCd": "20259869",
-    "movieNm": "국가초기화",
-    "openDt": "2026-06-25",
-    "genreNm": "다큐멘터리,역사",
-    "nationAlt": "한국",
-    "director": "Kim Jeong-hee",
-    "isReRelease": false,
-    "overview": "“국민 여러분, 잘 지내고 계십니까?” 1960년, 정권이 무너지고 헌법은 새로 쓰였다. 정치가 멈추자, 1961년 군이 움직였다. 혼란의 한가운데에서, 한 남자가 국가의 운명을 다시 그리기 시작했다. 모든 것을 지우고, 다시 쓴 시간. ‘국가초기화’가 시작되었다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5etztbksiKK9aTJoriXJYQI8gWZ.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263162",
-    "movieNm": "그림자 내각",
-    "openDt": "2026-06-25",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "한국",
-    "director": "Kim Si-woo",
-    "isReRelease": false,
-    "overview": "1979년 10월 16일, 유신정권을 종식한 부마 민주항쟁에서부터 시작하여 10.26 박정희 서거, 12.12 전두환의 군사반란, 2024년 12.3 윤석열의 내란으로 이어지는 대한민국의 과거부터 현재에 이르기까지 내란의 실체와 청산하지 못한 과거사를 추적하는 정치 다큐드라마로 군사반란과 내란을 어떻게 구조적으로 준비하였는지를 탐사한다. 그리고 전두환의 정적제거, 윤석열의 정적제거 실체를 추적하여 내란을 준비하는 과정을 낱낱이 파헤치고, 그 동조세력들의 실상을 추적한다. 또한 양극화의 뉴미디어와 국론분열 세력의 실체 및 독재권력으로 조성한 전두환, 노태우의 비자금 등을 집중 탐사하며, 전두환의 비자금이 내란 정권에 미친 영향과 과거 군사반란과 현재의 내란에 얽혀 있는 권력 주변의 검은 커넥션을 파헤친 작품이다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1HXPRXq1app922weQgkkiYXGnFK.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264358",
-    "movieNm": "방과후 퇴마클럽: 소녀들의 밤",
-    "openDt": "2026-06-25",
-    "genreNm": "코미디,공포",
-    "nationAlt": "한국",
-    "director": "Jung Zoo",
-    "isReRelease": false,
-    "overview": "음기가 가득한 팔자여자고등학교. 어느 날 학교에 기묘한 일들이 연이어 생기자, 교장 선생님은 사주팔자가 찰떡궁합인 ‘진심’, ‘소라’, ‘우수’, ‘조연’, ‘아영’에게 지박령을 퇴치하고 학교를 지키라는 비밀 임무를 맡기는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yTWusGG0VW6U8RXMo6d6GtzbLMY.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264072",
-    "movieNm": "금발이 되고 싶어",
-    "openDt": "2026-06-26",
-    "genreNm": "공포,코미디,SF",
-    "nationAlt": "미국",
-    "director": "Amy Wang",
-    "isReRelease": false,
-    "overview": "또래들의 시선과 자신의 정체성 사이에서 흔들리는 중국계 미국인 소녀가, 프롬 퀸의 자리를 꿈꾸며 백인처럼 보이기 위한 위험한 실험적 수술을 선택한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gYiWShxkNTAtedD4xR4uvw8XYvE.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264241",
-    "movieNm": "정동원 팬콘서트 필름 : 다시 만나는 길",
-    "openDt": "2026-06-26",
-    "genreNm": "다큐멘터리,음악",
-    "nationAlt": "한국",
-    "director": "나상인",
-    "isReRelease": false,
-    "overview": "입대 전 마지막 공연 준비 과정부터 팬들을 향한 진심 어린 마음까지 무대 위 가장 빛나는 순간으로 완성된 정동원의 첫 팬콘서트 영화. 잠시의 이별을 지나 다시 만날 내일을 향한 약속 ‘오늘을 건너, 내일 다시 만나는 길’",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/k8OKatGkVCENGcpzoN7JnFgtbgx.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20264056",
     "movieNm": "그린랜드 2: 마이그레이션",
     "openDt": "2026-07-01",
@@ -295,6 +235,17 @@
     "isReRelease": false,
     "overview": "“저는 제가 불가능주의자인 줄 알았어요.” 모든 동물의 해방을 꿈꾸는 비건 동물권 활동가들이 지난 십여 년 동안 펼쳐온 한국 동물권 운동. 반려동물의 권리를 넘어, 전시동물과 식용동물의 권리까지 확장하며 개, 돌고래, 돼지, 소, 넙치의 해방을 위해 모든 동물과 공존하는 세상을 꿈꾸며 행동해 온 청년들의 역사를 들어 본다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/nB9XxYxjnTmDxtH7UjtjB6Sf0WL.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20148709",
+    "movieNm": "경멸",
+    "openDt": "2026-07-15",
+    "genreNm": "드라마",
+    "nationAlt": "프랑스,이탈리아",
+    "director": "장 뤽 고다르",
+    "isReRelease": false,
+    "overview": "The semi-pro team chooses Ju-young over Mi-hye, and Mi-hye becomes suspicious of Ju-young.",
     "status": "saved"
   },
   {
