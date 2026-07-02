@@ -2320,6 +2320,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20245063",
+    "movieNm": "희망의 발견, 알래스카에서",
+    "openDt": "2026-07-04",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "정형민",
+    "isReRelease": false,
+    "overview": "2020년 여름, 나는 남동 알래스카의 최북단 마을인 야쿠타트를 방문했다. 그곳에서 클링깃 곱사연어 씨족의 원로인 기니낙 아저씨를 따라 원시의 숲과 바다를 누비고 다녔다. 2022년 겨울, 남동 알래스카를 다시 찾았다. 나는 그들이 꿈꾸는 아름다운 세상에 대해 배우고 기록하기 시작했다. 미국의 식민지로 여겼던 땅에서 지속 가능한 지구를 위한 희망의 꽃이 찬란하게 피어나고 있었다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ehOLb2CYVY3hV8bHhXshRS8z55K.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20259946",
     "movieNm": "모아나",
     "openDt": "2026-07-08",
@@ -2463,15 +2475,64 @@
     "status": "saved"
   },
   {
+    "movieCd": "19988770",
+    "movieNm": "뱀의 길",
+    "openDt": "2026-07-22",
+    "genreNm": "범죄,스릴러",
+    "nationAlt": "일본",
+    "director": "구로사와 기요시",
+    "isReRelease": false,
+    "overview": "어린 딸을 잃은 슬픔과 분노 속에서 복수를 다짐하는 ‘미야시타’. 그의 곁에 나타난 미스터리한 사내 ‘니지마’. 잡힐 듯 잡히지 않는 진실을 쫓아 선과 악의 경계를 넘나드는 두 남자는 한 번 들어서면 돌아올 수 없는 기이하고 길에 들어서게 되는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eTEhwsCtq4tOJt7E7TZf9cpwvcA.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20241642",
+    "movieNm": "소영의 노력",
+    "openDt": "2026-07-22",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "오재형",
+    "isReRelease": false,
+    "overview": "소영은 밤마다 무대를 떠올린다. 소영은 장애를 가지고 있다. 소영은 ‘일반인’의 몸을 상상하며 춤을 춘다. 소영은 칭찬을 경계한다. 희정은 소영의 무용 선생님이다. 희정은 동작을 잘 기억하라고 말한다. 희정은 하고 싶은 대로 하라고 말한다. 소영과 희정은 공연을 올린다. 다음 날 소영의 일상은 돌아온다. 소영은 자신을 기록하기 시작한다. 소영은 흐르는 물과 계절을 지나 목적지로 향한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aHer5L9rde9DfZRk0qh1tFwdKHn.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20236493",
+    "movieNm": "지느러미",
+    "openDt": "2026-07-22",
+    "genreNm": "판타지,SF,스릴러",
+    "nationAlt": "한국,독일,카타르",
+    "director": "박세영",
+    "isReRelease": false,
+    "overview": "통일 대한민국. 육지와 오염된 바다를 나누는 장벽 바깥에선 오메가로 불리는 추방된 돌연변이들이 착취당하며 바다 청소 노동에 쓰인다. 공무원 수진은 어느 실내 낚시터 직원 미아에 대한 의심을 품게 되며 추격을 시작하는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/blmCo4LAMpYjJcFsYfsfbrD0Xre.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264753",
+    "movieNm": "호컴",
+    "openDt": "2026-07-22",
+    "genreNm": "공포",
+    "nationAlt": "미국",
+    "director": "Damian McCarthy",
+    "isReRelease": false,
+    "overview": "소설가 옴 바우만은 부모님의 유골을 뿌리기 위해 외딴 숙소를 찾지만, 이내 허니문 스위트룸에 출몰한다는 마녀의 이야기에 사로잡힌다. 기괴한 환영과 충격적인 실종 사건이 이어지면서, 그는 결국 자신의 과거 속 어두운 구석을 마주해야만 하는 상황에 직면한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20264665",
     "movieNm": "드림 애니멀즈: 더무비",
     "openDt": "2026-07-24",
-    "genreNm": "",
+    "genreNm": "애니메이션",
     "nationAlt": "일본",
     "director": "타케키요 히토시",
     "isReRelease": false,
-    "overview": "",
-    "status": "saved"
+    "overview": "과자와 인간이 사이좋게 지내는 ‘스위츠랜드’의 슈퍼스타 ‘드림 애니멀즈’. 천상의 목소리 ‘페가수스’가 합류한 ‘드림 애니멀즈’는 월드투어를 성황리에 마친다. 하지만 돌아온 ‘스위츠랜드’는 과자를 전부 없애고 세계 정복을 노리는 무시무시한 솜사탕 악당 ‘킹고튼’에게 점령당해 있는데...! 과연 전투력 제로! 귀여움으로 무장한 ‘드림 애니멀즈’는 절체절명의 위기를 극복하고 과자세계를 구할 수 있을까?",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A42QHWC6lThuUBpIpdYoB4BD87r.jpg"
   },
   {
     "movieCd": "20262381",
@@ -2496,5 +2557,16 @@
     "overview": "호메로스의 고전 서사시 '오디세이아'를 원작으로, 전쟁 이후 고향으로 돌아가기 위해 장대한 여정을 떠나는 오디세우스의 모험을 그린 대서사시.",
     "status": "saved",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8ze9OcVuFiy94s6FFPvsn4oC2e1.jpg"
+  },
+  {
+    "movieCd": "20255467",
+    "movieNm": "길 위의 뭉치",
+    "openDt": "2026-08-19",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "오성윤",
+    "isReRelease": false,
+    "overview": "",
+    "status": "saved"
   }
 ]

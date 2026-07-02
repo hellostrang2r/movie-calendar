@@ -1,112 +1,5 @@
 [
   {
-    "movieCd": "20264056",
-    "movieNm": "그린랜드 2: 마이그레이션",
-    "openDt": "2026-07-01",
-    "genreNm": "모험,스릴러,SF",
-    "nationAlt": "영국",
-    "director": "릭 로먼 워",
-    "isReRelease": false,
-    "overview": "생존한 개리티 가족은 안전한 그린란드 벙커를 떠나 폐허가 된 얼어붙은 유럽의 황무지를 가로질러 새로운 보금자리를 찾기 위한 위험한 여정을 시작한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20245245",
-    "movieNm": "그림자 아이",
-    "openDt": "2026-07-01",
-    "genreNm": "공포,판타지",
-    "nationAlt": "한국",
-    "director": "유은정",
-    "isReRelease": false,
-    "overview": "언니와 함께 옥상에서 떨어진 후 3년간 의식을 잃었던 수안. 깨어나 보니 사랑하는 언니 수련은 이제 세상에 없고, 추억으로 가득했던 집 역시 떠나왔다. 게다가 다정하고 따뜻했던 엄마 금옥은 자꾸만 무언가 숨기는 것 같고 어딘가 모르게 불안해 보인다. 언니의 죽음에 자신이 모르는 무언가가 있음을 느끼던 어느 날 수안의 눈앞에 죽은 언니와 똑같은 얼굴을 한 재인이 나타나고, 수안은 과거 언니가 들려주던 ‘그림자 동화’를 떠올린다. “외로운 그림자가 꼭 닮은 두 아이를 찾아왔어. 너희는 몸이 두 개니까 하나를 줘” 언니의 죽음, 재인의 등장, 버려진 옛집 그리고 그림자 동화. 지금 수안에겐 무슨 일이 벌어지고 있는 걸까?",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AakJaXtDkG2WVME26duyaZOZe8g.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264027",
-    "movieNm": "극장판 도라에몽: 신 진구의 해저비밀성",
-    "openDt": "2026-07-01",
-    "genreNm": "애니메이션,모험,판타지,가족",
-    "nationAlt": "일본",
-    "director": "야지마 테츠오",
-    "isReRelease": false,
-    "overview": "이번 여름방학은 바닷속 캠핑이다! 숨이 멎을 듯한 놀라움이 가득한 두근두근 해저 대모험! 여름방학 캠핑 장소를 두고 의견이 갈린 진구와 친구들은 도라에몽의 제안으로 바다 한가운데로 여행을 떠나기로 한다. 도라에몽의 비밀도구 '수중 버기’와 ‘적응총’을 사용해 다양한 해양 생물도 만나고 바비큐도 하며 즐거운 시간을 보내던 중, 수상한 침몰선과 미스터리한 소년 ‘엘’과 만난다. 신비로운 해저 도시 ‘무대륙’에서는 육지인들을 싫어해 쉽게 마음을 열지 않는데… 그때, 수수께끼의 ‘귀암성’이 활동을 시작했다는 긴급한 소식이 전해지고 육지와 바다 모두가 위험에 처하고 만다! 소중한 우정을 가슴에 품고, 지구의 운명을 건 환상적인 모험이 지금 시작된다!",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/j0n3oaUqbig4Gb0yG1GPrb2KRyl.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264427",
-    "movieNm": "극장판 암살교실 모두의 시간",
-    "openDt": "2026-07-01",
-    "genreNm": "",
-    "nationAlt": "일본",
-    "director": "키타무라 마사키",
-    "isReRelease": false,
-    "overview": "",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263403",
-    "movieNm": "동지도",
-    "openDt": "2026-07-01",
-    "genreNm": "드라마,역사,전쟁",
-    "nationAlt": "중국",
-    "director": "관호",
-    "isReRelease": false,
-    "overview": "2차대전, 작은 섬 동지도 부근. 미군 잠수함의 공격으로 전쟁포로 영국군 1,816명을 싣고 가던 일본의 수송선 ‘리스본 마루’는 침몰을 앞두게 된다. 침몰까지는 단 25시간. 일본군은 살아있는 모든 것을 죽이려는 수장 플랜을 가동한다. 그들의 삼엄한 감시를 피해 단 한 명이라도 더 구조하려는 동지도의 어민들. 그리고 섬 사람까지 모두를 사살하려는 일본군. 폭풍우 치는 바다, 384명을 구조하려 했던 처절한 그들의 생존극이 펼쳐진다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jKEjkF4OCwbvLewKuZpe6PieITX.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264569",
-    "movieNm": "레디 오어 낫: 죽음의 숨바꼭질",
-    "openDt": "2026-07-01",
-    "genreNm": "스릴러,공포,코미디",
-    "nationAlt": "미국",
-    "director": "맷 베티넬리-올핀",
-    "isReRelease": false,
-    "overview": "르 도마스 가문의 공격에서 간신히 살아남은 지 몇 분도 되지 않아 그레이스는 자신이 이 악몽 같은 게임의 ‘다음 레벨’에 도달했다는 사실을 깨닫는다. 이번에는 오랫동안 왕래 없던 여동생 페이스까지 함께다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9XMwsbof7HoOiNxEahreQay3pXs.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263530",
-    "movieNm": "마티 슈프림",
-    "openDt": "2026-07-01",
-    "genreNm": "드라마,스릴러",
-    "nationAlt": "미국",
-    "director": "조쉬 사프디",
-    "isReRelease": false,
-    "overview": "아무도 존중해주지 않는 꿈을 가진 마티 마우저, 위대함을 좇아 지옥을 오가는 여정을 시작한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264431",
-    "movieNm": "무서운 영화",
-    "openDt": "2026-07-01",
-    "genreNm": "코미디,공포",
-    "nationAlt": "미국",
-    "director": "Michael Tiddes",
-    "isReRelease": false,
-    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20263948",
-    "movieNm": "에픽: 엘비스 프레슬리 콘서트",
-    "openDt": "2026-07-01",
-    "genreNm": "음악,다큐멘터리",
-    "nationAlt": "미국",
-    "director": "바즈 루어만",
-    "isReRelease": false,
-    "overview": "2년에 걸친 아카이브 탐색. 2,300여 개의 자료 검토. 59시간 분량의 희귀 영상. 그리고 70곡 이상의 음악. 시대를 초월한 전설적인 로큰롤의 왕이자 영원한 슈퍼스타 '엘비스 프레슬리'의 폭발적인 무대와 그 속에 담긴 삶의 순간들! 미공개 아카이브 영상과 그의 목소리로 완성된 음악의 여정이 지금껏 경험하지 못한 방식의 새로운 시선으로 스크린 위에 펼쳐진다!",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/60Pzk7U2nes40bg4v9cDXQvw7o5.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20263371",
     "movieNm": "사랑의 네 가지 온도",
     "openDt": "2026-07-02",
@@ -142,12 +35,24 @@
     "status": "saved"
   },
   {
+    "movieCd": "20245063",
+    "movieNm": "희망의 발견, 알래스카에서",
+    "openDt": "2026-07-04",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "정형민",
+    "isReRelease": false,
+    "overview": "2020년 여름, 나는 남동 알래스카의 최북단 마을인 야쿠타트를 방문했다. 그곳에서 클링깃 곱사연어 씨족의 원로인 기니낙 아저씨를 따라 원시의 숲과 바다를 누비고 다녔다. 2022년 겨울, 남동 알래스카를 다시 찾았다. 나는 그들이 꿈꾸는 아름다운 세상에 대해 배우고 기록하기 시작했다. 미국의 식민지로 여겼던 땅에서 지속 가능한 지구를 위한 희망의 꽃이 찬란하게 피어나고 있었다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ehOLb2CYVY3hV8bHhXshRS8z55K.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20259946",
     "movieNm": "모아나",
     "openDt": "2026-07-08",
     "genreNm": "가족,판타지,코미디,모험",
     "nationAlt": "미국",
-    "director": "토마스 카일",
+    "director": "토마스 케일",
     "isReRelease": false,
     "overview": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/etJXeoQovaAcQD8gG0vebtoIlMH.jpg",
@@ -242,7 +147,7 @@
     "movieNm": "경멸",
     "openDt": "2026-07-15",
     "genreNm": "드라마",
-    "nationAlt": "프랑스,이탈리아",
+    "nationAlt": "이탈리아",
     "director": "장 뤽 고다르",
     "isReRelease": false,
     "overview": "The semi-pro team chooses Ju-young over Mi-hye, and Mi-hye becomes suspicious of Ju-young.",
@@ -273,14 +178,63 @@
     "status": "saved"
   },
   {
+    "movieCd": "19988770",
+    "movieNm": "뱀의 길",
+    "openDt": "2026-07-22",
+    "genreNm": "범죄,스릴러",
+    "nationAlt": "일본",
+    "director": "구로사와 기요시",
+    "isReRelease": false,
+    "overview": "어린 딸을 잃은 슬픔과 분노 속에서 복수를 다짐하는 ‘미야시타’. 그의 곁에 나타난 미스터리한 사내 ‘니지마’. 잡힐 듯 잡히지 않는 진실을 쫓아 선과 악의 경계를 넘나드는 두 남자는 한 번 들어서면 돌아올 수 없는 기이하고 길에 들어서게 되는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eTEhwsCtq4tOJt7E7TZf9cpwvcA.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20241642",
+    "movieNm": "소영의 노력",
+    "openDt": "2026-07-22",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "오재형",
+    "isReRelease": false,
+    "overview": "소영은 밤마다 무대를 떠올린다. 소영은 장애를 가지고 있다. 소영은 ‘일반인’의 몸을 상상하며 춤을 춘다. 소영은 칭찬을 경계한다. 희정은 소영의 무용 선생님이다. 희정은 동작을 잘 기억하라고 말한다. 희정은 하고 싶은 대로 하라고 말한다. 소영과 희정은 공연을 올린다. 다음 날 소영의 일상은 돌아온다. 소영은 자신을 기록하기 시작한다. 소영은 흐르는 물과 계절을 지나 목적지로 향한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aHer5L9rde9DfZRk0qh1tFwdKHn.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20236493",
+    "movieNm": "지느러미",
+    "openDt": "2026-07-22",
+    "genreNm": "판타지,SF,스릴러",
+    "nationAlt": "한국,독일,카타르",
+    "director": "박세영",
+    "isReRelease": false,
+    "overview": "통일 대한민국. 육지와 오염된 바다를 나누는 장벽 바깥에선 오메가로 불리는 추방된 돌연변이들이 착취당하며 바다 청소 노동에 쓰인다. 공무원 수진은 어느 실내 낚시터 직원 미아에 대한 의심을 품게 되며 추격을 시작하는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/blmCo4LAMpYjJcFsYfsfbrD0Xre.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264753",
+    "movieNm": "호컴",
+    "openDt": "2026-07-22",
+    "genreNm": "공포",
+    "nationAlt": "미국",
+    "director": "Damian McCarthy",
+    "isReRelease": false,
+    "overview": "소설가 옴 바우만은 부모님의 유골을 뿌리기 위해 외딴 숙소를 찾지만, 이내 허니문 스위트룸에 출몰한다는 마녀의 이야기에 사로잡힌다. 기괴한 환영과 충격적인 실종 사건이 이어지면서, 그는 결국 자신의 과거 속 어두운 구석을 마주해야만 하는 상황에 직면한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20264665",
     "movieNm": "드림 애니멀즈: 더무비",
     "openDt": "2026-07-24",
-    "genreNm": "",
+    "genreNm": "애니메이션",
     "nationAlt": "일본",
     "director": "타케키요 히토시",
     "isReRelease": false,
-    "overview": "",
+    "overview": "과자와 인간이 사이좋게 지내는 ‘스위츠랜드’의 슈퍼스타 ‘드림 애니멀즈’. 천상의 목소리 ‘페가수스’가 합류한 ‘드림 애니멀즈’는 월드투어를 성황리에 마친다. 하지만 돌아온 ‘스위츠랜드’는 과자를 전부 없애고 세계 정복을 노리는 무시무시한 솜사탕 악당 ‘킹고튼’에게 점령당해 있는데...! 과연 전투력 제로! 귀여움으로 무장한 ‘드림 애니멀즈’는 절체절명의 위기를 극복하고 과자세계를 구할 수 있을까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A42QHWC6lThuUBpIpdYoB4BD87r.jpg",
     "status": "saved"
   },
   {
@@ -293,6 +247,17 @@
     "isReRelease": false,
     "overview": "고래가 품은 보석의 비밀을 찾아 바다로 떠난 로미와 하츄핑의 기적 같은 모험을 그린 판타지 애니메이션",
     "posterUrl": "https://image.tmdb.org/t/p/w500/8AnkUvz3xeQJYEpG1ZGeHh5lDws.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20255467",
+    "movieNm": "길 위의 뭉치",
+    "openDt": "2026-08-19",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "오성윤",
+    "isReRelease": false,
+    "overview": "",
     "status": "saved"
   }
 ]
