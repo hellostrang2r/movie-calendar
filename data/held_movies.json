@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "movieCd": "20264714",
+    "movieNm": "예스! 유 캔",
+    "openDt": "2026-07-22",
+    "genreNm": "",
+    "nationAlt": "이탈리아",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
+    "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
+    "status": "held"
+  },
+  {
+    "movieCd": "20264742",
+    "movieNm": "불멸의 존재들. 이집트 박물관의 경이들",
+    "openDt": "2026-07-29",
+    "genreNm": "",
+    "nationAlt": "이탈리아",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
+    "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
+    "status": "held"
+  }
+]

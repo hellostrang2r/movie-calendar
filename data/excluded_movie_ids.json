@@ -790,5 +790,17 @@
     "overview": "우연히 영화 촬영장에 난입한 미니언들이 세계적인 무비스타로 거듭나며 벌어지는 이야기",
     "excludedReason": "같은 날짜/제목 중복",
     "status": "excluded"
+  },
+  {
+    "movieCd": "manual_20260805_odyssey",
+    "movieNm": "오디세이",
+    "openDt": "2026-08-05",
+    "genreNm": "모험,판타지,액션",
+    "nationAlt": "미국",
+    "director": "크리스토퍼 놀란",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8ze9OcVuFiy94s6FFPvsn4oC2e1.jpg",
+    "overview": "호메로스의 고전 서사시 '오디세이아'를 원작으로, 전쟁 이후 고향으로 돌아가기 위해 장대한 여정을 떠나는 오디세우스의 모험을 그린 대서사시.",
+    "excludedReason": "같은 날짜/제목 중복",
+    "status": "excluded"
   }
 ]
