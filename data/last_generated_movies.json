@@ -120,6 +120,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20253265",
+    "movieNm": "고도: 기다리는 사람들",
+    "openDt": "2026-07-25",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "최정민",
+    "isReRelease": false,
+    "overview": "생존 고도 130cm, 생존공간 0.05%의 터널에서 살아남은 자들이 살기 위해 벌이는 고군분투를 그린 극영화",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nlF2cv5CcfSdx0ONFhOLJvX3bhl.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20257100",
     "movieNm": "산양들",
     "openDt": "2026-07-29",
@@ -204,6 +216,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20262945",
+    "movieNm": "퍼피 구조대: 더 다이노 무비",
+    "openDt": "2026-08-13",
+    "genreNm": "모험,애니메이션,코미디,가족",
+    "nationAlt": "미국",
+    "director": "캘런 브런커",
+    "isReRelease": false,
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20255467",
     "movieNm": "길 위의 뭉치",
     "openDt": "2026-08-19",
@@ -239,6 +263,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20264715",
+    "movieNm": "드라큘라: 러브 테일",
+    "openDt": "2026-08-26",
+    "genreNm": "공포,판타지,로맨스",
+    "nationAlt": "프랑스",
+    "director": "뤽 베송",
+    "isReRelease": false,
+    "overview": "15세기, 전쟁으로 연인을 잃은 남자. 신을 버린 저주로 불멸의 드라큘라가 되고 그녀를 되찾기 위해 세상을 떠돈다. 400년의 기다림. 죽음도, 시간도, 신의 저주도 끝내 막지 못한 운명을 다시 만나는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vJe8ggY9AqikRefzYDlQEEBnjGw.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20265146",
     "movieNm": "옵세션",
     "openDt": "2026-09-02",
@@ -248,18 +284,6 @@
     "isReRelease": false,
     "overview": "음반점 직원 베어(마이클 존스턴)는 어린 시절부터 짝사랑해 온 동료이자 소꿉친구 니키(인디 네버레티)에게 마음을 고백하지 못하고 있다. 용기를 내지 못한 베어는 우연히 발견한 신비로운 장난감 '원 위시 윌로(One Wish Willow)'를 통해 니키가 자신을 세상에서 가장 사랑하게 해달라고 소원을 빈다. 소원은 즉시 이루어지고, 니키는 베어에게 모든 것을 건 사랑을 쏟아붓는다. 하지만 이 사랑은 점점 집착으로 변질되고, 니키의 행동은 기이하고 공포스러운 방향으로 치닫는다. 때로는 본래의 니키가 잠시 깨어나 공포에 질려 비명을 지르기도 한다. 베어는 자신이 원했던 것이 정말 니키인지, 그리고 그 구분이 얼마나 중요한지라는 끔찍한 질문에 직면하게 된다. 소원의 대가가 그들 모두를 위협하는 가운데, 베어는 자신의 욕망이 초래한 비극적 결과와 마주해야 한다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264917",
-    "movieNm": "리틀 드래곤:몬스터섬의 비밀",
-    "openDt": "2026-09-03",
-    "genreNm": "애니메이션,가족",
-    "nationAlt": "노르웨이,벨기에,독일",
-    "director": "Endre Skandfer",
-    "isReRelease": false,
-    "overview": "수영을 못 하는 바다 드래곤 루피는 할머니와 단둘이 살아가고 있다. 어느 날, 연기를 내뿜어 인간으로부터 바다 괴물 섬을 지키는 세르팡의 마법목도리가 망가지고, 루드비그는 감기에 걸려 연기를 내뿜지 못한다. 루피는 오래전 섬을 떠난 자신의 이모할머니가 루드비그에게 목도리를 선물했다는 사실을 알게 되고, 할머니와 바다 몬스터 섬을 지키기 위해 이모할머니를 찾아 떠난다, 고래택시를 타고 육지에 도착하고 육지에서 사자,꼬끼리,거북이 등을 만나 그들과 함께 동물원을 탈출하여 다시 몬스터 섬으로 돌아와 위기를 극복한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/esGI8WI19wO0Hyvv2OFYUuvEPtx.jpg",
     "status": "saved"
   },
   {

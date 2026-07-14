@@ -2548,6 +2548,18 @@
     "posterUrl": "https://image.tmdb.org/t/p/w500/A42QHWC6lThuUBpIpdYoB4BD87r.jpg"
   },
   {
+    "movieCd": "20253265",
+    "movieNm": "고도: 기다리는 사람들",
+    "openDt": "2026-07-25",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "최정민",
+    "isReRelease": false,
+    "overview": "생존 고도 130cm, 생존공간 0.05%의 터널에서 살아남은 자들이 살기 위해 벌이는 고군분투를 그린 극영화",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nlF2cv5CcfSdx0ONFhOLJvX3bhl.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20257100",
     "movieNm": "산양들",
     "openDt": "2026-07-29",
@@ -2632,6 +2644,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20262945",
+    "movieNm": "퍼피 구조대: 더 다이노 무비",
+    "openDt": "2026-08-13",
+    "genreNm": "모험,애니메이션,코미디,가족",
+    "nationAlt": "미국",
+    "director": "캘런 브런커",
+    "isReRelease": false,
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20255467",
     "movieNm": "길 위의 뭉치",
     "openDt": "2026-08-19",
@@ -2664,6 +2688,18 @@
     "isReRelease": false,
     "overview": "\"실화 기반, 전장의 숨결을 생생히 담아낸 리얼 타임 전쟁 드라마\"  2006년 이라크 라마디. 미 해군 특수부대 네이비 씰 팀이 적진 한복판에서 감시 임무를 수행하던 중, 예상치 못한 상황에 휘말리게 된다. 민가를 점거해 잠복하던 그들은 알카에다 세력의 포위망에 갇히고, 지원은 끊긴 채 생존을 위한 사투를 벌이게 된다. 전직 네이비 씰이자 실제 생존자인 레이 멘도자 감독과 '엑스 마키나', '시빌 워'의 알렉스 가란드 감독이 공동 연출한 이 작품은, 전투의 혼돈과 공포를 실시간으로 그려낸다. 화려한 음악이나 영웅 서사 없이, 전장의 소음과 침묵, 그리고 병사들의 숨결이 화면을 가득 채운다. 실화를 바탕으로 한 이 영화는, 전쟁의 참혹함과 인간의 생존 본능을 적나라하게 보여주며, 관객을 전장의 한가운데로 끌어들인다. 과연 이들은 살아남을 수 있을까...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264715",
+    "movieNm": "드라큘라: 러브 테일",
+    "openDt": "2026-08-26",
+    "genreNm": "공포,판타지,로맨스",
+    "nationAlt": "프랑스",
+    "director": "뤽 베송",
+    "isReRelease": false,
+    "overview": "15세기, 전쟁으로 연인을 잃은 남자. 신을 버린 저주로 불멸의 드라큘라가 되고 그녀를 되찾기 위해 세상을 떠돈다. 400년의 기다림. 죽음도, 시간도, 신의 저주도 끝내 막지 못한 운명을 다시 만나는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vJe8ggY9AqikRefzYDlQEEBnjGw.jpg",
     "status": "saved"
   },
   {
