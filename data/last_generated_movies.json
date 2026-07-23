@@ -1,65 +1,5 @@
 [
   {
-    "movieCd": "19988770",
-    "movieNm": "뱀의 길",
-    "openDt": "2026-07-22",
-    "genreNm": "범죄,스릴러",
-    "nationAlt": "일본",
-    "director": "구로사와 기요시",
-    "isReRelease": false,
-    "overview": "어린 딸을 잃은 슬픔과 분노 속에서 복수를 다짐하는 ‘미야시타’. 그의 곁에 나타난 미스터리한 사내 ‘니지마’. 잡힐 듯 잡히지 않는 진실을 쫓아 선과 악의 경계를 넘나드는 두 남자는 한 번 들어서면 돌아올 수 없는 기이하고 길에 들어서게 되는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eTEhwsCtq4tOJt7E7TZf9cpwvcA.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20241642",
-    "movieNm": "소영의 노력",
-    "openDt": "2026-07-22",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "한국",
-    "director": "오재형",
-    "isReRelease": false,
-    "overview": "소영은 밤마다 무대를 떠올린다. 소영은 장애를 가지고 있다. 소영은 ‘일반인’의 몸을 상상하며 춤을 춘다. 소영은 칭찬을 경계한다. 희정은 소영의 무용 선생님이다. 희정은 동작을 잘 기억하라고 말한다. 희정은 하고 싶은 대로 하라고 말한다. 소영과 희정은 공연을 올린다. 다음 날 소영의 일상은 돌아온다. 소영은 자신을 기록하기 시작한다. 소영은 흐르는 물과 계절을 지나 목적지로 향한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aHer5L9rde9DfZRk0qh1tFwdKHn.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264714",
-    "movieNm": "예스! 유 캔",
-    "openDt": "2026-07-22",
-    "genreNm": "코미디,드라마",
-    "nationAlt": "이탈리아",
-    "director": "Greta Scarano",
-    "isReRelease": false,
-    "overview": "이레네는 40세의 자폐증 오빠 오마르를 돌보기 위해 고향인 리미니로 돌아온다. 그러나, 오마르는 부모님이 돌아가시더라도 이레네와 함께 살고 싶어 하지 않는다. 이에 이레네는 오빠가 독립적인 삶을 살 수 있도록, 그리고 더 나아가 오빠가 유명 가수가 되겠다는 꿈을 이룰 수 있도록 집중적인 어른 만들기 수업을 하기로 결심한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tSDADRotor87fH178DrVUPWSUrE.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20236493",
-    "movieNm": "지느러미",
-    "openDt": "2026-07-22",
-    "genreNm": "판타지,SF,스릴러",
-    "nationAlt": "한국",
-    "director": "박세영",
-    "isReRelease": false,
-    "overview": "통일 대한민국. 육지와 오염된 바다를 나누는 장벽 바깥에선 오메가로 불리는 추방된 돌연변이들이 착취당하며 바다 청소 노동에 쓰인다. 공무원 수진은 어느 실내 낚시터 직원 미아에 대한 의심을 품게 되며 추격을 시작하는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/blmCo4LAMpYjJcFsYfsfbrD0Xre.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264753",
-    "movieNm": "호컴",
-    "openDt": "2026-07-22",
-    "genreNm": "공포",
-    "nationAlt": "미국",
-    "director": "Damian McCarthy",
-    "isReRelease": false,
-    "overview": "소설가 옴 바우만은 부모님의 유골을 뿌리기 위해 외딴 숙소를 찾지만, 이내 허니문 스위트룸에 출몰한다는 마녀의 이야기에 사로잡힌다. 기괴한 환영과 충격적인 실종 사건이 이어지면서, 그는 결국 자신의 과거 속 어두운 구석을 마주해야만 하는 상황에 직면한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20264665",
     "movieNm": "드림 애니멀즈: 더무비",
     "openDt": "2026-07-24",
@@ -319,6 +259,18 @@
     "isReRelease": false,
     "overview": "음반점 직원 베어(마이클 존스턴)는 어린 시절부터 짝사랑해 온 동료이자 소꿉친구 니키(인디 네버레티)에게 마음을 고백하지 못하고 있다. 용기를 내지 못한 베어는 우연히 발견한 신비로운 장난감 '원 위시 윌로(One Wish Willow)'를 통해 니키가 자신을 세상에서 가장 사랑하게 해달라고 소원을 빈다. 소원은 즉시 이루어지고, 니키는 베어에게 모든 것을 건 사랑을 쏟아붓는다. 하지만 이 사랑은 점점 집착으로 변질되고, 니키의 행동은 기이하고 공포스러운 방향으로 치닫는다. 때로는 본래의 니키가 잠시 깨어나 공포에 질려 비명을 지르기도 한다. 베어는 자신이 원했던 것이 정말 니키인지, 그리고 그 구분이 얼마나 중요한지라는 끔찍한 질문에 직면하게 된다. 소원의 대가가 그들 모두를 위협하는 가운데, 베어는 자신의 욕망이 초래한 비극적 결과와 마주해야 한다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264915",
+    "movieNm": "딥 워터",
+    "openDt": "2026-09-09",
+    "genreNm": "공포,스릴러",
+    "nationAlt": "미국",
+    "director": "레니 할린",
+    "isReRelease": false,
+    "overview": "로스앤젤레스발 상하이행 여객기에 탑승한 다국적 승객들은 상어가 출몰하는 해역에 비상 착륙하게 됩니다. 공포에 빠진 승객들이 침몰하는 비행기와 잔해로 몰려드는 상어 떼의 위협에서 벗어나려면, 서로의 차이를 극복하고 반드시 협력해야만 합니다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
     "status": "saved"
   },
   {

@@ -2834,6 +2834,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20264915",
+    "movieNm": "딥 워터",
+    "openDt": "2026-09-09",
+    "genreNm": "공포,스릴러",
+    "nationAlt": "미국",
+    "director": "레니 할린",
+    "isReRelease": false,
+    "overview": "로스앤젤레스발 상하이행 여객기에 탑승한 다국적 승객들은 상어가 출몰하는 해역에 비상 착륙하게 됩니다. 공포에 빠진 승객들이 침몰하는 비행기와 잔해로 몰려드는 상어 떼의 위협에서 벗어나려면, 서로의 차이를 극복하고 반드시 협력해야만 합니다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20264879",
     "movieNm": "청년 조용기",
     "openDt": "2026-09-11",
