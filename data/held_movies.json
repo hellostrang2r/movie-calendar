@@ -1,10 +1,22 @@
 [
   {
-    "movieCd": "20264742",
-    "movieNm": "불멸의 존재들. 이집트 박물관의 경이들",
-    "openDt": "2026-07-29",
+    "movieCd": "20265254",
+    "movieNm": "투모로우바이투게더 브이알 콘서트 : 엔드리스 라이드",
+    "openDt": "2026-07-31",
     "genreNm": "",
-    "nationAlt": "이탈리아",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
+    "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
+    "status": "held"
+  },
+  {
+    "movieCd": "20264947",
+    "movieNm": "데드락",
+    "openDt": "2026-08-05",
+    "genreNm": "",
+    "nationAlt": "미국",
     "director": "정보 없음",
     "isReRelease": false,
     "overview": "",
