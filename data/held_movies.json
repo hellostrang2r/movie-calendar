@@ -10,17 +10,5 @@
     "overview": "",
     "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
     "status": "held"
-  },
-  {
-    "movieCd": "20264947",
-    "movieNm": "데드락",
-    "openDt": "2026-08-05",
-    "genreNm": "",
-    "nationAlt": "미국",
-    "director": "정보 없음",
-    "isReRelease": false,
-    "overview": "",
-    "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
-    "status": "held"
   }
 ]
