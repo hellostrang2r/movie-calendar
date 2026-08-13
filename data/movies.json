@@ -2918,6 +2918,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263307",
+    "movieNm": "도그 스타: 마지막 희망",
+    "openDt": "2026-08-26",
+    "genreNm": "모험,SF,스릴러",
+    "nationAlt": "미국",
+    "director": "리들리 스콧",
+    "isReRelease": false,
+    "overview": "인류를 휩쓴 대재앙으로 문명이 무너지고 폐허가 된 세상. 임신한 아내를 잃은 파일럿 힉은 반려견 재스퍼와 함께 살아남기 위해 매일 목숨을 건 사투를 벌이고, 생존을 위해서는 누군가를 죽여야만 하는 냉혹한 현실 속에서 점점 삶의 희망마저 잃어간다. 어느 날, 다른 구역에서 들려온 의문의 라디오 무전은 힉에게 새로운 땅과 삶에 대한 희망을 안겨준다. 유일한 이웃인 뱅리의 염세적인 만류에도 불구하고 무전의 발신지를 찾아 길을 떠난 힉은 다른 구역의 생존자 시마와 팝스를 만나 오랜만에 인간다운 온기와 희망을 되찾는다. 그러나 평화도 잠시, 야만적인 생존자들의 위협이 그들을 덮치고 힉과 동료들은 살아남기 위한 마지막 사투에 뛰어든다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cttXvh438Mqp55loQMDofsd4yiC.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20264715",
     "movieNm": "드라큘라: 러브 테일",
     "openDt": "2026-08-26",
@@ -2974,6 +2986,18 @@
     "director": "한명구",
     "isReRelease": false,
     "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20265579",
+    "movieNm": "말하지 않은 것들",
+    "openDt": "2026-09-02",
+    "genreNm": "드라마",
+    "nationAlt": "이탈리아",
+    "director": "가브리엘레 무치노",
+    "isReRelease": false,
+    "overview": "카를로는 대학교수이고, 엘리사는 기자다. 그들은 안나와 파올로, 그리고 그들의 딸 비토리아와 함께 모로코의 탕헤르로 여행을 떠난다. 멀리 떨어진 따뜻하고 고요한 풍경 속에서, 관계는 긴장을 고조시키고, 본모습을 드러내며, 변화한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sK4MZKEzQk5ajgLKI8QnU129UdY.jpg",
     "status": "saved"
   },
   {
@@ -3069,6 +3093,18 @@
     "director": "이정국",
     "isReRelease": false,
     "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20255100",
+    "movieNm": "97 혜자, 표류기",
+    "openDt": "2026-09-09",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "정기혁",
+    "isReRelease": false,
+    "overview": "서울에 취직하여 고군분투 중인 혜자는 반지하에서 오피스텔로 올라가기를 꿈꾼다. 보험사 콜센터에서 일하는 혜자는 거친 사투리와 불같은 성격 때문에 회사에서 어려움이 많다. 며칠 뒤, 오피스텔로 가기로 결심한 혜자는 엄마에게 돈을 빌리기 위해 부산행 기차를 탄다. 부산에 도착한 혜자는 아무리 문을 두드려도 엄마가 나오지 않자, 엄마의 친구 희숙에게 전화를 건다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j8vHULJmFuZPCQu4WhSxV4A5MGk.jpg",
     "status": "saved"
   },
   {
@@ -3171,12 +3207,13 @@
     "movieCd": "20265587",
     "movieNm": "디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!",
     "openDt": "2026-09-16",
-    "genreNm": "",
+    "genreNm": "애니메이션,모험,액션,판타지,가족",
     "nationAlt": "일본",
     "director": "호소다 마모루",
     "isReRelease": false,
-    "overview": "",
-    "status": "saved"
+    "overview": "디지몬 어드벤쳐, 그보다 좀 더 이전의 이야기. 야가미 타이치(신태일)와 그의 여동생인 히카리(신나리)가 어릴 적 코로몬과 운명적인 만남을 가졌던 때를 그리고 있다.",
+    "status": "saved",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/p0SmmqmDvgpTg75hc0wPxTdsAlS.jpg"
   },
   {
     "movieCd": "20254904",

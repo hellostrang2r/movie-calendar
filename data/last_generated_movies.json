@@ -1,65 +1,5 @@
 [
   {
-    "movieCd": "20255503",
-    "movieNm": "데인저러스 애니멀스",
-    "openDt": "2026-08-12",
-    "genreNm": "공포,스릴러",
-    "nationAlt": "미국",
-    "director": "Sean Byrne",
-    "isReRelease": false,
-    "overview": "현실에서 벗어나기 위해 호주 골드 코스트를 찾은 서퍼 ‘제피르’. 평온한 바다에 서핑을 하러 가던 그녀는 살인마 ‘터커’에게 납치 된다. 상어에게 인간을 먹이로 주는 특이 취향을 가진 연쇄 살인마의 배에 감금된 ‘제피르’는 탈출을 시도 하지만 번번히 실패하고, 자신의 차례가 다가오자 마지막 사투를 벌인다. ‘제피르’는 바다 한 가운데에서 바다 아래 상어 그리고 그보다 더 위험한 존재인 인간과 맞서 살아남기 위한 사투를 시작한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/v4mopTpB6QTEF1p6CTKUuoOSL6i.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264635",
-    "movieNm": "명탐정 코난: 하이웨이의 타천사",
-    "openDt": "2026-08-12",
-    "genreNm": "애니메이션,액션,미스터리,범죄",
-    "nationAlt": "일본",
-    "director": "Takahiro Hasui",
-    "isReRelease": false,
-    "overview": "‘모터 사이클 페스티벌’이 열리는 요코하마로 향하던 코난 일행은 폭주하는 검은 오토바이 사건에 휘말리고 범인을 쫓던 ‘바람의 여신’ 가나가와현경 교통기동대 하기와라 치하야 경부보와 재회한다. 경찰의 추적을 모두 뿌리친 폭주 오토바이는 도쿄 시내에도 출물하고, 연쇄적으로 사상자가 발생한다. 이러한 가운데 최첨단 AI 기술을 탑재한 싸이카 ‘엔젤’과 폭주 오토바이가 매우 유사하다는 점이 밝혀지고, 이 정체불명의 존재를 ‘루시퍼’라고 명명, 점차 포위망을 좁혀간다. 한편, 사건을 쫓던 치하야는 문득 7년 전 11월 7일, 폭탄을 해체하다 순직한 남동생 하기와라 켄지와, 그의 죽음으로부터 4년 후 11월 7일, 같은 범인을 쫓다가 순직한 켄지의 친구이자 동료 마츠다 진페이에 대한 기억이 떠오르는데….",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tuUumbktbNcv183623HRlfrKkgu.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20248584",
-    "movieNm": "빈집의 연인들",
-    "openDt": "2026-08-12",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "김태휘",
-    "isReRelease": false,
-    "overview": "까칠한 언행으로 스스로 마을 공식 외톨이가 된 은자. 어느 날 집에 들이닥친 도둑을 때려잡고 보니 전국을 유랑하며 시골 빈집을 터는 팔복이란 놈이다. 빈집은 털어도 한탕은 일없는 팔복의 낭만에 끌려 동행하기로 한 은자의 심장은 팔딱팔딱 뛰는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vjWby29QX9YCqTX87neLUSIAUkq.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20208527",
-    "movieNm": "숨어드는 산",
-    "openDt": "2026-08-12",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "최창환",
-    "isReRelease": false,
-    "overview": "한국은 아직 제5공화국이다. 독재는 아직 끝나지 않았고 수많은 사람들이 산으로 숨어들었다. 대구시경 방첩대 형사인 인혁과 상준은 안보법 위반으로 수배 중인 최명훈의 처 이수경을 매일 감시하고 있다. 홀로 남은 이수경은 인터넷 댓글 알바를 하며 하루하루 살고 있다. 수경은 고달픈 삶과 남편과 자신을 돌봐주지 않은 남편의 가족에 대해 배신감이 들어 명훈의 소재를 인혁과 상준에게 알리기로 하고 순천으로 향한다. 수경에게 연민을 느끼고 있던 인혁은 토벌대의 기획수사에 반발하여 명훈을 잡는다는 조건을 걸고 대구시경과 협의하고 수경을 빼돌린다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sL69lvZ9pNRq7NeRXLQtfWiMucT.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20255484",
-    "movieNm": "오케이 마담2",
-    "openDt": "2026-08-12",
-    "genreNm": "액션,코미디",
-    "nationAlt": "한국",
-    "director": "이철하",
-    "isReRelease": false,
-    "overview": "사춘기 딸과의 전쟁, 허세 충만 백수 남편, 꽈배기집 폐업 위기까지. 지긋지긋한 현생을 견뎌오던 미영에게 초호화 크루즈 결혼식 초대장이 도착한다. “우리, 진짜 여행 가자!” 화려한 크루즈 여행을 만끽하던 것도 잠시. 범죄 조직의 리더 안야의 등장에 수백명이 탑승한 크루즈는 순식간에 사상 초유의 납치 사건 현장이 되어버린다. 도망칠 곳 없는 푸른 바다 한복판, 다시 한번 각성한 전직 레전드 요원 미영은 이제 가족을 구하고 세상을 지켜야 할 위험한 작전에 뛰어든다!",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/z7WdTxyGl55EthR3h6Te5V6VI9t.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20262945",
     "movieNm": "퍼피 구조대: 더 다이노 무비",
     "openDt": "2026-08-13",
@@ -238,6 +178,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20263307",
+    "movieNm": "도그 스타: 마지막 희망",
+    "openDt": "2026-08-26",
+    "genreNm": "모험,SF,스릴러",
+    "nationAlt": "미국",
+    "director": "리들리 스콧",
+    "isReRelease": false,
+    "overview": "인류를 휩쓴 대재앙으로 문명이 무너지고 폐허가 된 세상. 임신한 아내를 잃은 파일럿 힉은 반려견 재스퍼와 함께 살아남기 위해 매일 목숨을 건 사투를 벌이고, 생존을 위해서는 누군가를 죽여야만 하는 냉혹한 현실 속에서 점점 삶의 희망마저 잃어간다. 어느 날, 다른 구역에서 들려온 의문의 라디오 무전은 힉에게 새로운 땅과 삶에 대한 희망을 안겨준다. 유일한 이웃인 뱅리의 염세적인 만류에도 불구하고 무전의 발신지를 찾아 길을 떠난 힉은 다른 구역의 생존자 시마와 팝스를 만나 오랜만에 인간다운 온기와 희망을 되찾는다. 그러나 평화도 잠시, 야만적인 생존자들의 위협이 그들을 덮치고 힉과 동료들은 살아남기 위한 마지막 사투에 뛰어든다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cttXvh438Mqp55loQMDofsd4yiC.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20264715",
     "movieNm": "드라큘라: 러브 테일",
     "openDt": "2026-08-26",
@@ -294,6 +246,18 @@
     "director": "한명구",
     "isReRelease": false,
     "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20265579",
+    "movieNm": "말하지 않은 것들",
+    "openDt": "2026-09-02",
+    "genreNm": "드라마",
+    "nationAlt": "이탈리아",
+    "director": "가브리엘레 무치노",
+    "isReRelease": false,
+    "overview": "카를로는 대학교수이고, 엘리사는 기자다. 그들은 안나와 파올로, 그리고 그들의 딸 비토리아와 함께 모로코의 탕헤르로 여행을 떠난다. 멀리 떨어진 따뜻하고 고요한 풍경 속에서, 관계는 긴장을 고조시키고, 본모습을 드러내며, 변화한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sK4MZKEzQk5ajgLKI8QnU129UdY.jpg",
     "status": "saved"
   },
   {
@@ -373,7 +337,7 @@
     "movieNm": "리틀 드래곤: 몬스터 섬의 비밀",
     "openDt": "2026-09-03",
     "genreNm": "애니메이션,가족",
-    "nationAlt": "노르웨이,벨기에,독일",
+    "nationAlt": "독일",
     "director": "Endre Skandfer",
     "isReRelease": false,
     "overview": "수영을 못 하는 바다 드래곤 루피는 할머니와 단둘이 살아가고 있다. 어느 날, 연기를 내뿜어 인간으로부터 바다 괴물 섬을 지키는 세르팡의 마법목도리가 망가지고, 루드비그는 감기에 걸려 연기를 내뿜지 못한다. 루피는 오래전 섬을 떠난 자신의 이모할머니가 루드비그에게 목도리를 선물했다는 사실을 알게 되고, 할머니와 바다 몬스터 섬을 지키기 위해 이모할머니를 찾아 떠난다, 고래택시를 타고 육지에 도착하고 육지에서 사자,꼬끼리,거북이 등을 만나 그들과 함께 동물원을 탈출하여 다시 몬스터 섬으로 돌아와 위기를 극복한다.",
@@ -389,6 +353,18 @@
     "director": "이정국",
     "isReRelease": false,
     "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20255100",
+    "movieNm": "97 혜자, 표류기",
+    "openDt": "2026-09-09",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "정기혁",
+    "isReRelease": false,
+    "overview": "서울에 취직하여 고군분투 중인 혜자는 반지하에서 오피스텔로 올라가기를 꿈꾼다. 보험사 콜센터에서 일하는 혜자는 거친 사투리와 불같은 성격 때문에 회사에서 어려움이 많다. 며칠 뒤, 오피스텔로 가기로 결심한 혜자는 엄마에게 돈을 빌리기 위해 부산행 기차를 탄다. 부산에 도착한 혜자는 아무리 문을 두드려도 엄마가 나오지 않자, 엄마의 친구 희숙에게 전화를 건다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j8vHULJmFuZPCQu4WhSxV4A5MGk.jpg",
     "status": "saved"
   },
   {
@@ -491,11 +467,12 @@
     "movieCd": "20265587",
     "movieNm": "디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!",
     "openDt": "2026-09-16",
-    "genreNm": "",
+    "genreNm": "애니메이션,모험,액션,판타지,가족",
     "nationAlt": "일본",
     "director": "호소다 마모루",
     "isReRelease": false,
-    "overview": "",
+    "overview": "디지몬 어드벤쳐, 그보다 좀 더 이전의 이야기. 야가미 타이치(신태일)와 그의 여동생인 히카리(신나리)가 어릴 적 코로몬과 운명적인 만남을 가졌던 때를 그리고 있다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/p0SmmqmDvgpTg75hc0wPxTdsAlS.jpg",
     "status": "saved"
   },
   {
