@@ -10,5 +10,17 @@
     "overview": "",
     "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
     "status": "held"
+  },
+  {
+    "movieCd": "20266051",
+    "movieNm": "바다 탐험대 옥토넛 어보브 앤 비욘드 : 두근두근 대자연 어드벤처",
+    "openDt": "2026-09-23",
+    "genreNm": "",
+    "nationAlt": "영국",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
+    "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
+    "status": "held"
   }
 ]
