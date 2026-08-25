@@ -12,6 +12,18 @@
     "status": "held"
   },
   {
+    "movieCd": "20265921",
+    "movieNm": "웃으면 복이 와요: 내 이름은 수한무",
+    "openDt": "2026-09-09",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
+    "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
+    "status": "held"
+  },
+  {
     "movieCd": "20266051",
     "movieNm": "바다 탐험대 옥토넛 어보브 앤 비욘드 : 두근두근 대자연 어드벤처",
     "openDt": "2026-09-23",
