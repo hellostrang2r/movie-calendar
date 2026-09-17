@@ -1,89 +1,5 @@
 [
   {
-    "movieCd": "20204561",
-    "movieNm": "착지연습",
-    "openDt": "2026-09-10",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "한국",
-    "director": "마민지",
-    "isReRelease": false,
-    "overview": "출판계와 문단계의 성폭력 사건을 공론화한 탁은, 미투 이후 무너진 일상 속에서 다시 살아가기 위해 고군분투한다. 눈을 뜨고, 밥을 먹고, 씻고, 집 밖을 나서는 일상은 반복되는 긴장과 자신과의 싸움으로 채워진다. 그런 탁이 발 딛고 선 곳은 생존자와 연대인들이 함께 만든 예술-회복 공동체 ‘상여자의 착지술’이다. 이들은 매주 안전한 공간에 모여 간식을 나누고, 돌아온 가해자에 대한 분노를 털어놓고 함께 울고 웃는다. 또한 다양한 성폭력 생존자와 연대인을 대상으로 예술 프로그램을 기획하고 운영하며 안전한 공유지를 확장해 나간다. 하지만 이 공동체 역시 완벽하지는 않다. 기대가 어긋나고, 상처가 드러나며, 관계는 균열을 겪기도 한다. 영화는 완벽하지 않은 관계 속에서 다시 말하고, 움직이고, 연결되려 애써 온 지난 5년의 시간을 따라간다. 탁과 ‘상여자의 착지술’ 사람들은 각자의 속도로 더딘 회복의 능선을 따라 각자의 착지를 연습한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/A6dQ9cWkz4LxqRaxvL8fScaUGfl.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20266153",
-    "movieNm": "아틀라스 킹",
-    "openDt": "2026-09-11",
-    "genreNm": "스릴러",
-    "nationAlt": "미국",
-    "director": "Nika Agiashvili",
-    "isReRelease": false,
-    "overview": "전직 격투기 파이터는 죽은 친구의 장례를 치르기 위해 고향으로 돌아온다. 그곳에서 그는 조카와 손잡고 거대 마피아 조직을 겨냥한 위험한 계획을 세운다. \"복수와 충성, 가족애가 교차하는 하드보일드 액션 드라마!\"",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4IPGbIM6BoiXLdjxv5sS2PrPTNu.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264879",
-    "movieNm": "청년 조용기: 신을 저주하던 청년, 시대를 긋는 종이 되다",
-    "openDt": "2026-09-11",
-    "genreNm": "다큐멘터리",
-    "nationAlt": "한국",
-    "director": "권혁만",
-    "isReRelease": false,
-    "overview": "1955년, 폐결핵으로 6개월 시한부 선고를 받은 열아홉 살 소년 조용기. 매일 밤 피를 토하며 세상과 신을 향한 저주를 일기장에 쏟아내던 그는, 죽음의 문턱에서 운명처럼 성경을 마주하며 삶의 놀라운 전환점을 맞이한다. 기적적으로 살아난 청년 조용기는 성전 대신 대조동 공동묘지 옆, 비바람에 흔들리는 24평의 낡은 천막 교회를 선택한다. 가난하고 소외된 이들의 벗이 되어 그들의 삶을 함께하며 복음을 전하지만, 차가운 세상의 시선 속에서 그의 개척은 매 순간 고난의 연속이다. 그럼에도 \"꿈꾸는 자에게는 끝이 없다\"라는 확신 하나로 걸음을 멈추지 않았던 한 청년. 그의 작은 시작은 마침내 전 세계를 향한 믿음의 여정으로 이어진다. 성공 신화 뒤에 가려져 있던 '인간 조용기'의 진짜 시작. 70년 만에 발굴된 일기장과 미공개 아카이브를 통해 한 청년이 절망을 딛고 시대의 목소리가 되기까지의 여정이 스크린 최초로 펼쳐진다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1mwNRH82JwIkT5bfIypNmshejDn.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20265587",
-    "movieNm": "디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!",
-    "openDt": "2026-09-16",
-    "genreNm": "애니메이션,모험,액션,판타지,가족",
-    "nationAlt": "일본",
-    "director": "호소다 마모루",
-    "isReRelease": false,
-    "overview": "디지몬 어드벤쳐, 그보다 좀 더 이전의 이야기. 야가미 타이치(신태일)와 그의 여동생인 히카리(신나리)가 어릴 적 코로몬과 운명적인 만남을 가졌던 때를 그리고 있다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/p0SmmqmDvgpTg75hc0wPxTdsAlS.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264831",
-    "movieNm": "와이프",
-    "openDt": "2026-09-16",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "이수성",
-    "isReRelease": false,
-    "overview": "Japanese movie about an erotic massage in the afternoon",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7Y82D7GUeTXXyQqjOfye8f6ZGBB.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20256308",
-    "movieNm": "인턴",
-    "openDt": "2026-09-16",
-    "genreNm": "드라마,코미디",
-    "nationAlt": "한국",
-    "director": "김도영",
-    "isReRelease": false,
-    "overview": "창업 3년 만에 100억대 매출을 달성하며 브랜드 WOO22를 패션 업계의 다크호스로 성장시킨 젊은 CEO 선우. 성공을 향해 쉼 없이 달려온 열정 과부하 상태의 그녀 앞에 막내로 입사한 실버 인턴 기호가 나타난다. 경력 37년 사회생활 만렙의 베테랑이지만, 낯선 디지털 업무 환경과 자유분방한 문화에 좀처럼 적응하지 못하던 기호. 그러나 특유의 성실함과 인간미 넘치는 소통이 선우의 마음을 움직이고 모든 점에서 전혀 다른 두 사람은 서로에게 없는 시선과 경험을 나누며 쉼 없이 달리던 일상에 뜻밖의 온기를 더하는데…",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kRHjgsICPISgEClloeARkPHP96M.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20258102",
-    "movieNm": "철들 무렵",
-    "openDt": "2026-09-16",
-    "genreNm": "드라마",
-    "nationAlt": "한국",
-    "director": "정승오",
-    "isReRelease": false,
-    "overview": "용접기사 철택이 암 말기 선고를 받는다. 이 소식은 단역배우인 외동딸 정미뿐만 아니라, 철택과 사실상 이혼한 상태로 공무원 은퇴 후 노후를 즐기던 현숙, 구순을 앞둔 현숙의 어머니 옥남, 철택의 친형 관택과 관택의 손자 동민의 삶까지 영향을 미치기 시작한다. 멀리 지내던 양가 가족들은 과거를 반추하며, 서로에게 곪아 있던 마음의 고름과 마주하게 되는데… 죽음의 그림자와 함께 찾아온 이들의 시간, ‘철들 무렵’이다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mr2h1O8oMcBUZe7y7mmY34H1n1U.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20263870",
     "movieNm": "레지던트 이블: 0번째 밤",
     "openDt": "2026-09-17",
@@ -111,11 +27,12 @@
     "movieCd": "20266793",
     "movieNm": "엔하이픈 브이알콘서트 : 데스티니",
     "openDt": "2026-09-18",
-    "genreNm": "",
+    "genreNm": "음악",
     "nationAlt": "한국",
     "director": "김지애",
     "isReRelease": false,
     "overview": "",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uO42vQHjDQ1CYSdCiNUY5iP7YqO.jpg",
     "status": "saved"
   },
   {
@@ -239,6 +156,29 @@
     "status": "saved"
   },
   {
+    "movieCd": "20166082",
+    "movieNm": "셀린느와 줄리 배 타러 가다 ",
+    "openDt": "2026-09-30",
+    "genreNm": "",
+    "nationAlt": "프랑스",
+    "director": "자크 리베트",
+    "isReRelease": false,
+    "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266281",
+    "movieNm": "스티치 헤드: 비밀의 성 꼬마괴물",
+    "openDt": "2026-09-30",
+    "genreNm": "애니메이션,모험,가족,코미디",
+    "nationAlt": "영국",
+    "director": "스티브 허드슨",
+    "isReRelease": false,
+    "overview": "작은 마을이 내려다보이는 높은 비밀의 성. 그곳의 실험실에서 살고 있는 광기 어린 천재 박사는 기상천외한 몬스터들에게 생명을 불어넣지만, 완성된 몬스터들은 곧 그의 기억 속에서 잊혀지기 일쑤. 그의 첫 번째 몬스터인 ‘스티치 헤드’는 박사가 계속해서 만들어내는 기괴하고 제멋대로인 몬스터들을 돌보고 성의 질서를 유지하는 관리자 역할을 하며 살아간다. 그러던 어느 날, 떠돌이 몬스터 서커스단을 이끄는 사기꾼 단장이 나타나 ‘스티치 헤드’와 몬스터들을 서커스 볼거리로 팔아 넘기려 하며 부와 명예, 그리고 어쩌면 사랑까지 주겠다는 달콤한 제안을 하게 되는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dTcAE69YKmEatDPCl1BmOpFHbUb.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20264847",
     "movieNm": "알파",
     "openDt": "2026-09-30",
@@ -251,6 +191,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20267229",
+    "movieNm": "언섀터",
+    "openDt": "2026-09-30",
+    "genreNm": "음악,다큐멘터리",
+    "nationAlt": "한국",
+    "director": "Joe Hahn",
+    "isReRelease": false,
+    "overview": "“The hardest part of ending is starting again.” 사랑하는 멤버를 떠나보낸 뒤 7년의 공백기를 보낸 LINKIN PARK의 남은 멤버들은 다시 앞으로 나아가기 위해 고군분투한다. 함께 쌓아온 시간과 변함없는 우정, 그리고 합류한 두 멤버의 신선한 에너지가 더해지며 밴드는 창작의 에너지를 되찾고, 예술적 재창조의 여정에 오른다. 영화는 2022년의 내밀한 스튜디오 세션의 기록부터 2024년 11월 15일, 상파울루에서 열린 앨범 발매와 콘서트의 폭발적인 순간까지의 여정을 따라간다. 희귀한 아카이브 영상, 전석 매진을 기록한 공연들의 압도적인 라이브 퍼포먼스, 그리고 멤버들과 팬들의 진솔한 인터뷰를 통해, 새로운 시작에 대한 가감 없는 이야기를 담아낸다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/l4YDO15cNt7wnWs9wX1vSzmW9bn.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20262961",
     "movieNm": "이방인",
     "openDt": "2026-09-30",
@@ -260,6 +212,42 @@
     "isReRelease": false,
     "overview": "청년 ‘뫼르소’는 어머니의 부고 소식을 듣고 장례를 치르지만 어딘가 무감하다. 집으로 돌아온 그는 해수욕장에서 옛 동료 ‘마리’를 우연히 만나 사랑을 나눈다. 이웃 ‘레몽’과 가깝게 지내던 ‘뫼르소’는 예상치 못한 비극에 휘말린다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/2NoWaSTgKF7FcJ0Lr5NrvDDINOv.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266817",
+    "movieNm": "카르텔 오션",
+    "openDt": "2026-09-30",
+    "genreNm": "스릴러,범죄",
+    "nationAlt": "미국",
+    "director": "제시 V. 존슨",
+    "isReRelease": false,
+    "overview": "친구 다섯 명이 상어 케이지 다이빙을 즐기기 위해 열대 휴양지로 떠난다. 하지만 이 여행은 그들이 모르게 ‘번스’가 주도하는 범죄 조직의 함정이었다. 혼란이 폭발한 순간, ‘타티아나’와 ‘케일리’는 산소도 얼마 남지 않은 채 상어 떼가 들끓는 바다에 고립된다. 시간이 빠르게 흘러가는 가운데, 두 사람은 물 아래의 치명적 포식자들과 물 위에서 다가오는 번스 일당의 위협에 동시에 맞서 살아남아야 한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20243684",
+    "movieNm": "포르테",
+    "openDt": "2026-09-30",
+    "genreNm": "스릴러,공포,미스터리",
+    "nationAlt": "한국",
+    "director": "김형민",
+    "isReRelease": false,
+    "overview": "사회 초년생 연지는 깊은 산속의 유명 음악 스튜디오 ‘포르테’에 입사하며 꿈에 한 걸음 다가선다. 하지만 카리스마 넘치는 디렉터 정화의 절대적인 통제 아래, 그녀는 점차 이름 없는 고스트라이터로 소모되어간다. 그러던 어느 날부터 스튜디오에서는 설명할 수 없는 기이한 일들이 벌어지고, 연지는 현실과 환각의 경계 속으로 빠져든다. 끝없이 내리는 장마와 고립된 작업실 속에서, 그녀는 억눌린 욕망과 분노, 그리고 ‘포르테’에 스며든 어둠의 실체와 마주하게 된다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4q33XeazR4lxJj7kRtl03OeqLHK.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20265509",
+    "movieNm": "가족은 아니고",
+    "openDt": "2026-10-01",
+    "genreNm": "드라마,코미디",
+    "nationAlt": "한국",
+    "director": "채재영",
+    "isReRelease": false,
+    "overview": "결혼 30년 차, 아빠의 바람으로 우리 가족은 하루아침에 뒤집어졌다. 아빠가 가진 아파트를 물려받으려면 무슨 일이 있더라도 이 가족을 지켜야 한다. 그런데 문제는 그 아파트에 임신한 아빠의 상간녀가 살고 있다?! 그녀는 나에게 아이의 아빠가 되어달라고 하는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ixBxZQRGej6KNybwfwcAWbABEJk.jpg",
     "status": "saved"
   },
   {
@@ -287,6 +275,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20266610",
+    "movieNm": "입에 대한 앙케트",
+    "openDt": "2026-10-07",
+    "genreNm": "공포",
+    "nationAlt": "일본",
+    "director": "시미즈 다카시",
+    "isReRelease": false,
+    "overview": "“그날 밤, 무슨 일이 있었는지 말씀드릴게요” 심령 명소로 유명한 묘지. 그곳에 저주받은 나무가 있다는 괴담에 이끌려 ‘쇼타’ 일행은 담력 시험에 나선다. 그리고 다음 날, 일행 중 한 명이 흔적도 없이 사라진다. 그날 이후, 남겨진 친구들의 주변에서 알 수 없는 일들이 하나둘씩 벌어지기 시작하는데… 사라진 한 명, 남겨진 5명의 증언. 증언이 쌓일수록 섬뜩한 진실이 드러난다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cms5ib3HTaOCH4qw6aDPTV6MiW0.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20265486",
     "movieNm": "퓨리어스",
     "openDt": "2026-10-07",
@@ -296,6 +296,18 @@
     "isReRelease": false,
     "overview": "말을 할 수 없는 평범한 아버지 왕웨이. 어느 날 그의 딸 레이니가 거대 범죄 조직에 납치되고, 부패한 경찰마저 외면하자 직접 딸을 찾아 나선다. 그는 실종된 아내를 찾는 기자인 나빈과 힘을 합쳐 거침없이 조직의 심장부로 돌진한다. 마침내 마주한 딸 레이니. 하지만 그곳에는 수많은 아이들이 갇혀 있었고, 참담한 광경에 그들은 분노한다. 왕웨이와 나빈 그리고 레이니는 범죄 조직을 향해 거침없이 몸을 던지며, 폭발적인 무술 액션의 사투를 벌인다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/x959xPUa6DebrSj2xNtF0NYSiCm.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20258982",
+    "movieNm": "홀리보이",
+    "openDt": "2026-10-07",
+    "genreNm": "공포,스릴러,드라마",
+    "nationAlt": "이탈리아",
+    "director": "파올로 스트리폴리",
+    "isReRelease": false,
+    "overview": "과거의 상처를 간직한 교사 세르지오는 레미스로 전근을 간다.  이탈리아에서 가장 행복한 마을로 알려진 그곳은 새 출발을 위한 장소로 완벽해 보이지만, 아무도 모르는 놀라운 비밀이 숨겨져 있는데... '레미스의 천사'라고 불리는 소년 마테오와 매주 마테오를 만나기 위해 모이는 사람들. 마테오의 비밀을 알게 될수록, 완벽하게 행복했던 마을의 진짜 모습이 드러나기 시작한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vxkPiWdut20cHrFW57nduhhMR2V.jpg",
     "status": "saved"
   },
   {
@@ -335,6 +347,54 @@
     "status": "saved"
   },
   {
+    "movieCd": "20267401",
+    "movieNm": "고잉홈프로젝트: 라벨 & 쇼스타코비치 인 시네마",
+    "openDt": "2026-10-17",
+    "genreNm": "다큐멘터리,음악",
+    "nationAlt": "한국",
+    "director": "성유진",
+    "isReRelease": false,
+    "overview": "세계 무대에서 활동 중인 젊은 연주자들이 의기투합한 ‘고잉홈프로젝트’. 쇼스타코비치 교향곡 7번과 라벨 “볼레로”를 지휘자 없이 연주하는 그들만의 유니크한 도전! 100인조의 대편성 오케스트라가 선사하는 압도적 사운드의 공연 실황",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tlCk1izTg4EsOR5AjVauq3OuTuT.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20265145",
+    "movieNm": "눈 둘 데가 없네",
+    "openDt": "2026-10-21",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "홍상수",
+    "isReRelease": false,
+    "overview": "부모가 어릴 적 이혼했고, 상희는 대부분의 시간을 조부모와 함께 살았다. 남자 동생과 함께 제주도에 정착한 어머니를 찾아간다. 마지막으로 어머니를 본 게 십 년은 되었다. 새아버지는 도큐멘터리를 만드는 사람이고, 요새는 “초분”에 관한 영화를 만들고 있다. 엄마가 하는 밥집은 대박이 났고, 거기서 큰 돈을 벌었다고 한다. 새아버지가 데리고 온 딸도 만나는데, 이제 막 그림을 시작한 참이다. 상희는 과자 수입회사에서 일하면서 남는 시간에 아주 짧은 영화들을 혼자서 만들고 있다. 이박 삼일을 이 사람들과 함께 시간을 보내는데, 전엔 몰랐던 사실들, 받아들이기 힘든 충고들, 값싼 칭찬들이 오고 간다. 돌아오는 날 아침, 상희가 만든 영화 중 하나를 다른 식구들이 그녀 몰래 보고 있다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iHhmuWaxDKuULzauyOzBXPT32fJ.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266423",
+    "movieNm": "레위기",
+    "openDt": "2026-10-21",
+    "genreNm": "공포,로맨스",
+    "nationAlt": "호주",
+    "director": "애드리언 치아렐라",
+    "isReRelease": false,
+    "overview": "두 십대 소년은 자신이 가장 욕망하는 사람의 모습으로 변하는 폭력적인 존재로부터 도망쳐야 한다. 그리고 그 존재는, 서로의 모습을 하고 있다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mrtO4O6tUdwWibPv0pKi13C1vC9.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20249903",
+    "movieNm": "매쉬빌",
+    "openDt": "2026-10-28",
+    "genreNm": "액션,서부,코미디",
+    "nationAlt": "한국",
+    "director": "황욱",
+    "isReRelease": false,
+    "overview": "12구의 시체를 모아 의식을 치루려는 사이비 종교 신도들로 인해 무법천지가 되어 버린 한 마을에 서로 다른 이해관계로 얽힌 9명의 사람, 그리고 1구의 시체가 모이며 벌어지는 오리엔탈 웨스턴 코미디 활극",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4K4GDcDCOk6JSmK3xCvSleGi3RP.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20266805",
     "movieNm": "브루넬로: 우아한 선구자",
     "openDt": "2026-10-28",
@@ -356,6 +416,18 @@
     "isReRelease": false,
     "overview": "〈부활 그 사랑〉은 죽음 앞에서 비로소 참된 생명을 발견하고, 마지막 순간까지 예수의 사랑을 살아낸 천정은의 삶을 따라가는 다큐멘터리 영화다. 피아니스트로 살아가던 천정은은 어느 날 유방암 4기, 치료 불가 판정을 받는다. 죽음은 그녀에게 모든 것의 끝이었고, 암은 자신의 삶을 무너뜨린 저주였다. 그러나 절망의 한 복판에서 그녀는 부활하신 예수님을 만난다. 예수의 부활이 역사적 사실이라면 하나님은 지금도 살아 계시며, 천국과 지옥도 실제이고, 죽음은 끝이 아니라 영원한 세계로 들어가는 문이라는 사실을 깨닫는다. 그날 이후 그녀의 고백은 완전히 달라진다. “암은 선물이고, 죽음은 소망입니다.” 암은 사라져야 할 저주가 아니라 예수님을 만나게 한 은혜의 통로가 되었고, 죽음은 두려움의 대상이 아니라 사랑하는 주님께 더 가까이 나아가는 길이 되었다. 요한복음 1장 12절은 “영접하는 자, 곧 그 이름을 믿는 자들”에게 하나님의 자녀가 되는 권세가 주어진다고 말씀한다. 예수님을 영접한다는 것은 단지 마음속으로 그분의 존재를 인정하는 것이 아니다. 그분의 이름을 믿고, 그분과 함께 살아가며, 그분이 보여 주신 사랑을 자신의 삶으로 실천하는 것이다. 천정은의 믿음은 말에 머물지 않았다. 기적적인 회복을 경험한 뒤에도 그녀는 자신에게 주어진 시간을 자신의 생존만을 위해 사용하지 않는다. 오히려 암 환자들을 찾아가 복음을 전하고, 죽음 앞에서 하나님을 원망하거나 오해하는 이들의 마음을 사랑으로 품어준다. 병든 이들과 함께 울고, 손을 잡고 기도하며, 자신이 만난 부활의 주님을 전한다. 재발과 극심한 고통, 계속되는 항암 치료와 뇌 전이, 더 이상 걷지 못하는 순간에도 그녀는 고백한다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1pPjxKIZwO7Z7gtICZK96UrmX4q.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266765",
+    "movieNm": "와일드 호스 나인",
+    "openDt": "2026-11-04",
+    "genreNm": "코미디,범죄,스릴러",
+    "nationAlt": "영국,미국",
+    "director": "마틴 맥도나",
+    "isReRelease": false,
+    "overview": "1973년 칠레 쿠데타를 앞두고 이스터섬으로 파견된 CIA 요원 ‘크리스’와 ‘리’가 임무를 수행하던 중 과거의 비밀과 정체불명의 음모에 휘말리게 되는 미스터리 첩보 스릴러",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iVWvR4BWhdirFIMQwS1yNp2Hcft.jpg",
     "status": "saved"
   },
   {
