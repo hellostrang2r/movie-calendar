@@ -3707,6 +3707,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20266154",
+    "movieNm": "레클리스",
+    "openDt": "2026-10-07",
+    "genreNm": "액션,코미디,범죄,스릴러",
+    "nationAlt": "미국",
+    "director": "Elliott Montello",
+    "isReRelease": false,
+    "overview": "가석방으로 세상에 돌아온 전직 수감자 데본. 과거 은행 강도 사건에서 동료들에게 배신당해 모든 죄를 뒤집어쓰고 5년을 복역한 그는자신이 받지 못한 몫을 되찾기 위해 다시 거리로 나선다. 하지만 돈을 쫓는 순간, 경찰과 과거의 동료들 그리고 더 위험한 범죄 조직까지 그를 노리기 시작하고, 우연히 얽힌 회계사 킴버와 함께 도망치게 된 데본은 점점 더 꼬여가는 상황 속에서자신을 함정에 빠뜨린 진짜 배후와 마주하게 된다. 배신, 추격, 그리고 예측 불가능한 변수들 속에서 그의 계획은 점점 더 위험한 방향으로 흘러가는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t3WAPHuy7y2jtsOLY8HoLSeWmlJ.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20266610",
     "movieNm": "입에 대한 앙케트",
     "openDt": "2026-10-07",
@@ -3755,6 +3767,54 @@
     "status": "saved"
   },
   {
+    "movieCd": "20267400",
+    "movieNm": "사이버 카르텔",
+    "openDt": "2026-10-08",
+    "genreNm": "SF,액션,스릴러",
+    "nationAlt": "미국",
+    "director": "Michael Ryan",
+    "isReRelease": false,
+    "overview": "거대 기업들이 세상을 지배하는 차가운 디스토피아 미래. 용병 ‘크릴렌저’는 막대한 가치를 지닌 외계 유물 ‘더 스피어’를 훔치기 위한 작전에 나서지만, 내부자의 배신으로 계획은 실패하고 만다. 한편, ‘더 스피어’를 차지하려는 세력들의 움직임이 시작되고, 금융 분석가 ‘이선’은 기업 간의 치열한 경쟁 속에서 금융 사기와 기술 스파이의 표적이 된다. 자신을 노리는 세력을 피해 크릴렌저와 손을 잡은 이선. 하지만 무자비한 군사 계약자 ‘말릭’의 추격이 시작되면서, 두 사람은 거대한 음모의 한가운데서 살아남기 위한 사투를 벌인다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5la2zd33GEE6S2Om6BknO7LEOKe.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264444",
+    "movieNm": " 웨일폴: 고래에 먹힌 남자",
+    "openDt": "2026-10-14",
+    "genreNm": "스릴러",
+    "nationAlt": "미국",
+    "director": "브라이언 더필드",
+    "isReRelease": false,
+    "overview": "사라진 아버지의 유해를 찾기 위해 바다로 뛰어든 다이버 ‘제이’. 하지만 심해에서 거센 물살에 휩쓸려 무게 60톤, 길이 24m에 다르는 거대한 향유고래에게 산 채로 먹히고 만다. 공기 탱크의 잔압계는 점점 빠르게 줄어들고, 빠져나갈 곳도, 멈출 수도 없는 살아있는 고래 뱃속에서 살아남기 위한 필사의 사투를 벌이는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xGBfktTdfIYxODqKFDDNYgNPIqm.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20263410",
+    "movieNm": "스트리트 파이터",
+    "openDt": "2026-10-14",
+    "genreNm": "액션,판타지",
+    "nationAlt": "미국",
+    "director": "키타오 사쿠라이",
+    "isReRelease": false,
+    "overview": "1993년, 춘리의 제안으로 다시 격투장에서 맞붙게 된 숙명의 라이벌 류와 켄 마스터즈가 목숨을 건 배틀 로얄 속에 숨겨진 거대한 음모의 실체를 마주하게 되는 오락 액션 영화",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3EgtiR2ewNQxjJ1qizhDe4IrpPk.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266424",
+    "movieNm": "인-아이 인 모션",
+    "openDt": "2026-10-14",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "프랑스",
+    "director": "줄리엣 비노쉬",
+    "isReRelease": false,
+    "overview": "공연 제작 기한 6개월, 배우 줄리엣 비노쉬와 무용수 겸 안무가 아크람 칸은 두 사람이 주인공인 공연을 함께 기획한다. 무용수가 아니지만 춤을 추게 된 배우. 배우로서 자기 자신을 드러내게 된 무용수.아무것도 정해지지 않고 서로에 대한 정보도 없는 상태에서 자신의 한계와 내면의 벽을 마주하고 서로의 가장 내밀한 곳까지 들여다보며 두 사람은 서서히 움직임에 생명을 불어넣기 시작한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nMxwBTZuI54DZpd9trIajZmknVC.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20266263",
     "movieNm": "전자오락수호대",
     "openDt": "2026-10-14",
@@ -3779,6 +3839,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20266898",
+    "movieNm": "파리스 그린이 밝는 날에",
+    "openDt": "2026-10-14",
+    "genreNm": "애니메이션,드라마",
+    "nationAlt": "일본,프랑스",
+    "director": "시노미야 요시토시",
+    "isReRelease": false,
+    "overview": "오랜 전통의 불꽃공장 '타테와키 불꽃점'은 마을 재개발로 인해 철거 위기에 놓여 있다. 그곳에서 자란 케이타로는 아버지를 대신해 환상의 불꽃 '슈하리'를 완성시키려 홀로 분투하고 있었다. 여름의 마지막 날, 도쿄에서 지내던 소꿉친구 카오루가 고향으로 돌아온다. 잃어버린 시간과 유대를 되찾으려는 듯 서로 부딪히면서, 불꽃의 완성과 발사를 둘러싼 놀라운 계획을 세우는데… 환상의 불꽃에 담긴 희망, 그리고 그 열쇠를 쥔 '카로쿠쇼'. 불티가 밤을 밝히고, 새로운 아침을 맞이할 때 케이타로와 친구들이 각자 손에 쥐게 될 미래는 무엇일까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2qarnbiETjCO65kAhW3SRb6ZnE0.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20244860",
     "movieNm": "퍼플 스왈로우",
     "openDt": "2026-10-14",
@@ -3788,6 +3860,30 @@
     "isReRelease": false,
     "overview": "겨울 한가운데, 소설을 함께 쓰던 동료의 등단 소식을 듣고 씁쓸히 돌아온 여자. 그녀는 집에 있던 남편이 무심히 던진 말을 듣는다. 보일러실에서 제비를 봤다고. 여자는 믿지 않는다. 하지만 그날 밤, 창밖 어딘가에서 낯설고도 신비로운 자줏빛 지저귐이 들려오고 여자는 홀린 듯 천천히 발걸음을 옮기기 시작하는데…",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1FXhzu0BMOUwhfvg9wiKP1QrnGk.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20176664",
+    "movieNm": "헤븐 노우즈 왓",
+    "openDt": "2026-10-14",
+    "genreNm": "드라마,범죄",
+    "nationAlt": "미국",
+    "director": "조쉬 사프디",
+    "isReRelease": false,
+    "overview": "거리를 떠도는 홈리스 할리에게는 헤로인만큼 끊기 어려운 사랑이 있다. 아리엘 홈즈의 실제 삶을 바탕으로, 뉴욕에서의 미친 사랑을 그린다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wkjBgR2GFEiYmzkXwF394Z2vMvu.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20267433",
+    "movieNm": "쉘위런",
+    "openDt": "2026-10-16",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "Kim Tae-hwan,Jang Jae-ha",
+    "isReRelease": false,
+    "overview": "힙합 가수 션의 세계 7대 마라톤 도전을 중심으로 완주하는 과정 속에서 \"우리는 왜 달리는가?\"라는 질문에서 출발한 러너들의 내면과 단순한 마라톤 완주기가 아닌 자신과의 싸움, 공동체와의 연결, 삶의 리듬을 되찾는 여정을 담은 다큐멘터리.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/anTnMFa8MhJ7ZchGCOLYs4kw8b6.jpg",
     "status": "saved"
   },
   {
@@ -3838,6 +3934,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20265383",
+    "movieNm": "스틸레이",
+    "openDt": "2026-10-21",
+    "genreNm": "액션,SF,애니메이션",
+    "nationAlt": "한국",
+    "director": "설우인",
+    "isReRelease": false,
+    "overview": "AI로봇 기업 '애턴(AETERN)'의 메인 서버에 어느 날 '자율예측시스템'이 발동한다. 스스로 판단을 내릴 수 있게 된 AI는 인간을 미래에 대한 위협으로 간주하고 제거를 결정한다. 자신을 개발한 '윤박사'와 연구원들을 휴머노이드 AIRA-3를 이용해 납치, 감금하는 AI. 이어서 '코드 제로' 바이러스를 탈취해 인류 종말 계획을 실행한다. 납치된 아빠를 찾아나선 '윤강'은 윤박사의 비밀 연구실에서 의문에 쌓인 전투 로봇(스틸레이)을 발견한다. '스틸레이'에 탑승한 윤강은 특수 조직 'SHADOW'를 도와 인질을 구하고 바이러스를 막기 위한 작전에 뛰어든다. 하지만 애턴의 AI 역시 인간의 반격에 맞서 AIRA-3를 전투형으로 업그레이드 하고 또 하나의 비밀 병기를 개발하는데... 과연 윤강은 아빠를 찾고 인류를 바이러스로 부터 구할 수 있을 것인가?!!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bFvw9KBSpyROH7pj1L2Kn7BDlIh.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20250053",
     "movieNm": "실낙원",
     "openDt": "2026-10-21",
@@ -3847,6 +3955,18 @@
     "isReRelease": false,
     "overview": "9년 전 캠핑스쿨 버스 실종 사건으로 아들을 잃은 류소영은 '낙원의 아이들'이라는 AI 프로그램을 통해 어린 시절의 아들과 만나며 하루하루를 버텨낸다. 그러던 어느 날 죽은 줄로만 알았던 아들 류선우가 9년 만에 집으로 돌아온다. 기적 같은 생존 소식에 세상은 들썩이지만 흉터로 가득한 몸과 서늘한 눈빛, 무엇보다 자신이 기억하는 순수했던 아들의 흔적을 어디에서도 찾을 수 없는 낯선 모습에 소영은 불안감을 느낀다. 소영과 선우, 그리고 AI로 생성된 어린 시절의 선우까지 기묘하고 불편한 동거가 시작되고 소영은 점점 드러나는 아들의 실체에 충격을 받는데...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/5KlDjIPhH6QBAxiQ2y3THmUksCj.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266189",
+    "movieNm": "여전히 찬란하게",
+    "openDt": "2026-10-21",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "송일곤",
+    "isReRelease": false,
+    "overview": "내 생애 가장 찬란한 순간을 함께한 단짝 친구를 60년 만에 다시 만난 순옥의 이야기",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aqQNIHJaE3sIWWWvQPSZDLMvnj5.jpg",
     "status": "saved"
   },
   {
@@ -3862,6 +3982,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20246036",
+    "movieNm": "킬링타임",
+    "openDt": "2026-10-21",
+    "genreNm": "공포,스릴러",
+    "nationAlt": "한국",
+    "director": "장준엽",
+    "isReRelease": false,
+    "overview": "인터넷 방송 중 발생한 사망 사고로 나락에 떨어진 몰카 크루 ‘킬링타임’. 방송을 그만두고 자숙하던 ‘킬링타임’의 스트리머 ‘연우’는 ‘주원’의 제안으로 새로운 콘텐츠 촬영을 위해 폐병원을 찾는다. 하지만 촬영이 시작되자 정체불명의 존재가 크루들을 위협하고 더는 물러설 곳이 없던 크루들은 이제 반대로 생존을 위해 달려야 한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ijKaBymwMVvFDpxZy2hip6aQS0j.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20265965",
     "movieNm": "7데이즈 7피플",
     "openDt": "2026-10-28",
@@ -3871,6 +4003,18 @@
     "isReRelease": false,
     "overview": "영원할 것만 같던 7년 연애의 끝이 보이는 순간 “일주일만 시간을 줄래? 딱 일주일.” 이별 유예 기간은 단 7일. 인디뮤지션 ‘진화’는 7명의 지인을 만나며 고민을 털어놓는다. 음악과 사랑, 과연 무엇을 놓아야 할까? 꿈과 현실 앞에 선 ‘진화’는 일생일대의 결정을 하게 되는데... 인생의 중요한 선택을 앞두고 딱 7일이 주어진다면 우린 누구를 만나, 어떤 선택을 하게 될까?",
     "posterUrl": "https://image.tmdb.org/t/p/w500/87jSNlIblQWhBga2yzwwFKT8C2u.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266764",
+    "movieNm": "그대, 별처럼",
+    "openDt": "2026-10-28",
+    "genreNm": "드라마,로맨스",
+    "nationAlt": "일본",
+    "director": "후지이 미치히토",
+    "isReRelease": false,
+    "overview": "아름다운 바다와 하늘이 펼쳐진 세토 내해의 어느 섬. 섬으로 전학 온 카이와, 이 섬에서 자란 아키미. 두 사람은 모두 축복받지 못한 가정환경 속에서 마음의 응어리를 안고 살아왔고, 서로에게 유일한 버팀목이 되어 사랑에 빠진다. 꿈을 이루기 위해 도쿄로 향하는 카이와, 가족을 위해 섬에 남아 일하는 아키미. 그런 두 사람에게 무정하게도 수많은 ‘갈림길’이 들이닥친다. “나는 사랑하는 사람을 위해 내 인생을 망치고 싶어.” 15년에 걸친 길고 긴 사랑의 끝에, 두 사람이 내린 선택은 무엇일까.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/phTrle2mrBqjhsFMYrK9Uacu6cd.jpg",
     "status": "saved"
   },
   {
@@ -3898,6 +4042,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20231795",
+    "movieNm": "수능, 출제의 비밀",
+    "openDt": "2026-10-28",
+    "genreNm": "코미디",
+    "nationAlt": "한국",
+    "director": "이용재",
+    "isReRelease": false,
+    "overview": "수능 D-DAY, 정답은 이미 정해져 있다? 그 정답을 만드는 사람들이 지금 이 방에 모였습니다. 대한민국 최고의 수능 출제 전문가 전원. 외부 차단 40일, 중도 이탈 불가. 오탈자도 시비도 없는 전국의 모든 지원자들에게 ‘공정한’ 문제 출제. 적중률 100%, 본인들이 직접 출제하니까. 40일간의 미션, “문제없는 문제”를 만들어라!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ohrJjtvKciICoeH80z973JnBoHo.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20256583",
     "movieNm": "에디 앨리스: 테이크",
     "openDt": "2026-10-28",
@@ -3907,6 +4063,30 @@
     "isReRelease": false,
     "overview": "성전환 이후 겨우 원하는 삶을 택하게 된 앨리스, 트랜지션은 여전히 이어진다고 말하는 에디. 순간의 변화가 아닌, 스스로를 끊임없이 마주하는 과정. 둘의 삶과 감각은 영화 속 영화의 구조 안에서 서로를 비추고 겹쳐진다. 트랜지션은 끝나지 않는다. 트랜지션은 시네마다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/aJVwpkUCwoc9Iph7E7racj62HPy.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266848",
+    "movieNm": "장님 버드나무와 잠자는 여자",
+    "openDt": "2026-10-28",
+    "genreNm": "애니메이션,드라마,SF",
+    "nationAlt": "프랑스",
+    "director": "피에르 폴데스",
+    "isReRelease": false,
+    "overview": "“당신과 사는 건 공기와 사는 것 같아. 당신이 잘못한 건 없어” 2011년 동일본 대지진 이후의 도쿄. 아내 교코가 갑자기 남편 고무라를 떠난다. 고양이 와타나베마저 사라져 일상이 무너진 고무라는 동료의 부탁으로 정체를 알 수 없는 작은 상자를 그의 여동생에게 전달하기 위해 홋카이도 쿠시로로 향한다. “도쿄를 멸망에서 구하기 위해 왔어요” 한편, 평범한 회계사 가타기리 앞에는 거대한 개구리가 나타나 도쿄를 위협하는 또 다른 지진을 막아야 한다며 도움을 요청한다. 갑작스러운 상실과 불안을 마주하게 된 어느 일상에 찾아온 예상치 못한 사건. 멈춰버린 일상을 살아가던 가장 보통의 그들이 다시 자신의 삶을 향해 나아간다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5kS3dkduIGLqRCg0rIY6cgESZOn.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264498",
+    "movieNm": "하트 오브 비스트",
+    "openDt": "2026-10-28",
+    "genreNm": "모험,스릴러",
+    "nationAlt": "미국",
+    "director": "데이비드 에이어",
+    "isReRelease": false,
+    "overview": "비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채 처절한 사투를 벌이는 어드벤처 생존 드라마",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zC4E522V1n3H4SGdYOaiqhF5DnS.jpg",
     "status": "saved"
   },
   {
@@ -3934,6 +4114,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20265833",
+    "movieNm": "변이",
+    "openDt": "2026-11-04",
+    "genreNm": "SF,공포",
+    "nationAlt": "프랑스",
+    "director": "마리옹 르 코롤레르",
+    "isReRelease": false,
+    "overview": "한 햄버거 가게에서 진상의 요구를 견디다 못해 폭발한 우수 직원. 그 이후부터 극심한 스트레스에 지친 근로 청년들의 몸에서 이상 증세가 발생한다. 한편, 응급실 인턴 ‘마고’ 역시 과로로 번아웃을 겪고 자신의 몸에서 피가 터져 나오는 기이한 변화를 마주하는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/f52mjDYWRuLuaRwhE4R2kdkOlQb.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20266765",
     "movieNm": "와일드 호스 나인",
     "openDt": "2026-11-04",
@@ -3955,6 +4147,41 @@
     "isReRelease": false,
     "overview": "두 아이와 함께 도심의 고급 아파트로 이사 온 싱글맘, 이사벨. 저렴한 월세에 행운이라 믿었던 새집에서의 첫날밤, 발밑에서 정체 모를 기괴한 진동과 소음이 들려오기 시작한다. 아래층에서 매일 밤 들려오는 비명과 수상쩍은 이웃들. 벽 너머의 기이한 속삭임이 깊어질수록 아이들은 뭔가에 사로잡히고 그녀는 패닉에 빠진다. 꿈에 그리던 안락한 보금자리가 마침내 악몽의 공간으로 변하기 시작한다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/fQTACeQLpFoMUqYitxY0DMzfQu9.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20267589",
+    "movieNm": "거짓말: 4K 무삭제 완전판",
+    "openDt": "2026-11-11",
+    "genreNm": "",
+    "nationAlt": "한국",
+    "director": "장선우",
+    "isReRelease": false,
+    "overview": "",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20001391",
+    "movieNm": "극장판 카드캡터 체리 : 봉인된 카드",
+    "openDt": "2026-11-11",
+    "genreNm": "애니메이션,모험,판타지,로맨스",
+    "nationAlt": "일본",
+    "director": "아사카 모리오",
+    "isReRelease": false,
+    "overview": "패랭이꽃 축제에서 연극의 주연을 맡게 된 사쿠라는 방학을 맞아 일본에 온 샤오랑, 메이린과 함께 축제 준비에 한창이다. 그러나 마을에서 이상한 일들이 벌어짐과 동시에 사쿠라 카드가 한장씩 없어지는 사건이 발생한다. 에리올은 봉인된 카드를 사쿠라 카드로 바꾸면 된다고 전해주지만, 봉인된 카드는 연극 직전 소학교를 습격하여 사쿠라 카드를 대량 빼앗아간다. 사쿠라가 슬립 카드로 맞서는 것도 허사로 돌아가고, 봉인된 카드는 다시 모습을 감추는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ezYcCER756g37B4Y7kZKfr2flgc.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266362",
+    "movieNm": "심야근무",
+    "openDt": "2026-11-19",
+    "genreNm": "공포",
+    "nationAlt": "멕시코",
+    "director": "올랄로 루비오",
+    "isReRelease": false,
+    "overview": "야간 근무로 피로에 찌든 보안 요원 브렌다는 끔찍한 뺑소니 사고를 내고 시신을 유기한다. 두려움을 숨긴 채 새로운 근무지인 시립 영안실로 향하지만, 외부와 완전히 차단된 그곳은 스산한 적막과 백색 소음만이 감도는 고립된 공간이다. 브렌다는 밀려오는 죄책감을 억누르며 심야 근무를 시작하지만, 시간이 흐를수록 폐쇄된 영안실의 침묵은 숨통을 조여온다. 냉동 보관함 너머의 기이한 소음과 CCTV 화면을 잠식한 정체불명의 실루엣, 정체불명의 그림자와 그녀가 두고 온 죽음의 흔적들은 그녀를 점차 압박해 온다. 현실과 무의식의 경계가 무너진 고립된 시체 보관소에서 브렌다는 늘 자신을 괴롭혔던 트라우마에 시달리며 극심한 패닉에 빠져 드는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5R27LbwZg3XGhPPFBxGJ5shr6k8.jpg",
     "status": "saved"
   }
 ]
