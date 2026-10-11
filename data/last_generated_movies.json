@@ -1,89 +1,5 @@
 [
   {
-    "movieCd": "20262729",
-    "movieNm": "다이노 패밀리: 사고뭉치 공룡 탐험대",
-    "openDt": "2026-10-07",
-    "genreNm": "애니메이션,모험,가족",
-    "nationAlt": "러시아",
-    "director": "Maxim Volkov",
-    "isReRelease": false,
-    "overview": "공룡을 싫어하던 고생물학 박물관의 외아들 필립은 가문의 신비스러운 보물 '이카 스톤'의 사고로 아빠 디노사우루스 박사, 친구 리나네 가족과 함께 1억 년 전 진짜 공룡 시대로 빨려 들어간다. 낯선 시대에 흩어진 두 가족은 수다쟁이 채식주의자 '비건', 순둥이 '브롱키', 엄청난 먹보 '보스' 등 제각각의 매력을 가진 공룡들을 만나며 서로를 찾아 나선다. 하지만 공룡 세계의 거대한 악당 '티타노보아'가 이들의 앞길을 막아서는데... 과연 두 가족은 위험천만한 공룡 세계를 헤쳐 나가 무사히 집으로 돌아갈 수 있을까?",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/s7A0L2idOB2uORLblMLDQkAVuPN.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20266154",
-    "movieNm": "레클리스",
-    "openDt": "2026-10-07",
-    "genreNm": "액션,코미디,범죄,스릴러",
-    "nationAlt": "미국",
-    "director": "Elliott Montello",
-    "isReRelease": false,
-    "overview": "가석방으로 세상에 돌아온 전직 수감자 데본. 과거 은행 강도 사건에서 동료들에게 배신당해 모든 죄를 뒤집어쓰고 5년을 복역한 그는자신이 받지 못한 몫을 되찾기 위해 다시 거리로 나선다. 하지만 돈을 쫓는 순간, 경찰과 과거의 동료들 그리고 더 위험한 범죄 조직까지 그를 노리기 시작하고, 우연히 얽힌 회계사 킴버와 함께 도망치게 된 데본은 점점 더 꼬여가는 상황 속에서자신을 함정에 빠뜨린 진짜 배후와 마주하게 된다. 배신, 추격, 그리고 예측 불가능한 변수들 속에서 그의 계획은 점점 더 위험한 방향으로 흘러가는데...",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/t3WAPHuy7y2jtsOLY8HoLSeWmlJ.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20266610",
-    "movieNm": "입에 대한 앙케트",
-    "openDt": "2026-10-07",
-    "genreNm": "공포",
-    "nationAlt": "일본",
-    "director": "시미즈 다카시",
-    "isReRelease": false,
-    "overview": "“그날 밤, 무슨 일이 있었는지 말씀드릴게요” 심령 명소로 유명한 묘지. 그곳에 저주받은 나무가 있다는 괴담에 이끌려 ‘쇼타’ 일행은 담력 시험에 나선다. 그리고 다음 날, 일행 중 한 명이 흔적도 없이 사라진다. 그날 이후, 남겨진 친구들의 주변에서 알 수 없는 일들이 하나둘씩 벌어지기 시작하는데… 사라진 한 명, 남겨진 5명의 증언. 증언이 쌓일수록 섬뜩한 진실이 드러난다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cms5ib3HTaOCH4qw6aDPTV6MiW0.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20265486",
-    "movieNm": "퓨리어스",
-    "openDt": "2026-10-07",
-    "genreNm": "액션,범죄,스릴러",
-    "nationAlt": "홍콩",
-    "director": "타니가키 켄지",
-    "isReRelease": false,
-    "overview": "말을 할 수 없는 평범한 아버지 왕웨이. 어느 날 그의 딸 레이니가 거대 범죄 조직에 납치되고, 부패한 경찰마저 외면하자 직접 딸을 찾아 나선다. 그는 실종된 아내를 찾는 기자인 나빈과 힘을 합쳐 거침없이 조직의 심장부로 돌진한다. 마침내 마주한 딸 레이니. 하지만 그곳에는 수많은 아이들이 갇혀 있었고, 참담한 광경에 그들은 분노한다. 왕웨이와 나빈 그리고 레이니는 범죄 조직을 향해 거침없이 몸을 던지며, 폭발적인 무술 액션의 사투를 벌인다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/x959xPUa6DebrSj2xNtF0NYSiCm.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20258982",
-    "movieNm": "홀리보이",
-    "openDt": "2026-10-07",
-    "genreNm": "공포,스릴러,드라마",
-    "nationAlt": "이탈리아",
-    "director": "파올로 스트리폴리",
-    "isReRelease": false,
-    "overview": "과거의 상처를 간직한 교사 세르지오는 레미스로 전근을 간다.  이탈리아에서 가장 행복한 마을로 알려진 그곳은 새 출발을 위한 장소로 완벽해 보이지만, 아무도 모르는 놀라운 비밀이 숨겨져 있는데... '레미스의 천사'라고 불리는 소년 마테오와 매주 마테오를 만나기 위해 모이는 사람들. 마테오의 비밀을 알게 될수록, 완벽하게 행복했던 마을의 진짜 모습이 드러나기 시작한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vxkPiWdut20cHrFW57nduhhMR2V.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20265062",
-    "movieNm": "룩백",
-    "openDt": "2026-10-08",
-    "genreNm": "드라마",
-    "nationAlt": "일본",
-    "director": "고레에다 히로카즈",
-    "isReRelease": false,
-    "overview": "학교 신문에서 네컷 만화를 그리는 자신만만한 소녀 ‘후지노’와 그를 동경하지만 세상 밖이 두려워 방 안에 틀어박힌 외톨이 ‘쿄모토’. “너는 왜 만화를 그리는 거야?” 만화가 세상의 전부였던 그 시절, 두 소녀의 사계절이 눈부신 색깔로 채워지기 시작한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mAfcD0lspaNlZDRrzT0fdWS5C01.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20267400",
-    "movieNm": "사이버 카르텔",
-    "openDt": "2026-10-08",
-    "genreNm": "SF,액션,스릴러",
-    "nationAlt": "미국",
-    "director": "Michael Ryan",
-    "isReRelease": false,
-    "overview": "거대 기업들이 세상을 지배하는 차가운 디스토피아 미래. 용병 ‘크릴렌저’는 막대한 가치를 지닌 외계 유물 ‘더 스피어’를 훔치기 위한 작전에 나서지만, 내부자의 배신으로 계획은 실패하고 만다. 한편, ‘더 스피어’를 차지하려는 세력들의 움직임이 시작되고, 금융 분석가 ‘이선’은 기업 간의 치열한 경쟁 속에서 금융 사기와 기술 스파이의 표적이 된다. 자신을 노리는 세력을 피해 크릴렌저와 손을 잡은 이선. 하지만 무자비한 군사 계약자 ‘말릭’의 추격이 시작되면서, 두 사람은 거대한 음모의 한가운데서 살아남기 위한 사투를 벌인다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5la2zd33GEE6S2Om6BknO7LEOKe.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20264444",
     "movieNm": " 웨일폴: 고래에 먹힌 남자",
     "openDt": "2026-10-14",
@@ -180,6 +96,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20267591",
+    "movieNm": "스톰 라이더",
+    "openDt": "2026-10-15",
+    "genreNm": "모험,SF,액션",
+    "nationAlt": "미국",
+    "director": "Zoran Lisinac,Domagoj Mazuran",
+    "isReRelease": false,
+    "overview": "대홍수 이후 300년. 거대한 폭풍이 세상을 집어삼킨 미래, 사람들은 유일한 피난처인 요새 도시 ‘아르고스’에서 살아간다. 아르고스에 들어가기 위해서는 목숨을 건 극한의 레이스 ‘스톰 라이딩’을 통과해야 한다. 폭풍 속에서 아버지를 잃은 ‘애나’는 복수를 위해 레이스에 뛰어든다. 한편 ‘네브’는 전설 속 존재 ‘해머헤드’의 진실을 찾아 나선다. 두 사람은 세상을 통제하는 권력이 감춰온 비밀과 마주하게 된다. 그리고 폭풍에 갇힌 세상의 진실을 밝히기 위해 거대한 폭풍 속으로 뛰어든다. 모두가 믿었던 세계를 뒤집을, 마지막 질주가 시작된다!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/m9H2kNY89reVchfOCjJCd8pFxnX.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20267433",
     "movieNm": "쉘위런",
     "openDt": "2026-10-16",
@@ -237,6 +165,18 @@
     "isReRelease": false,
     "overview": "두 십대 소년은 자신이 가장 욕망하는 사람의 모습으로 변하는 폭력적인 존재로부터 도망쳐야 한다. 그리고 그 존재는, 서로의 모습을 하고 있다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/mrtO4O6tUdwWibPv0pKi13C1vC9.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266663",
+    "movieNm": "보이는 여고생",
+    "openDt": "2026-10-21",
+    "genreNm": "공포,코미디",
+    "nationAlt": "일본",
+    "director": "나카무라 요시히로",
+    "isReRelease": false,
+    "overview": "어느 날 갑자기 귀신이 보이기 시작한 평범한 여고생 ‘미코’. 무시무시한 귀신들이 눈앞에 나타나도 ‘미코’가 할 수 있는 건 단 하나, 죽을 힘을 다해 ‘못 본 척’하는 것! 절친 ‘하나’에게 귀신이 붙어도 ‘미코’는 끝까지 모르는 척 학교 생활을 이어간다. 하지만 임시 담임 ‘토노 선생님’이 부임한 후 ‘하나’에게 이상한 변화가 나타나기 시작하고, 결국 ‘하나’가 쓰러지면서 상황은 걷잡을 수 없이 변하는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xz62wr1Ie6v4Lxt86bTfGRnjroN.jpg",
     "status": "saved"
   },
   {
@@ -299,6 +239,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20267571",
+    "movieNm": "클레이페이스",
+    "openDt": "2026-10-21",
+    "genreNm": "공포,스릴러,SF",
+    "nationAlt": "미국",
+    "director": "제임스 왓킨스",
+    "isReRelease": false,
+    "overview": "할리우드의 주연 배우로 유명 영화제 수상을 눈 앞에 두며 꿈을 이루기 직전인 ‘맷 헤이건’. 그러나 한 순간의 실수로 범죄 조직의 타겟이 되어 얼굴이 처참하게 훼손되며 그의 빛나던 인생은 하루 아침에 비극으로 뒤바뀐다. 커리어도, 사람들도 모두 잃은 ‘맷’은 과학자 ‘닥터 케이틀린’의 미완성 최첨단 나노 기술에 마지막 희망을 걸고 기적적으로 예전의 얼굴을 되찾는 데 성공하지만 기쁨도 잠시 그의 몸에는 인간의 형체마저 무너뜨리는 끔찍한 변화가 시작된다. 또한 자신을 공격한 범죄 조직에 연루된 자들의 정체를 알게 되자 걷잡을 수 없는 분노에 사로잡힌 ‘맷’은 자신의 모든 것을 빼앗아간 이들을 향한 처절한 복수에 나서는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/LSGpoSAlitss0KOvVakkeUToZo.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20246036",
     "movieNm": "킬링타임",
     "openDt": "2026-10-21",
@@ -344,6 +296,18 @@
     "isReRelease": false,
     "overview": "12구의 시체를 모아 의식을 치루려는 사이비 종교 신도들로 인해 무법천지가 되어 버린 한 마을에 서로 다른 이해관계로 얽힌 9명의 사람, 그리고 1구의 시체가 모이며 벌어지는 오리엔탈 웨스턴 코미디 활극",
     "posterUrl": "https://image.tmdb.org/t/p/w500/4K4GDcDCOk6JSmK3xCvSleGi3RP.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20246087",
+    "movieNm": "메릴 스트립 프로젝트",
+    "openDt": "2026-10-28",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "Park Hyo-sun",
+    "isReRelease": false,
+    "overview": "할리우드 대배우를 향해 쏘아 올린 작은 동경, 스크린을 뒤집는 파도가 되다. “받은 용기를 돌려주고 싶다”며 시작한 온라인 계정이 수많은 이들의 심장에 불을 지폈습니다. 무작정 카메라를 들고 뛰어든 무모한 다큐 제작기. 숱한 거절과 현실의 벽에 부딪히지만, 그 곁엔 무려 1,619명이 쌓아 올린 뜨거운 연대가 있었죠. 과연 이들의 진심은 지구 반 바퀴 너머의 메릴 스트립에게 닿았을까요? 우상을 좇다 마침내 가장 치열하고 눈부신 ‘우리’를 마주하게 된 10년의 짜릿한 생존기. 당신의 무기력한 일상마저 거침없이 뒤흔들, 세상에서 가장 벅찬 러브레터가 지금 스크린에 펼쳐집니다!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xzyIkjAsBFCdT4YQK1OcS5SKELX.jpg",
     "status": "saved"
   },
   {
@@ -487,6 +451,18 @@
     "isReRelease": false,
     "overview": "패랭이꽃 축제에서 연극의 주연을 맡게 된 사쿠라는 방학을 맞아 일본에 온 샤오랑, 메이린과 함께 축제 준비에 한창이다. 그러나 마을에서 이상한 일들이 벌어짐과 동시에 사쿠라 카드가 한장씩 없어지는 사건이 발생한다. 에리올은 봉인된 카드를 사쿠라 카드로 바꾸면 된다고 전해주지만, 봉인된 카드는 연극 직전 소학교를 습격하여 사쿠라 카드를 대량 빼앗아간다. 사쿠라가 슬립 카드로 맞서는 것도 허사로 돌아가고, 봉인된 카드는 다시 모습을 감추는데...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/ezYcCER756g37B4Y7kZKfr2flgc.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20265321",
+    "movieNm": "아름다운 초저녁달",
+    "openDt": "2026-11-18",
+    "genreNm": "로맨스,드라마",
+    "nationAlt": "일본",
+    "director": "타케무라 켄타로",
+    "isReRelease": false,
+    "overview": "외모와 지성을 겸비해 ′왕자′라 불리지만, 이성보다는 동성에게 ′멋진 남자′ 취급을 받는 현실에 복잡한 속내를 안고 살아가는 여고생 요이. 그녀의 앞에 또 다른 ′왕자′이자 화려한 존재감의 선배 코하쿠가 나타난다. 가벼워 보이는 인상과 달리 직진으로 마음을 전해오는 코하쿠의 애정 공세에 두 사람은 마침내 연애를 시작한다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/x0ILlcyCV4x5Zs7JgAysXchiPQI.jpg",
     "status": "saved"
   },
   {
