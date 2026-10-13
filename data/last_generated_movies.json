@@ -215,6 +215,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20240146",
+    "movieNm": "씽씽",
+    "openDt": "2026-10-21",
+    "genreNm": "드라마",
+    "nationAlt": "미국",
+    "director": "그레그 퀘다르",
+    "isReRelease": false,
+    "overview": "부당한 판결로 살인죄 혐의를 받고 '씽씽 교도소'에 수감된 '디바인 G' RTA 프로그램에 참여해 연극을 시작하고, 각본을 쓰며 그는 점차 새로운 삶의 의미를 찾아간다. 모든 것이 멈춰버린 그곳에서 더 나은 사람이 되고자 희망을 놓지 않는 사람들. 그러던 어느 날, 예상치 못한 동료의 죽음과 기다렸던 가석방 심사마저 어려움을 겪으며 또다시 좌절하게 되는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vGYMJS08GefWciLXSRpVJdWAdzs.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20266189",
     "movieNm": "여전히 찬란하게",
     "openDt": "2026-10-21",
@@ -260,6 +272,18 @@
     "isReRelease": false,
     "overview": "인터넷 방송 중 발생한 사망 사고로 나락에 떨어진 몰카 크루 ‘킬링타임’. 방송을 그만두고 자숙하던 ‘킬링타임’의 스트리머 ‘연우’는 ‘주원’의 제안으로 새로운 콘텐츠 촬영을 위해 폐병원을 찾는다. 하지만 촬영이 시작되자 정체불명의 존재가 크루들을 위협하고 더는 물러설 곳이 없던 크루들은 이제 반대로 생존을 위해 달려야 한다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/ijKaBymwMVvFDpxZy2hip6aQS0j.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264015",
+    "movieNm": "베러티",
+    "openDt": "2026-10-22",
+    "genreNm": "미스터리,스릴러",
+    "nationAlt": "미국",
+    "director": "마이클 쇼월터",
+    "isReRelease": false,
+    "overview": "어머니를 암으로 떠나보내고 생활고에 허덕이던 무명 소설가 로웬 애슐리에게 믿기 힘든 제안이 찾아온다. 베스트셀러 작가 베리티 크로포드의 남편 제레미가 사고로 집필을 이어갈 수 없게 된 아내를 대신해 인기 시리즈의 남은 세 권을 완성해 달라고 의뢰한 것. 자료를 정리하기 위해 크로포드 저택에 머물게 된 로웬은 침대에 누운 채 아무 반응도 없는 베리티의 서재에서 미완성 자전적 원고 하나를 발견한다. 그 안에는 한 여자의 소름 끼치는 고백과 입에 담기 어려운 비밀이 빼곡히 적혀 있다. 아무도 몰라야 할 글을 읽어버린 로웬은 점점 제레미에게 이끌리고, 저택 안에서 벌어지는 설명할 수 없는 일들과 함께 진실과 조작의 경계가 허물어지는 위험한 심리전에 갇혀가는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mot5NwdjpbQRaKxrQvcx1xCg0Yo.jpg",
     "status": "saved"
   },
   {
@@ -347,6 +371,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20266747",
+    "movieNm": "이성과 감성",
+    "openDt": "2026-10-28",
+    "genreNm": "드라마,로맨스",
+    "nationAlt": "영국,미국",
+    "director": "조지아 오클리",
+    "isReRelease": false,
+    "overview": "아버지의 죽음 후 평생을 살아온 저택을 떠나 새로운 곳에서 삶을 시작하게 된 ‘엘리너’와 ‘메리앤’. 언제나 신중하고 이성적으로 생각하는 언니 ‘엘리너’는 겸손하고 조용한 성격의 ‘에드워드’와, 감정이 이끄는 대로 솔직하게 표현하는 동생 ‘메리앤’은 자신의 취향과 열정을 이해해주는 ‘윌러비’와 사랑에 빠진다. 순탄할 줄만 알았던 두 자매의 사랑은 숨겨진 비밀이 드러나며 위기를 맞게 되고 이성과 감성 사이 두 자매는 서로 다른 선택을 하는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pWVWIaa1eVTKikijG0pyWi9Ulvb.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20266848",
     "movieNm": "장님 버드나무와 잠자는 여자",
     "openDt": "2026-10-28",
@@ -424,7 +460,7 @@
     "openDt": "2026-11-04",
     "genreNm": "공포",
     "nationAlt": "스페인,아르헨티나",
-    "director": "Cristian Bernard",
+    "director": "크리스천 버나드",
     "isReRelease": false,
     "overview": "두 아이와 함께 도심의 고급 아파트로 이사 온 싱글맘, 이사벨. 저렴한 월세에 행운이라 믿었던 새집에서의 첫날밤, 발밑에서 정체 모를 기괴한 진동과 소음이 들려오기 시작한다. 아래층에서 매일 밤 들려오는 비명과 수상쩍은 이웃들. 벽 너머의 기이한 속삭임이 깊어질수록 아이들은 뭔가에 사로잡히고 그녀는 패닉에 빠진다. 꿈에 그리던 안락한 보금자리가 마침내 악몽의 공간으로 변하기 시작한다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/fQTACeQLpFoMUqYitxY0DMzfQu9.jpg",
@@ -451,6 +487,30 @@
     "isReRelease": false,
     "overview": "패랭이꽃 축제에서 연극의 주연을 맡게 된 사쿠라는 방학을 맞아 일본에 온 샤오랑, 메이린과 함께 축제 준비에 한창이다. 그러나 마을에서 이상한 일들이 벌어짐과 동시에 사쿠라 카드가 한장씩 없어지는 사건이 발생한다. 에리올은 봉인된 카드를 사쿠라 카드로 바꾸면 된다고 전해주지만, 봉인된 카드는 연극 직전 소학교를 습격하여 사쿠라 카드를 대량 빼앗아간다. 사쿠라가 슬립 카드로 맞서는 것도 허사로 돌아가고, 봉인된 카드는 다시 모습을 감추는데...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/ezYcCER756g37B4Y7kZKfr2flgc.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264929",
+    "movieNm": "삼춘, 어디 감수광?",
+    "openDt": "2026-11-11",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "양윤호",
+    "isReRelease": false,
+    "overview": "몸이 불편한 제주어 가수 ‘정원’은 오늘도 보는 이 하나 없는 제주 오일장 무대에서 묵묵히 기타를 치고 버스킹을 한다. 그 곁에는 ‘정원’의 노래를 카메라에 담는 영화감독 ‘윤호’와 당찬 무명 배우 ‘미정’이 있다. 노래를 왜 부르는지, 영화는 왜 찍는지, 연기는 계속하는 게 맞는지 저마다 가지고 있는 예술의 의미에 대한 깊은 회의와 고민을 안고 서울로 향하는데. 심청이를 찾는 심봉사처럼 절박하게 찾으면 알 수 있을까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6eCdMDJeexrUV1P1KlwfCewyjFW.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20259725",
+    "movieNm": "후광",
+    "openDt": "2026-11-11",
+    "genreNm": "드라마",
+    "nationAlt": "한국",
+    "director": "노영완",
+    "isReRelease": false,
+    "overview": "영화 감독을 꿈꾸는 민준은 새벽마다 택배 기사를 하며 생계를 이어 간다. 그러나 오랜 시간 자리잡은 뿌리깊은 가정의 문제와 생계의 압박으로 그 꿈은 멀어져만 간다. 어느 날, 민준은 우연히 점성학자를 만나 그의 후광이 해외에 있다는 실낱 같은 희망을 듣게 된다. 삶의 굴레에 빠진 민준에게 드디어 희망이 찾아올까…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5NreycGve2WUa6lyDJJ8g00fgOi.jpg",
     "status": "saved"
   },
   {
