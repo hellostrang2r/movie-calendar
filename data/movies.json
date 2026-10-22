@@ -4377,6 +4377,42 @@
     "status": "saved"
   },
   {
+    "movieCd": "20265420",
+    "movieNm": "스크루지: 크리스마스 캐럴",
+    "openDt": "2026-11-11",
+    "genreNm": "판타지,코미디",
+    "nationAlt": "미국",
+    "director": "티 웨스트",
+    "isReRelease": false,
+    "overview": "영국의 대문호이자 세계인이 사랑하는 작가 찰스 디킨스의 소설 명작 ‘크리스마스 캐럴’을 원작으로 한 작품으로, 괴팍한 구두쇠 에비니저 스크루지가 크리스마스 이브에 세 유령을 만나며 삶의 두 번째 기회를 찾아 나서는 스릴 넘치는 고딕 판타지",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fwOcpBIhgH8pkR8PZMbn5297bKO.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20266589",
+    "movieNm": "프레셔",
+    "openDt": "2026-11-11",
+    "genreNm": "스릴러,역사,전쟁",
+    "nationAlt": "프랑스,영국",
+    "director": "앤소니 마라스",
+    "isReRelease": false,
+    "overview": "D-데이 전 72시간 동안, 자유 세계의 운명이 위태로운 가운데, 드와이트 D. 아이젠하워 장군과 제임스 스태그 대위는 역사상 가장 대규모이자 가장 위험한 해상 상륙 작전을 감행할 것인지, 아니면 전쟁에서 완전히 패배할 위험을 감수할 것인지라는 불가능한 선택의 기로에 서게 된다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/TDagKyMKPlTP9LKXfOF9sDhkTR.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20255110",
+    "movieNm": "호루몽",
+    "openDt": "2026-11-11",
+    "genreNm": "다큐멘터리",
+    "nationAlt": "한국",
+    "director": "이일하",
+    "isReRelease": false,
+    "overview": "2017년, 일본의 지상파 방송이 쏘아 올린 가짜 뉴스 한 발. 재일 코리안 3세 신숙옥은 순식간에 나라의 적이 됐다. 제지공장으로 팔려 온 할머니, 어디에도 뿌리내리지 못한 채 떠돌았던 어머니. 그리고 버려진 내장 ‘호루몽’을 씹어 삼키며 살아낸 사람들. 100년의 시간이 켜켜이 쌓여, 마침내 한 사람의 목소리로 터진다. 얌전히 당해주지 않은 반격이 시작된다. 550만 엔 배상 판결. 방송은 결국 폐지됐다. 끝까지 물러서지 않은 한 사람이 마침내 세상을 뒤흔든 순간. 그러나 신숙옥의 싸움은 아직 끝나지 않았다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7OYBlalfKxl80IhnlAfXzNbmxX9.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20259725",
     "movieNm": "후광",
     "openDt": "2026-11-11",
