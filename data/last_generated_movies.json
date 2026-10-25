@@ -1,41 +1,5 @@
 [
   {
-    "movieCd": "20267481",
-    "movieNm": "다크게임: 죽음의 생중계",
-    "openDt": "2026-10-22",
-    "genreNm": "공포,스릴러",
-    "nationAlt": "영국",
-    "director": "Howard J. Ford",
-    "isReRelease": false,
-    "overview": "집념 강한 형사 벤저민 제이컵스. 그는 다크웹에서 벌어지는 잔혹한 게임 쇼를 막기 위해 시간과의 싸움을 벌인다. 그곳에서 참가자로 붙잡힌 사람들은 사형 게임을 피하기 위해 목숨을 걸고 경쟁해야 한다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mOIAaYNfMnUVxiuEohQLmVs8vSo.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20267432",
-    "movieNm": "데스 매치",
-    "openDt": "2026-10-22",
-    "genreNm": "액션,스릴러",
-    "nationAlt": "미국",
-    "director": "로스 W. 클락슨",
-    "isReRelease": false,
-    "overview": "은퇴한 가라테 챔피언 '마이클 리버스'. 그는 가족의 품으로 돌아와 평범한 삶을 살고자 하지만 어린 딸이 정체불명의 거물 '론 홀'에게 납치되면서 모든 것이 무너진다. 딸을 구출하기 위해 동유럽의 잔혹한 지하 토너먼트 '쿠미테'에 뛰어든 '마이클'. 목숨을 건 혈전 속에서 그는 마침내 대회 뒤에 숨겨진 충격적인 진실과 맞닥뜨리게 되는데...",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zDkaJgsPoSqa2cMe2hW2HAfyWwO.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20264015",
-    "movieNm": "베러티",
-    "openDt": "2026-10-22",
-    "genreNm": "미스터리,스릴러",
-    "nationAlt": "미국",
-    "director": "마이클 쇼월터",
-    "isReRelease": false,
-    "overview": "어머니를 암으로 떠나보내고 생활고에 허덕이던 무명 소설가 로웬 애슐리에게 믿기 힘든 제안이 찾아온다. 베스트셀러 작가 베리티 크로포드의 남편 제레미가 사고로 집필을 이어갈 수 없게 된 아내를 대신해 인기 시리즈의 남은 세 권을 완성해 달라고 의뢰한 것. 자료를 정리하기 위해 크로포드 저택에 머물게 된 로웬은 침대에 누운 채 아무 반응도 없는 베리티의 서재에서 미완성 자전적 원고 하나를 발견한다. 그 안에는 한 여자의 소름 끼치는 고백과 입에 담기 어려운 비밀이 빼곡히 적혀 있다. 아무도 몰라야 할 글을 읽어버린 로웬은 점점 제레미에게 이끌리고, 저택 안에서 벌어지는 설명할 수 없는 일들과 함께 진실과 조작의 경계가 허물어지는 위험한 심리전에 갇혀가는데...",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mot5NwdjpbQRaKxrQvcx1xCg0Yo.jpg",
-    "status": "saved"
-  },
-  {
     "movieCd": "20265965",
     "movieNm": "7데이즈 7피플",
     "openDt": "2026-10-28",
@@ -57,18 +21,6 @@
     "isReRelease": false,
     "overview": "아름다운 바다와 하늘이 펼쳐진 세토 내해의 어느 섬. 섬으로 전학 온 카이와, 이 섬에서 자란 아키미. 두 사람은 모두 축복받지 못한 가정환경 속에서 마음의 응어리를 안고 살아왔고, 서로에게 유일한 버팀목이 되어 사랑에 빠진다. 꿈을 이루기 위해 도쿄로 향하는 카이와, 가족을 위해 섬에 남아 일하는 아키미. 그런 두 사람에게 무정하게도 수많은 ‘갈림길’이 들이닥친다. “나는 사랑하는 사람을 위해 내 인생을 망치고 싶어.” 15년에 걸친 길고 긴 사랑의 끝에, 두 사람이 내린 선택은 무엇일까.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/phTrle2mrBqjhsFMYrK9Uacu6cd.jpg",
-    "status": "saved"
-  },
-  {
-    "movieCd": "20267208",
-    "movieNm": "론 사무라이",
-    "openDt": "2026-10-28",
-    "genreNm": "판타지,액션",
-    "nationAlt": "미국",
-    "director": "Josh C. Waller",
-    "isReRelease": false,
-    "overview": "13세기, 알 수 없는 외딴 섬에 남겨진 사무라이. 그는 삶의 의지를 모두 잃고 명예로운 죽음만이 최선의 해결책이라 생각하며 살아간다. 하지만 그가 자결을 결심한 그 순간 섬의 주인인 식인 부족에게 잡히고 마는데… 그의 의지와는 반대로 어떻게든 살아남아야 한다는 원초적인 생존 본능이 깨어나기 시작했다.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2HfKZ9WFZD7k1TXRZ9uYrZreRRk.jpg",
     "status": "saved"
   },
   {
@@ -108,6 +60,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20267804",
+    "movieNm": "숀 더 쉽: 공포의 털보 괴물",
+    "openDt": "2026-10-28",
+    "genreNm": "애니메이션,SF,코미디",
+    "nationAlt": "프랑스",
+    "director": "Steve Cox,Matthew Walker",
+    "isReRelease": false,
+    "overview": "할로윈 농장에 후덜털 털보 괴물 등장! 그런데 이 괴물, 정체가 도대체 뭐야?! 할로윈을 앞둔 모시 바텀 농장, 숀과 친구들은 정성껏 기른 호박들이 멋진 호박등으로 바뀔 날을 손꼽아 기다리고 있다. 그러나 농부 아저씨의 실수로 농장이 쑥대밭이 되고 애지중지 키워온 호박이 모두 엉망이 되고, 숀은 비밀스러운 과학 실험을 통해 작은 호박씨를 단숨에 거대한 호박으로 키워내는 신기한 물약을 만들어 내는데 성공한다! 하지만 기쁨도 잠시, 숲에서 정체불명의 털보 괴물이 불쑥 나타나 온 마을은 공포에 휩싸이는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9ju4vGzFpenSDvbQVA86gdpaS8n.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20231795",
     "movieNm": "수능, 출제의 비밀",
     "openDt": "2026-10-28",
@@ -141,6 +105,18 @@
     "isReRelease": false,
     "overview": "성전환 이후 겨우 원하는 삶을 택하게 된 앨리스, 트랜지션은 여전히 이어진다고 말하는 에디. 순간의 변화가 아닌, 스스로를 끊임없이 마주하는 과정. 둘의 삶과 감각은 영화 속 영화의 구조 안에서 서로를 비추고 겹쳐진다. 트랜지션은 끝나지 않는다. 트랜지션은 시네마다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/aJVwpkUCwoc9Iph7E7racj62HPy.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20268151",
+    "movieNm": "요루시카 라이브 [도작]",
+    "openDt": "2026-10-28",
+    "genreNm": "음악",
+    "nationAlt": "일본",
+    "director": "Tetsuro Inagaki",
+    "isReRelease": false,
+    "overview": "작곡가 n-buna의 치밀한 리딩과 보컬 suis의 독보적인 음색이 만들어낸 또 하나의 세계. 2025년 10월, 일본을 뜨겁게 달군 YORUSHIKA LIVE TOUR 2025 “Plagiarism: Reprise”가 마침내 대형 스크린으로 찾아옵니다. 음악과 연주, 그리고 문학적 스토리텔링이 완벽하게 어우러진 이 특별한 콘셉추얼 라이브를 압도적인 5.1채널 사운드와 큰 스크린으로 만나보세요. 단순한 공연을 넘어 한 편의 영화이자 소설처럼 펼쳐지는 요루시카만의 독창적인 세계관. 온몸을 감싸는 강렬한 사운드와 함께 극장의 대형 스크린에서 그 생생한 감동을 직접 확인해보세요!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rixGhS0BF2UH6BPwpeK3wPxbPwe.jpg",
     "status": "saved"
   },
   {
@@ -204,6 +180,29 @@
     "status": "saved"
   },
   {
+    "movieCd": "20268089",
+    "movieNm": "사이버 프로토콜",
+    "openDt": "2026-10-30",
+    "genreNm": "SF",
+    "nationAlt": "미국",
+    "director": "Yuri Alves,Christopher Folkens,Daniel J. Pico",
+    "isReRelease": false,
+    "overview": "암호화폐와 암시장이 지배하는 디스토피아 로스앤젤레스. 천재 해커 그림은 인류의 진화를 이끌 신경 임플란트 ‘애큐먼’을 개발하기 위해 위험한 실험을 이어간다. 그러던 중 가족처럼 아끼던 아니타가 범죄 조직 랜드파의 조직원 비야에게 살해당한다. 복수를 결심한 그림과 사건의 진실을 쫓는 사이버수사대 형사 톰프슨. 두 사람의 추적이 이어지는 가운데, 그림은 마침내 인간의 한계를 넘어선다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aqBRYsIBcuxH20uivS1JcMf5oZN.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20267412",
+    "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+    "openDt": "2026-11-04",
+    "genreNm": "",
+    "nationAlt": "일본",
+    "director": "신보 아키유키",
+    "isReRelease": false,
+    "overview": "",
+    "status": "saved"
+  },
+  {
     "movieCd": "20243927",
     "movieNm": "낮과 밤은 서로에게",
     "openDt": "2026-11-04",
@@ -252,6 +251,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20236463",
+    "movieNm": "인생세탁소",
+    "openDt": "2026-11-04",
+    "genreNm": "드라마,판타지",
+    "nationAlt": "한국",
+    "director": "문숙희",
+    "isReRelease": false,
+    "overview": "도심 속 하군 해녀 옥희에게 어느 날 전 남편의 딸 은영이 찾아온다.  빚쟁이들에게 쫓기는 아들은 어린 손주를 남기고 사라지고, 옥희의 사고와 의붓 조카 준서의 등장으로 은영은 떠날 때를 놓치고 그들과 불편한 동거를 시작한다.  딸의 양육권을 되찾기 위해 돈이 절실한 은영은 아버지가 남긴 유일한 유산, 세탁소를 팔려 하지만 오랜 세월 세탁소를 지켜온 옥희와 갈등을 빚는다.  사라질 위기에 놓인 세탁소는 살아남아 가족의 진짜 유산이 될 수 있을까?",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4XrqTu2aKs8jW4lH1pG908XS2h2.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20266345",
     "movieNm": "잠들 수 없는 집",
     "openDt": "2026-11-04",
@@ -264,6 +275,18 @@
     "status": "saved"
   },
   {
+    "movieCd": "20267923",
+    "movieNm": "철권: 최후의 결투",
+    "openDt": "2026-11-04",
+    "genreNm": "액션",
+    "nationAlt": "독일",
+    "director": "Taim M. Adams",
+    "isReRelease": false,
+    "overview": "격투기 선수인 조는 아내 대신 마약 단속의 혐의를 뒤집어쓰고 4년 동안 교도소에 복역한다. 출소 후, 그는 전처가 자신의 아들을 낳았으며 마약 왕과 함께 새로운 삶을 시작했다는 사실을 알게 된다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lhMQuFT431bvHDBHVdZFQALBOsX.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20259894",
     "movieNm": "최종면접 ",
     "openDt": "2026-11-04",
@@ -273,6 +296,18 @@
     "isReRelease": false,
     "overview": "치열한 경쟁률을 뚫고 최종면접에 오른 6명의 지원자. 한 달간 팀 토론을 준비하며 전원 합격을 꿈꾸던 이들에게 제한시간 2시간 동안 단 1명의 합격자를 직접 뽑으라는 과제가 주어진다. 관찰 카메라의 압박 속에 합격자를 가려내기 위한 토론과 투표를 이어가던 중 그들은 각자의 이름이 적힌 의문의 봉투를 발견한다. 봉투가 열릴 때마다 진실을 알 수 없는 비밀들이 공개되고, 공정한 경쟁을 약속했던 최종면접은 걷잡을 수 없는 폭로전으로 치닫는데...",
     "posterUrl": "https://image.tmdb.org/t/p/w500/wImwvRmbR28hPNDmaj5W7zvxk0T.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20267697",
+    "movieNm": "명탐정 코난: 30호 살인 사건",
+    "openDt": "2026-11-05",
+    "genreNm": "애니메이션,액션,미스터리,범죄",
+    "nationAlt": "일본",
+    "director": "카마나카 노부하루",
+    "isReRelease": false,
+    "overview": "‘토토 타워’가 디자인된 1만 엔 신권 지폐가 발행되어 세상이 떠들썩한 가운데, 코난과 어린이 탐정단, 아가사 박사, 란과 소노코는 지폐 인쇄국 나가노 공장을 방문한다. 그 무렵, 경시청에서는 살인 사건 현장에서 발견된 신권 위조지폐로 인해 수사본부가 꾸려지고, 일본에서 발견된 30번째 위조지폐라는 점으로 인해 통칭 ‘30호 사건’으로 명명된다. 신권의 위조지폐 사건이 보도되면서 전국이 혼란해진 가운데 코난은 위조지폐가 인쇄된 것으로 추정되는 오사카의 지폐 인쇄국으로 향하고 거기서 헤이지가 수사에 합류한다. 그 외 시즈오카현과 가나가와현 등 각 지역에 위치한 지폐 인쇄국의 조사를 위해, 나가노현경의 야마토 칸스케, 모로후시 타카아키, 우에하라 유이 그리고 시즈오카현경의 요코미조 산고, 가나가와현경의 요코미조 쥬고 및 군마현경, 오사카부 경찰, 교토부 경찰까지 전국 경찰청에 이어 공안 후루야 레이, FBI 아카이 슈이치가 총출동해 국가적 위기에 맞선다!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8VIxElJnoGXJH4p3Av2BQwgcxpC.jpg",
     "status": "saved"
   },
   {
@@ -299,6 +334,30 @@
     "status": "saved"
   },
   {
+    "movieCd": "20236720",
+    "movieNm": "더 버스",
+    "openDt": "2026-11-11",
+    "genreNm": "코미디,범죄",
+    "nationAlt": "한국",
+    "director": "김태곤",
+    "isReRelease": false,
+    "overview": "살인 누명을 쓰고 10년의 세월을 감옥에서 보낸 남자 '진기'. 출소 후 찾아간 가족마저 그를 외면하고 모든 것을 잃은 그는 부산의 한 시내버스에 몸을 싣는다. 그러나 버스 안은 저마다의 이기심으로 가득한 승객들의 난장판. 끝없는 소란 속, 마침내 진기의 가방에서 권총이 모습을 드러내는데…",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ahTvEiZRqycyN7CqHE7dzPeXDXo.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20265535",
+    "movieNm": "드골: 저항의 시작",
+    "openDt": "2026-11-11",
+    "genreNm": "역사,드라마",
+    "nationAlt": "프랑스",
+    "director": "안토닌 보드리",
+    "isReRelease": false,
+    "overview": "2차 세계대전, 프랑스는 나치에게 항복한다. 모두가 끝났다고 말하던 그때, 런던으로 건너간 무명의 장군 ‘드골’이 마이크를 잡는다. “프랑스 저항의 불꽃은 꺼지지 않을 것이다” 나치 편에 선 프랑스의 원수 ‘페탱’은 그에게 사형을 선고하고, 동맹 영국의 총리 ‘윈스턴 처칠’은 그를 협상 카드로 쥐고 흔들며, 미국 백악관은 그를 상대조차 하지 않는다. 전선은 밀리고, 파리에서는 저항 자체가 범죄가 된다. 그러나 방송을 들은 사람들이 각자의 자리에서 답한다. 사막의 병사들, 섬 하나가 통째로 바다를 건넌 어부들, 개선문으로 걸어간 파리의 학생 수천 명. 의지할 곳 없는 싸움에 그들은 스스로 뛰어든다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jIQoQrDSoBtxmLsymBsmElJqHOL.jpg",
+    "status": "saved"
+  },
+  {
     "movieCd": "20267548",
     "movieNm": "마더 메리",
     "openDt": "2026-11-11",
@@ -308,6 +367,18 @@
     "isReRelease": false,
     "overview": "세계적인 팝스타 ‘마더 메리’의 컴백. 무대에 오르기 전 아무도 몰랐던 3일. 자신을 완성할 단 한 벌의 의상을 위해, 오래전 버렸던 친구이자 디자이너 ‘샘’을 찾아간다. 한 때 서로를 가장 믿었던 두 사람. 드레스가 완성될수록, 갈등과 상처도 함께 풀려가는듯 하지만 ‘마더 메리’의 비밀은 둘을 알 수 없는 곳으로 이끈다.",
     "posterUrl": "https://image.tmdb.org/t/p/w500/zwq8pn5B5L4ba0gD66ekUkvwE4Y.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20257381",
+    "movieNm": "마린 알솝",
+    "openDt": "2026-11-11",
+    "genreNm": "다큐멘터리,음악",
+    "nationAlt": "미국",
+    "director": "Bernadette Wegenstein",
+    "isReRelease": false,
+    "overview": "전설적인 음악가 레너드 번스타인의 애제자, 여성 최초 미국 메이저 오케스트라 지휘자, 맥아더 천재상을 받은 유일한 지휘자. 클래식 음악계의 유리천장을 깨고 수많은 ‘최초’를 써 내려가며 마침내 ‘최정상’에 오른 마에스트라 마린 알솝. 그녀의 집념이 없었다면 존재하지 않았을 이야기. 도전과 시련, 열정과 성취가 어우러진 한 편의 교향곡 같은 마린 알솝의 삶을 담은 다큐멘터리.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sSKOPHCAHVLaWsakQQpwJb5zNTK.jpg",
     "status": "saved"
   },
   {
@@ -332,6 +403,30 @@
     "isReRelease": false,
     "overview": "영국의 대문호이자 세계인이 사랑하는 작가 찰스 디킨스의 소설 명작 ‘크리스마스 캐럴’을 원작으로 한 작품으로, 괴팍한 구두쇠 에비니저 스크루지가 크리스마스 이브에 세 유령을 만나며 삶의 두 번째 기회를 찾아 나서는 스릴 넘치는 고딕 판타지",
     "posterUrl": "https://image.tmdb.org/t/p/w500/fwOcpBIhgH8pkR8PZMbn5297bKO.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "19998544",
+    "movieNm": "처녀 자살 소동",
+    "openDt": "2026-11-11",
+    "genreNm": "드라마,로맨스",
+    "nationAlt": "미국",
+    "director": "소피아 코폴라",
+    "isReRelease": false,
+    "overview": "1970년대 미국의 조용하고 보수적인 한 마을. 좀처럼 이웃 사람들과 어울리지 않는 리스본 가족의 아름다운 다섯 자매 중 한 명인 열세살 세실리아가 자살을 기도한다. 이 사건으로 비밀에 가득찬 리스본 일가의 실체가 나타나기 시작하는데...",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bxEuunUExRCGtDqTQguuZekFTwy.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20264957",
+    "movieNm": "폴2: 데드포인트",
+    "openDt": "2026-11-11",
+    "genreNm": "스릴러",
+    "nationAlt": "미국",
+    "director": "마이클 스피어리그",
+    "isReRelease": false,
+    "overview": "고도 제한 해제. 숨쉬기조차 힘든 해발 3,300m. 수십 년간 출입이 금지된 가장 위험한 산, '콴'. 한 번의 실수가 죽음으로 이어지는 곳. 이곳에선 비명마저 공중분해 된다.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/v62qy8mNmseNhhsB2SXfpnbu741.jpg",
     "status": "saved"
   },
   {
@@ -416,6 +511,18 @@
     "isReRelease": false,
     "overview": "무연고 탈북소녀 ‘이선화(18,여)’, 두만강을 건너며 생과 사의 경계를 넘어 남한에 도착했다. 하지만 동생의 사망 소식을 듣게 되고 망연자실해진다. 청처없이 떠돌던 중 동급생 주미의 가출 팸에 합류하게 되고, 새로운 가족으로 여기게 된다. 하지만 가출 팸이라는 불완전한 가족을 유지하기 위해 위험한 선택을 하게 되는데….",
     "posterUrl": "https://image.tmdb.org/t/p/w500/eLtXmwTZFSqFylDMnuUB8CPlKD1.jpg",
+    "status": "saved"
+  },
+  {
+    "movieCd": "20268219",
+    "movieNm": "라파엘",
+    "openDt": "2026-11-25",
+    "genreNm": "액션,SF,애니메이션",
+    "nationAlt": "한국",
+    "director": "양익준",
+    "isReRelease": false,
+    "overview": "2050년, 기후 재난과 전쟁으로 무너진 세계. 허가 없이 태어난 아이는 즉시 사살되는 폐쇄 구역 '델모르'. 노쇠한 독재자 알렉세이 총리는 자신의 젊은 시절을 본뜬 전투형 안드로이드를 만들어 반군 제거의 사령관으로 보낸다. 감정이 없어야 하는 전쟁 병기 '알렉세이', 감정 수치가 오르는 순간 그는 폐기된다. 그러나 미등록자 소녀 소피아와 마지막 천주교 신부 미카엘을 만난 뒤, 그는 잊고 있던 인간성과 구원에 대한 갈망에 눈뜬다. 명령과 생존 사이, 전장 한가운데에서 그는 선택해야 한다. 나를 위해 살 것인가, 누군가를 위해 죽을 것인가?!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1i4kFvsM9U7RsLXJCqwjRboEf2U.jpg",
     "status": "saved"
   },
   {
