@@ -34,5 +34,17 @@
     "overview": "",
     "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
     "status": "held"
+  },
+  {
+    "movieCd": "20268594",
+    "movieNm": "펭구와 친구들 : 얼음꽁꽁 어드벤처",
+    "openDt": "2026-11-25",
+    "genreNm": "",
+    "nationAlt": "터키",
+    "director": "정보 없음",
+    "isReRelease": false,
+    "overview": "",
+    "holdReason": "감독 정보 없음, 포스터 없음, 줄거리 없음, 장르 정보 없음",
+    "status": "held"
   }
 ]
